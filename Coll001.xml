@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<ead audience="external" relatedencoding="MARC21">
+      <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+         <recordid>Coll001</recordid>
+         <representation encodinganalog="856" href="http://aok.lib.umbc.edu/specoll/wagner/index.php" localtype="PHP">Finding Aid</representation>
+         <filedesc>
+            <titlestmt>
+               <titleproper encodinganalog="245$a">Philip M. Wagner papers</titleproper>
+               <author>Peri, Marcia</author>
+            </titlestmt>
+         </filedesc>
+         <maintenancestatus value="new"/>
+         <maintenanceagency countrycode="us">
+            <agencycode>mdubc</agencycode>
+            <agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+         </maintenanceagency>
+         <conventiondeclaration>
+            <abbr>DACS</abbr>
+            <citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+         </conventiondeclaration>
+         <localtypedeclaration>
+            <citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2012)</citation>
+            <descriptivenote>
+               <p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+            </descriptivenote>
+         </localtypedeclaration>
+         <maintenancehistory>
+            <maintenanceevent>
+               <eventtype value="derived"/>
+               <eventdatetime standarddatetime="2015-06-30T09:11:32.282-04:00"/>
+               <agenttype value="machine"/>
+               <agent>Computer</agent>
+               <eventdescription>Conversion from PastPerfect.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-06-30T09:19:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Somach, Emily</agent>
+               <eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+            </maintenanceevent>
+         </maintenancehistory>
+      </control>
+      <archdesc level="collection">
+         <did>
+            <unittitle encodinganalog="245$a">Philip M. Wagner papers</unittitle>
+            <unitid countrycode="us" repositorycode="mdubc">Coll001</unitid>
+            <origination>
+               <persname relator="creator" encodinganalog="100" source="lc">
+                  <part>Wagner</part><part>Philip M. (Philip Marshall)</part><part>1904-</part>
+               </persname>
+            </origination>
+            <unitdate unitdatetype="inclusive" encodinganalog="245$f">1839-1995</unitdate>
+            <unitdate unitdatetype="bulk" encodinganalog="245$g">bulk 1942-1989</unitdate>
+            <unitdatestructured unitdatetype="inclusive">
+               <daterange>
+                  <fromdate>1839</fromdate>
+                  <todate>1995</todate>
+               </daterange>
+            </unitdatestructured>
+            <physdesc encodinganalog="300$a$f">8 boxes (9.35 linear feet)</physdesc>
+            <physdescset>
+               <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+                  <quantity>8</quantity>
+                  <unittype>boxes</unittype>
+               </physdescstructured>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>9.35</quantity>
+                  <unittype>linear feet</unittype>
+               </physdescstructured>
+            </physdescset>
+            <abstract encodinganalog="520$a">Files documenting Philip Wagner's career as a freelance columnist, writer and editor for the Baltimore Sun and Baltimore Evening Sun, and founder of Boordy Vineyard. Includes correspondence, manuscripts, clippings, research files, case files, publications, diaries, notes and photos. Significant correspondents represented are: Alfred Knopf, H.L. Mencken, Knowles Ryerson, Knud Meister, Ann Duchene, Lord Winster.</abstract>
+            <langmaterial>
+               <language langcode="eng">eng</language>
+            </langmaterial>
+            <repository>
+               <corpname>
+                  <part>University of Maryland, Baltimore County</part>
+               </corpname>
+               <address>
+                  <addressline>Albin O. Kuhn Library and Gallery</addressline>
+                  <addressline>UMBC</addressline>
+                  <addressline>1000 Hilltop Circle</addressline>
+                  <addressline>Baltimore, MD 21250</addressline>
+                  <addressline>410-455-2353</addressline>
+                  <addressline>speccoll@umbc.edu</addressline>
+               </address>
+            </repository>
+         </did>
+         <bioghist encodinganalog="545">
+            <p>Philip M. Wagner was the editor for Baltimore Sun and Baltimore Evening Sun; syndicated columnist; founder of Boordy Vineyard; author of books on viticulture and H.L. Mencken.</p>
+         </bioghist>
+         <arrangement encodinganalog="351">
+            <p>Organized into three series: Series I. Personal, 1839-1994. Series II. Sun Papers, 1927-1995. Series III. Boordy Vineyard, 1933-1995.</p>
+         </arrangement>
+         <accessrestrict encodinganalog="506">
+            <p>No restrictions.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>Reproductions allowed for research purposes. UMBC is the copyright owner; permission to reproduce is required.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>Philip M. Wagner papers, Collection 1, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+         </prefercite>
+         <otherfindaid encodinganalog="555">
+            <p>Finding aid available.</p>
+         </otherfindaid>
+         <acqinfo>
+            <p>MSS 1997-01; The present collection was donated by Susan and Philip Wagner on January 23, 1997 and transferred from Philip Wagner's home in Riderwood, Maryland.</p>
+         </acqinfo>
+         <processinfo>
+            <p>The manuscripts were found in a somewhat disordered state and in generally fair condition. The collection had been previously sorted so that the original order was not entirely clear but there appeared to be disctinct divisions in the materials between those documents created during Wagner's work for the Sun and those resulting from either his work as a free lance writer or his founding and running of Boordy Vineyards. As such it seemed best to arrange them into threse three primary series. The collection was processed by Marcia Frank Peri December 1997.</p>
+         </processinfo>
+         <separatedmaterial encodinganalog="544">
+            <p>Philip Wagner papers, #6928. Division of Rare and Manuscript Collections, Cornell University Library.</p>
+         </separatedmaterial>
+         <controlaccess>
+            <persname relator="creator" encodinganalog="700" source="lc">
+               <part>Knopf</part><part>Alfred A.</part><part>1892-1984</part>
+            </persname>
+            <persname relator="creator" encodinganalog="700" source="lc">
+               <part>Mencken</part><part>H. L. (Henry Louis)</part><part>1880-1956</part>
+            </persname>
+            <persname relator="creator" encodinganalog="700" source="lc">
+               <part>Ryerson</part><part>Knowles Augustus</part><part>1892-1990</part>
+            </persname>
+            <persname relator="creator" encodinganalog="700" source="lc">
+               <part>Meister</part><part>Knud</part>
+            </persname>
+            <persname relator="creator" encodinganalog="700" source="local">
+               <part>Duchene</part><part>Ann</part>
+            </persname>
+            <persname relator="creator" encodinganalog="700" source="local">
+               <part>Winster</part><part>Lord</part>
+            </persname>
+            <corpname encodinganalog="610" source="lc">
+               <part>Boordy Vineyard</part>
+			</corpname>
+            <subject encodinganalog="600" source="lc">
+               <part>Wagner, Philip M. (Philip Marshall), 1904-</part><part>Archives</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Editorials</part><part>Maryland</part><part>Baltimore</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Viticulture</part><part>Maryland</part>
+            </subject>
+            <title encodinganalog="630" source="lc">
+               <part>Baltimore sun</part>
+            </title>
+         </controlaccess>
+      </archdesc>
+   </ead>
