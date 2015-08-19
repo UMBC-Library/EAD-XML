@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- ************************************************************************** -->
-<!-- XML Schema to translate PastPerfect exported XML files to XML-EAD3 format	-->
-<!-- Revision: 1.0																-->
-<!-- Created By: Emily Somach and Dmitri Rudnitsky 								-->
+<!-- XSLT to transform PastPerfect exported XML files to XML-EAD3 format	-->
+<!-- Revision: 1.0								-->
+<!-- Created By: Emily Somach and Dmitri Rudnitsky 				-->
 <!-- **************************************************************************	-->
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:output indent="yes"/>
