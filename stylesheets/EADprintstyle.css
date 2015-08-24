@@ -1,0 +1,46 @@
+/****************************************
+CSS for EAD-XML Print Preview/PDF Creation
+Created by: Emily Somach
+*****************************************/
+
+body {
+	font-family: "Droid Serif", "Times New Roman";
+	background: none;
+	color: black;
+	font-size: 14px;
+}
+#page {
+	width: 100%;
+	margin: 0; 
+	padding: 0;
+	background: none;
+}
+
+#firstbox, #secondbox, #header {
+	border: none;
+	min-width: 487px;
+	margin: 0;
+}
+
+#content-wrapper {
+	margin: 0;
+}
+
+#overviewtable tr td:FIRST-CHILD, #timeline tr td:FIRST-CHILD {
+	font-weight: bold;
+	text-align: right;
+	padding-right: 5px;
+	width: 200px;
+}
+
+#leftbar, #footer, #images, #header img {
+	display: none;
+}
+
+h1 {
+	font-size: 20px;
+}
+
+h2 {
+	font-size: 16px;
+}
