@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- ************************************************************************** -->
+<!-- XSLT stylesheet to transform EAD-XML to HTML for Web Display		-->
+<!-- Created By: Emily Somach							-->
+<!-- **************************************************************************	-->
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/TR/REC-html40">
 	<xsl:output method="html" media-type="text/html" indent="yes"/>
 	<!-- Main Template -->
