@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <!-- ************************************************************************** -->
-<!-- XSLT stylesheet to transform PastPerfect exported XML files to EAD3-XML	  -->
-<!-- Revision: 1.0																                              -->
-<!-- Created By: Emily Somach and Dmitri Rudnitsky 							                -->
+<!-- XSLT stylesheet to transform PastPerfect exported XML files to EAD3-XML	-->
+<!-- Revision: 1.0																-->
+<!-- Created By: Emily Somach and Dmitri Rudnitsky 								-->
 <!-- **************************************************************************	-->
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:output indent="yes"/>
 	<xsl:strip-space elements="*"/>
 	<!-- ******************************************************************************************	-->
-	<!-- Function Name: string-ninja													 	 		                                -->
-	<!-- Parameters:																		 	                                        	-->
-	<!-- 	list: receives a string of names/subjects								                          		 		-->
-	<!-- 	delimiter: receives the character/punctuation mark that splits the list 	          	 		-->
-	<!--	selector: receives a string used to determine the output of the function		 		          -->
-	<!-- Output:																			 	                                          	-->
-	<!-- 	1. For selectors "authorx" & "creator": creates block of <persname>/<corpname> tags		    --> 
-	<!--	with optional <part> tags inside. May require manual edits post-processing.			 	        -->
-	<!--	2. For selector "subjects": creates a block of nested <subject> tags with optional	    	--> 
-	<!--	<part> tags inside. May require manual edits post-processing.							                -->
+	<!-- Function Name: string-ninja													 	 		-->
+	<!-- Parameters:																		 		-->
+	<!-- 	list: receives a string of names/subjects										 		-->
+	<!-- 	delimiter: receives the character/punctuation mark that splits the list 		 		-->
+	<!--	selector: receives a string used to determine the output of the function		 		-->
+	<!-- Output:																			 		-->
+	<!-- 	1. For selectors "authorx" & "creator": creates block of <persname>/<corpname> tags		--> 
+	<!--	with optional <part> tags inside. May require manual edits post-processing.			 	-->
+	<!--	2. For selector "subjects": creates a block of nested <subject> tags with optional		--> 
+	<!--	<part> tags inside. May require manual edits post-processing.							-->
 	<!-- ******************************************************************************************	-->
 	<xsl:template name="string-ninja">
 		<xsl:param name="list"/>
@@ -52,7 +52,7 @@
 				<xsl:variable name="remaining" select="substring-after($newlist, $delimiter)"/>
 				<xsl:choose>
 					<!-- ==========================================================================================	-->
-					<!-- 							Start: If selector is 'creator'									                              -->
+					<!-- 							Start: If selector is 'creator'									-->
 					<!-- ==========================================================================================	-->
 					<xsl:when test="contains($selector, 'creator')">
 						<xsl:choose>
@@ -75,7 +75,7 @@
 						</xsl:choose>
 					</xsl:when>
 					<!-- ==========================================================================================	-->
-					<!-- 							Start: If selector is 'authorx'								                              	-->
+					<!-- 							Start: If selector is 'authorx'									-->
 					<!-- ==========================================================================================	-->
 					<xsl:when test="contains($selector, 'authorx')">
 						<xsl:choose>
@@ -98,7 +98,7 @@
 						</xsl:choose>
 					</xsl:when>
 					<!-- ==========================================================================================	-->
-					<!-- 								Start: If selector is 'subjects' 						                              	-->
+					<!-- 								Start: If selector is 'subjects' 							-->
 					<!-- ==========================================================================================	-->
 					<xsl:when test="contains($selector, 'subjects')">
 						<xsl:choose>
@@ -121,7 +121,7 @@
 						</xsl:choose>
 					</xsl:when>
 					<!-- ==========================================================================================	-->
-					<!-- 								Start: If selector is 'language' 					                              		-->
+					<!-- 								Start: If selector is 'language' 							-->
 					<!-- ==========================================================================================	-->
 					<xsl:when test="contains($selector, 'lang')">
 						<language>
@@ -143,7 +143,7 @@
 		</xsl:choose>
 	</xsl:template>			
 	<!-- *********************************************************************************** -->
-	<!-- 						Main template starts here								                              	 -->
+	<!-- 						Main template starts here									 -->
 	<!-- *********************************************************************************** -->
 	<xsl:template match="/">
 	<!-- Nest multiple ead elements inside a batch tag; aids batch processing -->
