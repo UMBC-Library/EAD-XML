@@ -1,0 +1,4587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<ead audience="external" relatedencoding="MARC21">
+      <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+         <recordid>Coll009</recordid>
+         <representation encodinganalog="856" href="http://aok.lib.umbc.edu/specoll/IUIS/index.php" localtype="PHP">Finding Aid</representation>
+		 <representation encodinganalog="856" href="http://contentdm.ad.umbc.edu/cdm/landingpage/collection/IUIS" localtype="PHP">Digital Collection</representation>
+         <filedesc>
+            <titlestmt>
+               <titleproper encodinganalog="245$a">International Union of Immunological Societies records</titleproper>
+               <author>Peri, Marcia</author>
+            </titlestmt>
+         </filedesc>
+         <maintenancestatus value="new"/>
+         <maintenanceagency countrycode="us">
+            <agencycode>mdubc</agencycode>
+            <agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+         </maintenanceagency>
+         <conventiondeclaration>
+            <abbr>DACS</abbr>
+            <citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+         </conventiondeclaration>
+         <localtypedeclaration>
+            <citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2012)</citation>
+            <descriptivenote>
+               <p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+            </descriptivenote>
+         </localtypedeclaration>
+         <maintenancehistory>
+            <maintenanceevent>
+               <eventtype value="derived"/>
+               <eventdatetime standarddatetime="2015-06-30T09:11:32.282-04:00"/>
+               <agenttype value="machine"/>
+               <agent>Computer</agent>
+               <eventdescription>Conversion from PastPerfect.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-07-14T11:33:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Somach, Emily</agent>
+               <eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-09-01T01:20:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Somach, Emily</agent>
+               <eventdescription>Manual additions and updates including: biographical note, scope and content note, arrangement lists, and container list.</eventdescription>
+            </maintenanceevent>
+         </maintenancehistory>
+      </control>
+      <archdesc level="collection">
+         <did>
+            <unittitle encodinganalog="245$a">International Union of Immunological Societies records</unittitle>
+            <unitid countrycode="us" repositorycode="mdubc">Coll009</unitid>
+            <origination>
+               <corpname relator="creator" encodinganalog="110" source="lc">
+                  <part>International Union of Immunological Societies</part>
+               </corpname>
+            </origination>
+            <unitdate unitdatetype="inclusive" encodinganalog="245$f">1966-2011</unitdate>
+            <unitdate unitdatetype="bulk" encodinganalog="245$g">bulk 1971-1997</unitdate>
+            <unitdatestructured unitdatetype="inclusive">
+               <daterange>
+                  <fromdate>1966</fromdate>
+                  <todate>2011</todate>
+               </daterange>
+            </unitdatestructured>
+            <physdesc encodinganalog="300$a$f">39 boxes (18.5 linear feet)</physdesc>
+            <physdescset>
+               <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+                  <quantity>39</quantity>
+                  <unittype>boxes</unittype>
+               </physdescstructured>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>18.5</quantity>
+                  <unittype>linear feet</unittype>
+               </physdescstructured>
+            </physdescset>
+            <abstract encodinganalog="520$a">Records document the history and development of the International Union of Immunological Societies (IUIS). The correspondence, council and general-assembly meeting minutes, agendas, reports, accounting, and membership files provide a clear view of the early growth of the Union. Extensive Committee files such as those for the Standardization Committee, the Nomenclature Committee, the Clinical Immunology Committee, the Veterinary Immunology Committee and others illustrate the interests and activities of the IUIS. In addition, there is significant documentation for the meetings of International Congress of Immunology, considered one of the most important functions of the organization.</abstract>
+            <langmaterial>
+               <language langcode="eng">eng</language>
+            </langmaterial>
+            <repository>
+               <corpname>
+                  <part>University of Maryland, Baltimore County</part>
+               </corpname>
+               <address>
+                  <addressline>Albin O. Kuhn Library and Gallery</addressline>
+                  <addressline>UMBC</addressline>
+                  <addressline>1000 Hilltop Circle</addressline>
+                  <addressline>Baltimore, MD 21250</addressline>
+                  <addressline>410-455-2353</addressline>
+                  <addressline>speccoll@umbc.edu</addressline>
+               </address>
+            </repository>
+         </did>
+		 <scopecontent>
+			<p>This collection of records of the International Union of Immunological Societies 1966 – 2011 documents the origins of the Union, its growth in membership and committees and the developments in the International Congress of Immunology. These records have been organized into five series: Officers and Council, Membership, Meetings, Committees, and Affiliated Organizations. </p>
+			<p>The first series, Officers and Council, contains the correspondence and reports of the president, vice-president, secretary-general and treasurer, the minutes, agendas, reports, and correspondence of the meetings of council, the organization’s financial records and some miscellaneous administrative files and photos. There is a complete run of correspondence for the President from 1971, the date of the beginning of the Union through 2001 and a nearly complete run of Treasurer’s correspondence. The correspondence files for the Vice-President and Secretary-General are considerably more sporadic. Of particular interest are some of the early correspondences dating as early as 1966 detailing the discussions leading up to the founding of IUIS, decisions pertaining to the choice of name, issues relating to the proposed constitution and the organization of the first IUIS Committees, Standardization and Nomenclature. Also of note is a compact disc from 2004 containing the electronic files of the Secretary General Anne Kelso, which includes files regarding archives, the assembly, committees, 2007 International Congress planning, the IUIS council, database, email correspondence, federations, finances, ICSU, IUIS central office, IUIS handbook, letters, materials for the website, membership applications, and WHO documents ranging in dates from 1999 to 2004. </p>
+			<p>This series also contains the minutes of all the council meetings beginning with the 1970 meeting and continuing up to 2011. Agendas, reports, correspondence and other materials connected with these meetings are, however, only available from 1979 - 1997. A large selection of the meeting minutes are available through UMBC's Digital Collections.</p>
+			<p>There are a small number of President’s reports and very few reports of the Secretary-General but there is a reasonably good run of Treasurer’s reports. There is one copy of the 1st International Congress budget for 1971 and another financial report for 1973 after which there is a fairly good run of treasurer’s reports for the years 1980 – 1995. </p>
+			<p>The accounting records available in this collection are practically non-existent for the first ten years of the organization. There is a pair of handwritten ledgers for the year 1972 and then nothing until 1982. Records from 1982 forward include banking and investment information, files pertaining to income and expenditures including invoices, receipts, budgets, and audits, and files concerning the expenses of specific committees. </p>
+			<p>The second series, Membership, comprises the bulk of the records that relate to dues, subscription, member societies and regional federations. There are an extensive number of invoices, receipts, and correspondences pertaining to member payments, as well as correspondence files that provide information about the relationship of IUIS with immunological societies and regional federations throughout the world. These together with printed membership directories show the growth of the Union over time. </p>
+			<p>Series three, Meetings, primarily holds documents relating to the International Congresses on Immunology but also include some records for the IUIS Conference on Clinical Immunology, and the International Immunopathological Symposium. The files include the minutes of the General Assembly, as well as agendas, reports and budgets, programs and correspondence. There are also a significant number of files relating to the planning and arrangements for the congresses. These include schedules, contracts, proposals, brochures, budgets, ephemera correspondence, memos, and management agreements. </p>
+			<p>The files in the fourth series, Committees, are the records of the actions of eight IUIS committees. Some of the committees have retained very few documents while others such as the Clinical Immunology Committee, the Nomenclature Committee, the Standardization Committee and the Symposia Committee have records spanning most of the time they have been functioning. Of the IUIS committees the Veterinary Immunology Committee has maintained most extensive record of their work. Committee files include some or all of the following: correspondence, memos, minutes, agendas, proposals, budgets, reports, articles, programs, and a questionnaire. Of some interest are the correspondences and reports of the Clinical Immunology Committee that predate its organization. They provide a view into the concerns that lead up to its formation. </p>
+			<p>The last series is Affiliate Organizations. These records pertain to organizations that have some type of formal working relationship with IUIS. For most of the represented organizations there is very little material present but the records do include some correspondence, memos, reports, and a charter. On the other hand, there is quite a substantial amount of documents for the International Council of Scientific Union (ICSU). These files contain correspondence, audited accounts, dues and exchange rate information, grants, reports, and newsletters.</p>
+		 </scopecontent>
+         <bioghist encodinganalog="545">
+            <p>In the early 1960’s it became clear to many investigators, who thought of themselves as immunologists, that they needed an international network that would both promote interaction between immunologists and present their aspirations and needs to international and national institutions. At the time national societies had long existed in the United States and Great Britain, but such societies had just recently been founded in Canada, Israel, Switzerland, France, and Australia and others were on the point of formation. As the result of informal consultation among immunologists, the International Union of Immunological Societies (IUIS), an umbrella organization for regional and national societies of immunology throughout the world, was officially founded in Brugge (Belgium) on May 5, 1969 by the representatives of ten Societies (American Association of Immunologists, British Society for Immunology, Canadian Society for Immunology, Dutch Society for Immunology, Gesellschaft fur Immunologie, Israel Immunological Society, Polish Society of Immunology, Scandinavian Society for Immunology, Societe Francaise d’immunologie, Yugoslav Immunological Society). The representatives of the Australian Society for Immunology and the Swiss Society of Allergy and Immunology were unable to attend but the societies expressed their support and were later accepted as founding members.</p>
+			<p>At this first meeting of the Council, officers were elected, a committee structure was established, and steps were taken to write a constitution. Additional Council meetings were held on September 2, 1970 in Merlingen, Switzerland, on February 23, 1971 in London, England, and on July 30, 1971 in Washington D.C. The IUIS Constitution prepared by the Council was formally approved by the 1st General Assembly of IUIS. (The Constitution was revised and adopted by the General Assembly in 1995.) The objectives articulated in the Constitution were: to organize international cooperation in immunology and to promote communication between the various branches of immunology and allied subjects; to encourage co-operation between independent Societies that represent the interests of immunology; and to contribute to the advancement of immunology in all its aspects. </p>
+			<p>The General Assembly also elected the first official slate of IUIS officers and a new Council who would serve for the period 1971 – 1974, in accordance with the rules of the IUIS Constitution. These rules stated that new officers and members were to be elected at the triennial General Assembly. As a result of this election Bernard Cinader became the first President, John Humphrey Vice – President, Alain de Weck Secretary – General, and Peter Miescher Treasurer. </p>
+			<p>The first and most important decision of the new IUIS involved the creation of the International Congress of Immunology. The need to create international congresses that would allow immunologists of many different sub disciplines to present their particular point of view to colleagues in other sub-disciplines had long been apparent and it was unanimously decided that an International meeting, covering the many different areas of contemporary immunology should be organized. The organizationof the first International Congress of Immunology was entrusted to the American Association of Immunologists, founded in 1913, the oldest national immunological society, and was held on August 1-6,1971 in Washington DC. More than 3400 scientists representing 45 countries came to participate in fifteen symposia and eighty-four workshops encompassing most aspects of modern immunology. The second International Congress was held in Brighton, England on July 21 – 26, 1974 and was attended by approximately 4500 scientists who participated in twenty-five Symposia and one hundred sixty-three Workshops. Subsequent congresses have been held every three years under the auspices of IUIS. </p>
+			<p>The establishment of committees was a key factor in the initial development of IUIS. In the first year Committees on Standardization, Nomenclature, Education and Symposia were organized. Two of these, Standardization and Nomenclature were already operating by the time of the First International Congress. Shortly thereafter, in 1973, the Clinical Immunology Committee was formed. These five committees remained as the major focus of IUIS activities until the early 1980’s. In 1980, the Veterinary Immunology Committee was added, followed quickly by the establishment of the Publications Committee in 1981. </p>
+			<p>An important objective for IUIS was to interact with international scientific organizations such as the World Health Organization (WHO) and the International Council of Scientific Unions (ICSU). Immunology had become a separate section of WHO in 1963 and from its beginnings IUIS maintained an intimate, cooperative relationship with all aspects of WHO immunological activities. From the outset they participated in joint committees in the areas of nomenclature and standardization. Then, in 1976, the IUIS was accepted as a member of the International Council of Scientific Unions. </p>
+			<p>The Immunologist, the official journal of IUIS, published it’s first issue in 1993. The journal publishes articles and reviews in basic and clinical immunology and provides a forum for discussing issues of importance for the discipline of immunology. </p>
+			<p>In the year 2012 there were 65 member societies of IUIS, many of which belong to one of four Regional Federations. </p>
+         </bioghist>
+         <arrangement encodinganalog="351">
+            <p>Organized into five series: Series I. Officers and Council, 1966-2011. Series II. Membership, 1971-2001. Series III. Meetings, 1970-2010. Series IV. Committees, 1967-2000. Series V. Affiliated Societies, 1972-2000.</p>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series I. Officers and Council</head>
+				<item>Correspondence</item>
+				<item>Council Meetings</item>
+				<item>Reports</item>
+				<item>Miscellany</item>
+				<item>Accounting</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series II. Membership</head>
+				<item>Member Payments</item>
+				<item>Member Societies and Regional Federations</item>
+				<item>Directories</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series III. Meetings</head>
+				<item></item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series IV. Committees</head>
+				<item>Organization</item>
+				<item>Clinical Immunology</item>
+				<item>Commission for Europe</item>
+				<item>Education</item>
+				<item>Nomenclature</item>
+				<item>Publication</item>
+				<item>Standardization</item>
+				<item>Symposia</item>
+				<item>Veterinary Immunology</item>
+				</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series V. Affiliated Organizations</head>
+				<item>European Federation of Immunological Societies (EFIS)</item>
+				<item>International Training &amp; Research Center (ITR)</item>
+				<item>World Health Organization (WHO)</item>
+				<item>International Council of Scientific Unions (ICSU)</item>
+				<item>Miscellaneous Organizations</item>
+			</list>
+			</arrangement>
+         <accessrestrict encodinganalog="506">
+            <p>No restrictions.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>Reproductions allowed for research purposes. Copyright maintained by the creator.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>International Union of Immunological Societies records, Center for Biological Sciences Archives, Collection 9, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+         </prefercite>
+         <otherfindaid encodinganalog="555">
+            <p>Finding aid available.</p>
+         </otherfindaid>
+         <acqinfo>
+            <p>This collection came to the archives in fourteen different accessions: MSS 95-02 donated by Alain De Weck of the Inselspital Institut fur Immunlolgie umd Allergologie. Bern, Switzerland on April 19, 1995. MSS 95-10 donated by Gustof Nossal of the Walter and Eliza Hall Institute of Medical Research, The Royal Melbourne Hospital. Victoria, Australia on July 17, 1995. MSS 95-14 donated by Richard G. Miller of University of Toronto department of Medical Biophysics. Toronto, Ontario, Canada on September 18, 1995. MSS 96-09 donated by Bernard Charley of the Virologie et Immunologie Moleculaires, INRA. Jouy en Josas, France on April 2, 1996. MSS 96-10 donated by Michael Sela of the Department of Immunology, Weizman Institute of Science, Israel on April 25, 1996. MSS 99-01 donated by Bernard Charley of the Virologie et Immunologie Moleculaires, INRA. Jouy en Josas, France on January 11, 1999 SARCV 99-05 donated by Keith James of the Lester Research Labs., University Department of Surgery, Royal Infirmary. Edinburgh, Scotland on May 20, 1999. SARCV 99-07 donated by Henry Metzger of NIAMS, NIH. Bethesda, Maryland on August 20, 1999. SARCV 2000-06 donated by P. Nieuwenhuis of the Histology dept. University of Groningen. Gironingen, Netherlands on May 30, 2000. SARCV 2004-06 donated by the International Union of Immunological Societies on September 28, 2004. SARCV 2005-02 donated by the International Union of Immunological Societies on April 11, 2004. SARCV 2005-04 donated by the International Union of Immunological Societies on June 1, 2005. SARCV 2011-02 donated by Gerlinde Jahn of the Vienna Medical Academy. SARCV 2011-03 donated by Masayuki Miyasaka of Osaka University Graduate School of Medicine.</p>
+         </acqinfo>
+         <processinfo>
+            <p>This collection was processed under the supervision of Marcia Frank Peri and completed in March 2001. Additional minutes were added to the collection in March 2011 by Graduate Assistant Colleen Walter. Three additional accessions were processed and incorporated into the existing collection by Elizabeth Pente, Special Collections intern, under the supervision of Lindsey Loeper, Special Collections Archivist in the Spring of 2012.</p>
+			<p>This collection of the records of IUIS arrived over a period of sixteen years in fourteen separate accessions each of which had been inventoried reboxed, and refoldered maintaining its original order. At the time of processing it was determined that the best approach would be to organize them together as a single collection. The arrangement of documents was determined by the original order of the largest aggregate of materials, with adjustments being made when similar materials, with slightly different arrangements, overlapped. Therefore, for example, the correspondence from each accession was arranged together in date order by year and then by sub-divided by officer; even though some of the correspondence came in arranged by officer, because the bulk of the documents had that as their original order. Similarly, with the financial and accounting documents, the arrangement was based on the incoming order most commonly used.</p>
+			<p>In the Spring of 2010, the Council meeting minutes were scanned and made available for online viewing through UMBC's Digital Collections (CONTENTdm). The minutes were scanned for access only by Michael Dick, Circulation, and metadata creation was completed by Sujata Sharma and Amelia Jennings, Special Collections student assistants, under the supervision of Lindsey Loeper, Special Collections Archivist. In Summer 2011, born digital minutes from 1998-2011 were sent to Special Collections and added to the digital collection; metadata creation was completed by Molly Bradtke, Special Collections student assistant, under the supervision of Lindsey Loeper, Special Collections Archivist.</p>
+			<p>In the Spring of 2012, a backlog of three accessions received in 2004 and 2005 were processed and incorporated into the existing collection by Elizabeth Pente, Special Collections intern, under the supervision of Lindsey Loeper, Special Collections Archivist. These accessions were inventoried, rehoused, and refoldered maintaining its original order. Three bound volumes of free papers presented at the 12th International Congress titled Immunology 2004 Genomic Issues, Immune System Activation and Allergy; Immunology 2004 Immunodeficiency, Infectious Diseases, Immunomodulation and Vaccines; and Immunology 2004 Autoimmunity, Genetic and Degenerative Disorders, Malignancies, and Transplantation were removed for cataloging.</p>
+			<p>Multiple copies have been disposed whenever there were more than two copies of a given document, as have old checks and checkbooks.</p>
+			<p>Related Materials: Records of the American Association of Immunologists, the American Type Culture Collection, and the American Society for Cell Biology, the Society for Developmental Biology, the American Society for Microbiology, American Society for Biochemistry &amp; Molecular Biology.</p>
+         </processinfo>
+         <controlaccess>
+            <subject encodinganalog="650" source="lc">
+               <part>Immunology</part><part>Societies, etc.</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>IUIS</part><part>Archives</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Yugoslav Immunological Society</part><part>Archives</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Yugoslav War, 1991-1995</part><part>Social aspects</part>
+            </subject>
+            <corpname encodinganalog="610" source="lc">
+               <part>Yugoslav Immunological Society</part>
+            </corpname>
+         </controlaccess>
+		 <dsc>
+			 <c01 level="series">
+			<did>
+				<unittitle>Series I. Officers &amp; Council</unittitle>
+				<unitdate>1966-2011; 1971-1997 bulk</unitdate>
+				<physdesc>23 boxes (9.5 linear feet)</physdesc>
+			</did>
+			<scopecontent>
+				<p>The correspondence, minutes, agendas, reports, and financial records of the society officers and council meetings are arranged into five subseries by activity.</p>
+			</scopecontent>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries I.A. Correspondence</unittitle>
+					<unitdate>1966-2001</unitdate>
+					<physdesc>10 boxes (4 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence files are arranged in date order and then subsequently in alphabetical order by office.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">1</container>
+						<unittitle>1966 – 1969 (Jan - July)</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/887">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">2</container>
+						<unittitle>1969 (Aug – Dec)</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/1228">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">3</container>
+						<unittitle>1970 (Jan – March)</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/1340">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">4</container>
+						<unittitle>1970 (April – May)</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/1127">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">5</container>
+						<unittitle>1970 (June – Aug)</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/962">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">6</container>
+						<unittitle>1970 (Sept – Dec)</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/796">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">7</container>
+						<unittitle>1971 Council</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/621">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">8</container>
+						<unittitle>1971 President</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/735">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">9</container>
+						<unittitle>1971 Secretary – General</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/1042">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">10</container>
+						<unittitle>1971 Secretary – General (2nd International Congress – Planning)</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/677">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">1</container>
+						<unittitle>1972 Council</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">2</container>
+						<unittitle>1972 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">3</container>
+						<unittitle>1972 Secretary – General (2nd International Congress – Planning)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">4</container>
+						<unittitle>1973 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">5</container>
+						<unittitle>1973 Secretary – General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">6</container>
+						<unittitle>1974 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">7</container>
+						<unittitle>1974 Secretary – General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">8</container>
+						<unittitle>1977 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">9</container>
+						<unittitle>1977 Secretary – General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">10</container>
+						<unittitle>1977 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">11</container>
+						<unittitle>1978 Council</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">12</container>
+						<unittitle>1978 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">13</container>
+						<unittitle>1978 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">1</container>
+						<unittitle>1979 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">2</container>
+						<unittitle>1979 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">3</container>
+						<unittitle>1980 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">4</container>
+						<unittitle>1980 Secretary – General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">5</container>
+						<unittitle>1980 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">6</container>
+						<unittitle>1981 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">7</container>
+						<unittitle>1981 Secretary – General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">8</container>
+						<unittitle>1981 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">9</container>
+						<unittitle>1982 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">10</container>
+						<unittitle>1982 Secretary – General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">11</container>
+						<unittitle>1982 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">12</container>
+						<unittitle>1983 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">13</container>
+						<unittitle>1983 Secretary – General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">14</container>
+						<unittitle>1983 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">15</container>
+						<unittitle>1983 Vice - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">1</container>
+						<unittitle>1984 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">2</container>
+						<unittitle>1984 Vice - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">3</container>
+						<unittitle>1985 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">4</container>
+						<unittitle>1985 (Jan – June) Vice – President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">5</container>
+						<unittitle>1985 (July – Sept) Vice – President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">6</container>
+						<unittitle>1985 (Sept – Dec) Vice – President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">7</container>
+						<unittitle>1986 (Jan – June) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">8</container>
+						<unittitle>1986 (July – Aug) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">1</container>
+						<unittitle>1986 (Aug – Dec) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">2</container>
+						<unittitle>1986 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">3</container>
+						<unittitle>1987 (Jan – April) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">4</container>
+						<unittitle>1987 (May – June) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">5</container>
+						<unittitle>1987 (July – Dec) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">6</container>
+						<unittitle>1987 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">7</container>
+						<unittitle>1988 (Jan – June) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">8</container>
+						<unittitle>1988 (July – Sept) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">6</container>
+						<container localtype="folder">1</container>
+						<unittitle>1988 (Oct – Dec) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">6</container>
+						<container localtype="folder">2</container>
+						<unittitle>1988 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">6</container>
+						<container localtype="folder">3</container>
+						<unittitle>1989 (Jan – May) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">6</container>
+						<container localtype="folder">4</container>
+						<unittitle>1989 (June – Oct) President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">6</container>
+						<container localtype="folder">5</container>
+						<unittitle>1989 Secretary – General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">6</container>
+						<container localtype="folder">6</container>
+						<unittitle>1989 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">6</container>
+						<container localtype="folder">7</container>
+						<unittitle>1990 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">6</container>
+						<container localtype="folder">8</container>
+						<unittitle>1990 Past - President (Nossal)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">6</container>
+						<container localtype="folder">9</container>
+						<unittitle>1990 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">7</container>
+						<container localtype="folder">1</container>
+						<unittitle>1990 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">7</container>
+						<container localtype="folder">2</container>
+						<unittitle>1990 Vice – President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">7</container>
+						<container localtype="folder">3</container>
+						<unittitle>1991 Past – President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">7</container>
+						<container localtype="folder">4</container>
+						<unittitle>1991 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">7</container>
+						<container localtype="folder">5</container>
+						<unittitle>1991 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">7</container>
+						<container localtype="folder">6</container>
+						<unittitle>1991 Vice - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">7</container>
+						<container localtype="folder">7</container>
+						<unittitle>1992 Council</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">7</container>
+						<container localtype="folder">8</container>
+						<unittitle>1992 Past - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">7</container>
+						<container localtype="folder">9</container>
+						<unittitle>1992 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">7</container>
+						<container localtype="folder">10</container>
+						<unittitle>1992 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<container localtype="folder">1</container>
+						<unittitle>1992 (Jan – June) Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<container localtype="folder">2</container>
+						<unittitle>1992 (July – Dec) Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<container localtype="folder">3</container>
+						<unittitle>1993 Council</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<container localtype="folder">4</container>
+						<unittitle>1993 Past – President &amp; Editor in Chief of “The Immunologist”</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<container localtype="folder">5</container>
+						<unittitle>1993 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<container localtype="folder">6</container>
+						<unittitle>1993 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<container localtype="folder">7</container>
+						<unittitle>1993 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<container localtype="folder">8</container>
+						<unittitle>1994 Past – President &amp; Editor in Chief of “The Immunologist”</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<container localtype="folder">9</container>
+						<unittitle>1994 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<container localtype="folder">10</container>
+						<unittitle>1994 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">1</container>
+						<unittitle>1994 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">2</container>
+						<unittitle>1994 Vice - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">3</container>
+						<unittitle>1995 Council</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">4</container>
+						<unittitle>1995 Past - President &amp; Editor in Chief of "The Immunologist"</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">5</container>
+						<unittitle>1995 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">6</container>
+						<unittitle>1995 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">7</container>
+						<unittitle>1995 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">8</container>
+						<unittitle>1995 Vice - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">9</container>
+						<unittitle>1996 Past - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">10</container>
+						<unittitle>1996 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">11</container>
+						<unittitle>1996 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">12</container>
+						<unittitle>1996 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">13</container>
+						<unittitle>1996 Vice - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">9</container>
+						<container localtype="folder">14</container>
+						<unittitle>1997 Past - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">1</container>
+						<unittitle>1997 Past - President &amp; Editor in Chief of "The Immunologist"</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">2</container>
+						<unittitle>1997 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">3</container>
+						<unittitle>1997 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">4</container>
+						<unittitle>1997 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">5</container>
+						<unittitle>1998 Past - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">6</container>
+						<unittitle>1998 Past - President &amp; Editor in Chief of "The Immunologist"</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">7</container>
+						<unittitle>1998 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">8</container>
+						<unittitle>1998 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">9</container>
+						<unittitle>1998 Treasurer</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">10</container>
+						<unittitle>1999 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">11</container>
+						<unittitle>1999 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">12</container>
+						<unittitle>2000 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">13</container>
+						<unittitle>2000 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">14</container>
+						<unittitle>2001 Past - President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">15</container>
+						<unittitle>2001 Past - Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">16</container>
+						<unittitle>2001 President</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">17</container>
+						<unittitle>2001 Secretary-General</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">10</container>
+						<container localtype="folder">18</container>
+						<unittitle>2004 Secretary-General Electronic Files</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries I.B. Countil Meetings</unittitle>
+					<unitdate>1970-2010</unitdate>
+					<physdesc>4.5 boxes (2 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Meeting minutes, agendas, reports and correspondence arranged by meeting date and then by document type.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">1</container>
+						<unittitle>1970 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,0">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">2</container>
+						<unittitle>1971 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,19">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">3</container>
+						<unittitle>1972 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,45">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">4</container>
+						<unittitle>1973 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,61">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">5</container>
+						<unittitle>1974 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,76">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">5</container>
+						<unittitle>1974 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,85">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">6</container>
+						<unittitle>1975 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,108">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">7</container>
+						<unittitle>1976 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,124">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">8</container>
+						<unittitle>1977 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,96">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">8</container>
+						<unittitle>1977 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,103">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">9</container>
+						<unittitle>1978 Minutes (Digital file available)</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,142">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">10</container>
+						<unittitle>1979 Correspondence</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">11</container>
+						<unittitle>1979 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,159">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">12</container>
+						<unittitle>1979 Reports, Agendas, &amp; Misc</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">13</container>
+						<unittitle>1980 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,178">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">14</container>
+						<unittitle>1981 Correspondence</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">15</container>
+						<unittitle>1981 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,189">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">11</container>
+						<container localtype="folder">16</container>
+						<unittitle>1981 Reports, Agendas, &amp; Misc</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">12</container>
+						<container localtype="folder">1</container>
+						<unittitle>1982 Correspondence</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">12</container>
+						<container localtype="folder">2</container>
+						<unittitle>1982 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,202">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">12</container>
+						<container localtype="folder">3</container>
+						<unittitle>1982 Reports, Agendas, &amp; Misc</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">12</container>
+						<container localtype="folder">4</container>
+						<unittitle>1983 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,212">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">12</container>
+						<container localtype="folder">5</container>
+						<unittitle>1984 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,36">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">12</container>
+						<container localtype="folder">6</container>
+						<unittitle>1984 Reports, Agendas, &amp; Misc</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">12</container>
+						<container localtype="folder">7</container>
+						<unittitle>1985 Correspondence</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">12</container>
+						<container localtype="folder">8</container>
+						<unittitle>1985 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,223">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">12</container>
+						<container localtype="folder">9</container>
+						<unittitle>1985 Reports, Agendas, &amp; Misc.</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">12</container>
+						<container localtype="folder">10</container>
+						<unittitle>1986 Correspondence</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">1</container>
+						<unittitle>1986 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,404">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">2</container>
+						<unittitle>1986 Reports, Agendas, &amp; Misc.</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">3</container>
+						<unittitle>1987 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,241">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">4</container>
+						<unittitle>1987 Reports, Agendas, &amp; Misc</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">5</container>
+						<unittitle>1988 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,255">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">6</container>
+						<unittitle>1988 Reports, Agendas, &amp; Misc</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">7</container>
+						<unittitle>1989 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,269">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">8</container>
+						<unittitle>1989 Reports, Agendas, &amp; Misc</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">9</container>
+						<unittitle>1990 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,276">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">10</container>
+						<unittitle>1990 Reports, Agendas, &amp; Misc</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">11</container>
+						<unittitle>1991 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,286">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">12</container>
+						<unittitle>1991 Reports, Agendas, &amp; Misc</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">13</container>
+						<unittitle>1992 Correspondence</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">14</container>
+						<unittitle>1992 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,296">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">13</container>
+						<container localtype="folder">14</container>
+						<unittitle>1992 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,306">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">1</container>
+						<unittitle>1992 Reports, Agendas, &amp; Misc</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">2</container>
+						<unittitle>1993 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,317">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">3</container>
+						<unittitle>1994 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,331">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">4</container>
+						<unittitle>1995 Agendas, Correspondence, &amp; Notes</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">5</container>
+						<unittitle>1995 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,349">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">5</container>
+						<unittitle>1995 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,361">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">6</container>
+						<unittitle>1996 Agenda</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">7</container>
+						<unittitle>1996 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,366">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">8</container>
+						<unittitle>1996 Notebook</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">9</container>
+						<unittitle>1997 Minutes</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,380">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">10</container>
+						<unittitle>1997 Reports &amp; Agendas</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">11</container>
+						<unittitle>1998 Minutes (1 of 3)</unittitle>
+						<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/IUIS,394">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">11</container>
+						<unittitle>1998 Minutes (1 of 3)</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,434">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">14</container>
+						<container localtype="folder">12</container>
+						<unittitle>1998 Minutes (2 of 3)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">1</container>
+						<unittitle>1998 Minutes (3 of 3)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">2</container>
+						<unittitle>2000 Minutes (1 of 3)</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,534">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">2</container>
+						<unittitle>2000 Minutes (1 of 3)</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,558">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">3</container>
+						<unittitle>2000 Minutes (2 of 3)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">4</container>
+						<unittitle>2000 Minutes (3 of 3)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">5</container>
+						<unittitle>2001 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,545">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">5</container>
+						<unittitle>2001 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,517">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">5</container>
+						<unittitle>2001 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,422">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">5</container>
+						<unittitle>2001 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,431">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">6</container>
+						<unittitle>2002 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/472">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">7</container>
+						<unittitle>2003 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/516">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">8</container>
+						<unittitle>2004 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,445">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">8</container>
+						<unittitle>2004 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,451">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">8</container>
+						<unittitle>2004 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,425">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">9</container>
+						<unittitle>2005 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/479">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">10</container>
+						<unittitle>2006 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/479">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">11</container>
+						<unittitle>2007 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/460">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">11</container>
+						<unittitle>2007 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/430">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">12</container>
+						<unittitle>2008 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/493">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">13</container>
+						<unittitle>2009 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/500">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">14</container>
+						<unittitle>2010 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/cdm/ref/collection/IUIS/id/507">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">15</container>
+						<unittitle>2011 Minutes</unittitle>
+						<dao daotype="borndigital" href="http://contentdm.ad.umbc.edu/u?/IUIS,572">
+							<descriptivenote><p>Digital file available</p></descriptivenote>
+						</dao>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries I.C. Reports</unittitle>
+					<unitdate>1971-2000; 1980-1990 bulk</unitdate>
+					<physdesc>1.5 boxes (.75 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Reports of the Treasurer, President, and Secretary-General arranged by office and then in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">16</container>
+						<unittitle>Treasurer 1971 (1st International Congress, Budget)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">17</container>
+						<unittitle>Treasurer 1973</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">18</container>
+						<unittitle>Treasurer 1980</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">19</container>
+						<unittitle>Treasurer 1981</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">20</container>
+						<unittitle>Treasurer 1982</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">21</container>
+						<unittitle>Treasurer 1983</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">22</container>
+						<unittitle>Treasurer 1984</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">23</container>
+						<unittitle>Treasurer 1985</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">24</container>
+						<unittitle>Treasurer 1986</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">15</container>
+						<container localtype="folder">25</container>
+						<unittitle>Treasurer 1987</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">1</container>
+						<unittitle>Treasurer 1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">2</container>
+						<unittitle>Treasurer 1989</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">3</container>
+						<unittitle>Treasurer 1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">4</container>
+						<unittitle>Treasurer 1991</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">5</container>
+						<unittitle>Treasurer 1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">6</container>
+						<unittitle>Treasurer 1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">7</container>
+						<unittitle>President 1977</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">8</container>
+						<unittitle>President 1989-1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">9</container>
+						<unittitle>Secretary-General 1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">10</container>
+						<unittitle>Secretary-General 1989-1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">11</container>
+						<unittitle>Secretary-General 2000</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries I.D. Miscellany</unittitle>
+					<unitdate>1985-2001, undated</unitdate>
+					<physdesc>1 box (.5 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Miscellaneous administrative documents and photographs arranged by type of document</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">12</container>
+						<unittitle>Archives Correspondence 1993-1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">13</container>
+						<unittitle>Committee Review Correspondence 1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">14</container>
+						<unittitle>Statutes n.d.</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">15</container>
+						<unittitle>Manual of Operations n.d.</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">16</container>
+						<unittitle>Newsletter 1985-1987</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">17</container>
+						<unittitle>Photos and Related Documents</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">16</container>
+						<container localtype="folder">18</container>
+						<unittitle>Secretarial/Professional Management of Organization Bids and Correspondence 1999-2001</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">17</container>
+						<container localtype="folder">1</container>
+						<unittitle>Nominations of Officers and Council Members 1998-2001 (1 of 2)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">17</container>
+						<container localtype="folder">2</container>
+						<unittitle>Nominations of Officers and Council Members 1998-2001 (2 of 2)</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries I.E. Accounting</unittitle>
+					<unitdate>1972-1998</unitdate>
+					<physdesc>6 boxes (2.5 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Financial records including ledgers, bank statements, invoices, receipts, reports, audits, and correspondence arranged in alphabetical order by subject and then in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">17</container>
+						<container localtype="folder">3</container>
+						<unittitle>ALAI (Associacao Latino Americana de Imunologia) 1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">17</container>
+						<container localtype="folder">4</container>
+						<unittitle>Ledgers 1972</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">17</container>
+						<container localtype="folder">5</container>
+						<unittitle>Bank Statements and Transfer Receipts 1982</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">17</container>
+						<container localtype="folder">6</container>
+						<unittitle>Bank Statements and Transfer Receipts 1983 (acc# 7901.932:)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">17</container>
+						<container localtype="folder">7</container>
+						<unittitle>Bank Statements and Transfer Receipts 1983 (acc# 7900.162)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">17</container>
+						<container localtype="folder">8</container>
+						<unittitle>Bank Statements and Transfer Receipts 1984</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">18</container>
+						<container localtype="folder">1</container>
+						<unittitle>Bank Statements and Transfer Receipts 1985</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">18</container>
+						<container localtype="folder">2</container>
+						<unittitle>Bank Statements and Transfer Receipts 1986</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">18</container>
+						<container localtype="folder">3</container>
+						<unittitle>Bank Statements and Transfer Receipts 1987 (Jan - June)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">18</container>
+						<container localtype="folder">4</container>
+						<unittitle>Bank Statements and Transfer Receipts 1987 (July - Dec)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">18</container>
+						<container localtype="folder">5</container>
+						<unittitle>Bank Statements and Transfer Receipts 1988 (Jan - Aug)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">18</container>
+						<container localtype="folder">6</container>
+						<unittitle>Bank Statements and Transfer Receipts 1988 (Sept - Dec)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">18</container>
+						<container localtype="folder">7</container>
+						<unittitle>Bank Statements and Transfer Receipts 1989 (Jan – July)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">18</container>
+						<container localtype="folder">8</container>
+						<unittitle>Bank Statements and Transfer Receipts 1989 (Aug – Dec)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">19</container>
+						<container localtype="folder">1</container>
+						<unittitle>Bank Statements and Transfer Receipts 1990 (Jan – July)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">19</container>
+						<container localtype="folder">2</container>
+						<unittitle>Bank Statements and Transfer Receipts 1990 (Aug – Dec)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">19</container>
+						<container localtype="folder">3</container>
+						<unittitle>Bank Statements and Transfer Receipts 1991 (Jan – June)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">19</container>
+						<container localtype="folder">4</container>
+						<unittitle>Bank Statements and Transfer Receipts 1991 (July – Dec)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">19</container>
+						<container localtype="folder">5</container>
+						<unittitle>Bank Statements and Transfer Receipts 1992 (Jan – May)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">19</container>
+						<container localtype="folder">6</container>
+						<unittitle>Bank Statements and Transfer Receipts 1992 (June – Dec)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">1</container>
+						<unittitle>Income &amp; Expenses 1990-1992 Summaries</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">2</container>
+						<unittitle>Income &amp; Expenses 1993 Audited Accounts</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">3</container>
+						<unittitle>Income &amp; Expenses 1993 CEG/Suisse</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">4</container>
+						<unittitle>Income &amp; Expenses 1993 Merrill Lynch</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">5</container>
+						<unittitle>Income &amp; Expenses 1993 Ontvangsten</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">6</container>
+						<unittitle>Income &amp; Expenses 1993 Postbank</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">7</container>
+						<unittitle>Income &amp; Expenses 1993 Solomon Hare</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">8</container>
+						<unittitle>Income &amp; Expenses 1993 Summary</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">9</container>
+						<unittitle>Income &amp; Expenses 1993 Uilbetalingen</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">10</container>
+						<unittitle>Income &amp; Expenses 1994 Audited Accounts</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">11</container>
+						<unittitle>Income &amp; Expenses 1994 Expenses</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">12</container>
+						<unittitle>Income &amp; Expenses 1994 Income</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">13</container>
+						<unittitle>Income &amp; Expenses 1994 Merrill Lynch</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">1</container>
+						<unittitle>Income &amp; Expenses 1994 Postbank</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">2</container>
+						<unittitle>Income &amp; Expenses 1994 Summary</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">3</container>
+						<unittitle>Income &amp; Expenses 1995 Audited Accounts</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">4</container>
+						<unittitle>Income &amp; Expenses 1995 Expenses</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">5</container>
+						<unittitle>Income &amp; Expenses 1995 Income</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">6</container>
+						<unittitle>Income &amp; Expenses 1995 Merrill Lynch</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">7</container>
+						<unittitle>Income &amp; Expenses 1995 Postbank</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">8</container>
+						<unittitle>Income &amp; Expenses 1995 Summary</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">9</container>
+						<unittitle>Income &amp; Expenses 1996 Audited Accounts</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">10</container>
+						<unittitle>Income &amp; Expenses 1996 Expenses</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">21</container>
+						<container localtype="folder">11</container>
+						<unittitle>Income &amp; Expenses 1996 Income</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">1</container>
+						<unittitle>Income &amp; Expenses 1996 Merrill Lynch</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">2</container>
+						<unittitle>Income &amp; Expenses 1996 Postbank</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">3</container>
+						<unittitle>Income &amp; Expenses 1996 Summary</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">4</container>
+						<unittitle>Income &amp; Expenses 1997 Audited Accounts</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">5</container>
+						<unittitle>Income &amp; Expenses 1997 Expenses</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">6</container>
+						<unittitle>Income &amp; Expenses 1997 Income</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">7</container>
+						<unittitle>Income &amp; Expenses 1997 Merrill Lynch</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">8</container>
+						<unittitle>Income &amp; Expenses 1997 Postbank</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">9</container>
+						<unittitle>Income &amp; Expenses 1997 Summary</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">20</container>
+						<container localtype="folder">10</container>
+						<unittitle>Clinical Immunology 1986-1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">11</container>
+						<unittitle>Clinical Immunology 1991-1997</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">12</container>
+						<unittitle>Education Committee 1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">13</container>
+						<unittitle>Education Committee 1991-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">1</container>
+						<unittitle>The Immunologist 1997</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">2</container>
+						<unittitle>Nomenclature 1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">3</container>
+						<unittitle>Nomenclature 1992-1997</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">4</container>
+						<unittitle>Standardization 1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">5</container>
+						<unittitle>Standardization 1992-1996</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">6</container>
+						<unittitle>Symposium Committee 1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">7</container>
+						<unittitle>Travel Expenses 1985-1986</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">8</container>
+						<unittitle>Veterinary Immunology Committee 1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">9</container>
+						<unittitle>Veterinary Immunology Committee 1992-1997</unittitle>
+					</did>
+				</c03>
+			</c02>
+		</c01>
+		<c01 level="series">
+			<did>
+				<unittitle>Series II. Membership</unittitle>
+				<unitdate>1971-2001</unitdate>
+				<physdesc>7 boxes (2.75 linear feet)</physdesc>
+			</did>
+			<scopecontent>
+				<p>Correspondence, invoices, receipts, reports, and printed directories arranged in three subseries.</p>
+			</scopecontent>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries II.A. Member Payments</unittitle>
+					<unitdate>1971-1966</unitdate>
+					<physdesc>2.5 boxes (1 linear foot)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Invoices and receipts for membership dues arranged in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">10</container>
+						<unittitle>1971</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">11</container>
+						<unittitle>1972</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">12</container>
+						<unittitle>1973</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">13</container>
+						<unittitle>1974</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">14</container>
+						<unittitle>1975</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">15</container>
+						<unittitle>1976</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">16</container>
+						<unittitle>1977</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">17</container>
+						<unittitle>1978</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">18</container>
+						<unittitle>1979</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">19</container>
+						<unittitle>1980</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">1</container>
+						<unittitle>1981</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">2</container>
+						<unittitle>1982</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">3</container>
+						<unittitle>1983</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">4</container>
+						<unittitle>1984 -1985</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">5</container>
+						<unittitle>1986</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">6</container>
+						<unittitle>1987</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">7</container>
+						<unittitle>1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">8</container>
+						<unittitle>1989</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">25</container>
+						<container localtype="folder">1</container>
+						<unittitle>1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">25</container>
+						<container localtype="folder">2</container>
+						<unittitle>1991</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">25</container>
+						<container localtype="folder">3</container>
+						<unittitle>1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">25</container>
+						<container localtype="folder">4</container>
+						<unittitle>1993</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">25</container>
+						<container localtype="folder">5</container>
+						<unittitle>1994</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">25</container>
+						<container localtype="folder">6</container>
+						<unittitle>1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">1</container>
+						<unittitle>1996</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries II.B. Member Societies and Regional Federations</unittitle>
+					<unitdate>1974-2001</unitdate>
+					<physdesc>4 boxes (1.5 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Member correspondence, memos and reports arranged in alphabetical order by member organization.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">2</container>
+						<unittitle>ALAI 1989-1993</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">3</container>
+						<unittitle>ALAI 1994-1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">4</container>
+						<unittitle>ALAI 1997-2002</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">5</container>
+						<unittitle>Allergy and Immunology Society of Thailand 1990-1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">6</container>
+						<unittitle>Armenian Society for Immunology 1998-1999</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">7</container>
+						<unittitle>Australasian Society for Immunology Incorporated 1996-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">8</container>
+						<unittitle>Austrian Society for Allergology and Immunology 1996</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">9</container>
+						<unittitle>Balkan Immunological Societies 1992-1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">10</container>
+						<unittitle>Bangladesh Society for Immunology 1994-1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">11</container>
+						<unittitle>Belarusan Society for Immunologists and Allergists 1997</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">12</container>
+						<unittitle>Brazilian Society for Immunology 1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">13</container>
+						<unittitle>Cameroon Immunological Society 1996-1997</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">14</container>
+						<unittitle>Chinese Society of Immunology 1995-1996</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">15</container>
+						<unittitle>Chinese Society of Immunology 1997</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">16</container>
+						<unittitle>Croatian Immunological Society 1992-1994</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">26</container>
+						<container localtype="folder">17</container>
+						<unittitle>Cuban Society for Immunology 1996</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">27</container>
+						<container localtype="folder">1</container>
+						<unittitle>Czechoslovakia 1979-1995 (Observers)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">27</container>
+						<container localtype="folder">2</container>
+						<unittitle>EFIS 1990-1991</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">27</container>
+						<container localtype="folder">3</container>
+						<unittitle>EFIS 1992-1993</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">27</container>
+						<container localtype="folder">4</container>
+						<unittitle>EFIS 1994-1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">27</container>
+						<container localtype="folder">5</container>
+						<unittitle>Egyptian Society of Immunology 1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">27</container>
+						<container localtype="folder">6</container>
+						<unittitle>FAIS 1989-1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">27</container>
+						<container localtype="folder">7</container>
+						<unittitle>FAIS 1993-1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">27</container>
+						<container localtype="folder">8</container>
+						<unittitle>FAIS 1997-2000</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">27</container>
+						<container localtype="folder">9</container>
+						<unittitle>FIMSA 1989-1993</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">1</container>
+						<unittitle>FIMSA 1994-1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">2</container>
+						<unittitle>FIMSA 1998-2001</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">3</container>
+						<unittitle>German Society of Immunology 1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">4</container>
+						<unittitle>Hong Kong Society for Immunology 1994-1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">5</container>
+						<unittitle>Immunological Society of Asia and Africa 1974</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">6</container>
+						<unittitle>Immunological Societies of Eastern Europe 1992 – 1993 (Outreach)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">7</container>
+						<unittitle>Immunology Society of Slovenia 1992-1997</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">8</container>
+						<unittitle>Kenyan Society of Immunology 1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">9</container>
+						<unittitle>Kyrgys Republic 1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">10</container>
+						<unittitle>Latvian Society for Immunology 1991</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">11</container>
+						<unittitle>Lithuanian Society of Immunology 1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">12</container>
+						<unittitle>Malaysian Society for Immunology 1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">13</container>
+						<unittitle>Paraguayan Immunological Society 1996</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">14</container>
+						<unittitle>Peoples Republic of China 1979-1986 (Observers)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">15</container>
+						<unittitle>Phillipine Society of Allerology and Immunology 1997</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">16</container>
+						<unittitle>Romanian Immunologists 1989-1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">17</container>
+						<unittitle>Russian Society of Immunologists 1992-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">18</container>
+						<unittitle>Singapore Society of Immunology and Rheumatology 1989</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">28</container>
+						<container localtype="folder">19</container>
+						<unittitle>South African Immunology Society (SAIS) 1990-1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">29</container>
+						<container localtype="folder">1</container>
+						<unittitle>Taiwan 1979-1984 (Observers)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">29</container>
+						<container localtype="folder">2</container>
+						<unittitle>Tanzania Society of Immunology 1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">29</container>
+						<container localtype="folder">3</container>
+						<unittitle>USSR 1980-1985 (Observers)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">29</container>
+						<container localtype="folder">4</container>
+						<unittitle>Yugoslavian Immunological Society 1992-2001</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">29</container>
+						<container localtype="folder">5</container>
+						<unittitle>Zairian Society of Immunology 1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">29</container>
+						<container localtype="folder">6</container>
+						<unittitle>Zimbabwe Society for Immunology 1991</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">29</container>
+						<container localtype="folder">7</container>
+						<unittitle>Miscellaneous Member Societies 1977-1986</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">29</container>
+						<container localtype="folder">8</container>
+						<unittitle>Miscellaneous Member Societies 1993</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">29</container>
+						<container localtype="folder">9</container>
+						<unittitle>Miscellaneous Societies 1980-1986 (Observers)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">29</container>
+						<container localtype="folder">10</container>
+						<unittitle>Miscellaneous Issues 1990-1995</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries II.C. Directories</unittitle>
+					<unitdate>1982-1994</unitdate>
+					<physdesc>.5 box (.25 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Printed directories and working papers arranged by type of document and then in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">30</container>
+						<container localtype="folder">1</container>
+						<unittitle>Printed Blue Books 1982, 1985, 1987</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">30</container>
+						<container localtype="folder">2</container>
+						<unittitle>Printed Blue Books 1993, 1996</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">30</container>
+						<container localtype="folder">3</container>
+						<unittitle>Working Papers and Lists 1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">30</container>
+						<container localtype="folder">4</container>
+						<unittitle>Working Papers and Lists 1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">30</container>
+						<container localtype="folder">5</container>
+						<unittitle>Working Papers and Lists 1994</unittitle>
+					</did>
+				</c03>
+			</c02>
+		</c01>
+		<c01 level="series">
+			<did>
+				<unittitle>Series III. Meetings</unittitle>
+				<unitdate>1970-2010; 1974-1995 bulk</unitdate>
+				<physdesc>7 boxes (3 linear feet)</physdesc>
+			</did>
+			<scopecontent>
+				<p>Correspondence, agendas, minutes, reports, bids, budgets, invoices, receipts, programs, ephemera, and brochures pertaining to society meetings, conferences and congresses arranged by meeting title and date and subsequently by type of document.</p>
+			</scopecontent>
+			<c02 level="file">
+				<did>
+					<container localtype="box">30</container>
+					<container localtype="folder">6</container>
+					<unittitle>International Congress of Immunology 1971: Organizing Committee Minutes 1969</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">30</container>
+					<container localtype="folder">7</container>
+					<unittitle>International Congress of Immunology 1974: General Assembly Minutes</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">30</container>
+					<container localtype="folder">8</container>
+					<unittitle>International Congress of Immunology 1974: Correspondence</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">30</container>
+					<container localtype="folder">9</container>
+					<unittitle>International Congress of Immunology 1974: Reports, Agendas, and Programs</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">30</container>
+					<container localtype="folder">10</container>
+					<unittitle>International Congress of Immunology 1977: General Assembly Minutes</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">30</container>
+					<container localtype="folder">11</container>
+					<unittitle>International Congress of Immunology 1980: General assembly Minutes</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">30</container>
+					<container localtype="folder">12</container>
+					<unittitle>International Congress of Immunology 1980: Correspondence A – D</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">30</container>
+					<container localtype="folder">13</container>
+					<unittitle>International Congress of Immunology 1980: Correspondence E – Z</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">31</container>
+					<container localtype="folder">1</container>
+					<unittitle>International Congress of Immunology 1980: Reports, Agendas, &amp; Programs</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">31</container>
+					<container localtype="folder">2</container>
+					<unittitle>International Congress of Immunology 1983: General Assembly Minutes</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">31</container>
+					<container localtype="folder">3</container>
+					<unittitle>International Congress of Immunology 1983: Correspondence</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">31</container>
+					<container localtype="folder">4</container>
+					<unittitle>International Congress of Immunology 1983: Reports, Agendas, Programs, &amp; Minutes (1 of 2)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">31</container>
+					<container localtype="folder">5</container>
+					<unittitle>International Congress of Immunology 1983: Reports, Agendas, Programs, &amp; Minutes (2 of 2)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">31</container>
+					<container localtype="folder">6</container>
+					<unittitle>International Congress of Immunology 1983: Ephemera (1 of 2)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">31</container>
+					<container localtype="folder">7</container>
+					<unittitle>International Congress of Immunology 1983: Ephemera (2 of 2)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">32</container>
+					<container localtype="folder">1</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: General Assembly Minutes</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">32</container>
+					<container localtype="folder">2</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: Congress Planning and Arrangements</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">32</container>
+					<container localtype="folder">3</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: Congress Planning Committee</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">32</container>
+					<container localtype="folder">4</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: Congress Program &amp; Registration Bulletin</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">32</container>
+					<container localtype="folder">5</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: Correspondence 1980-1983</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">32</container>
+					<container localtype="folder">6</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: Correspondence 1984</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">32</container>
+					<container localtype="folder">7</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: Correspondence 1985</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">32</container>
+					<container localtype="folder">8</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: Correspondence 1986</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">32</container>
+					<container localtype="folder">9</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: Minutes &amp; Contracts/Joint Meeting of IUIS Executive Committee and the Canadian National Committee</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">32</container>
+					<container localtype="folder">10</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: Photographs</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">1</container>
+					<unittitle>International Congress of Immunology &amp; 1st IUIS Conference on Clinical Immunology 1986: Reports, Agendas, and Program</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">2</container>
+					<unittitle>International Congress of Immunology 1989: General Assembly Minutes</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">3</container>
+					<unittitle>International Congress of Immunology 1992: Correspondence</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">4</container>
+					<unittitle>International Congress of Immunology 1992 General Assembly Minutes</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">5</container>
+					<unittitle>International Congress of Immunology 1992 Bursaries and Conference Budget</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">6</container>
+					<unittitle>International Congress of Immunology 1995: Arrangements</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">7</container>
+					<unittitle>International Congress of Immunology 1995 Bursaries</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">8</container>
+					<unittitle>International Congress of Immunology 1995: President’s remarks for opening ceremony.</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">9</container>
+					<unittitle>International Congress of Immunology 1995: Programs, Announcements, &amp; Registration Packet</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">10</container>
+					<unittitle>International Congress of Immunology 1998: Agenda and Election of IUIS Officers</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">11</container>
+					<unittitle>International Congress of Immunology 1998: Bursaries</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">12</container>
+					<unittitle>International Congress of Immunology 1998: Correspondence</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">33</container>
+					<container localtype="folder">13</container>
+					<unittitle>International Congress of Immunology 1998: Planning</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">34</container>
+					<container localtype="folder">1</container>
+					<unittitle>International Congress of Immunology 2001: Bids</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">34</container>
+					<container localtype="folder">2</container>
+					<unittitle>International Congress of Immunology 2001: Planning</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">34</container>
+					<container localtype="folder">3</container>
+					<unittitle>International Congress of Immunology 2001: Planning &amp; Correspondence</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">34</container>
+					<container localtype="folder">4</container>
+					<unittitle>International Congress of Immunology 2001: General Assembly Minutes</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">34</container>
+					<container localtype="folder">5</container>
+					<unittitle>International Congress of Immunology 2004: Bids (1 of 2)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">34</container>
+					<container localtype="folder">6</container>
+					<unittitle>International Congress of Immunology 2004: Bids (2 of 2)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">34</container>
+					<container localtype="folder">7</container>
+					<unittitle>International Congress of Immunology 2004: Bursaries</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">35</container>
+					<container localtype="folder">1</container>
+					<unittitle>International Congress of Immunology 2004: Ephemera (1 of 7)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">35</container>
+					<container localtype="folder">2</container>
+					<unittitle>International Congress of Immunology 2004: Ephemera (2 of 7)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">35</container>
+					<container localtype="folder">3</container>
+					<unittitle>International Congress of Immunology 2004: Ephemera (3 of 7)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">35</container>
+					<container localtype="folder">4</container>
+					<unittitle>International Congress of Immunology 2004: Ephemera (4 of 7)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">35</container>
+					<container localtype="folder">5</container>
+					<unittitle>International Congress of Immunology 2004: Ephemera (5 of 7)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">35</container>
+					<container localtype="folder">6</container>
+					<unittitle>International Congress of Immunology 2004: Ephemera (6 of 7)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">36</container>
+					<container localtype="folder">1</container>
+					<unittitle>International Congress of Immunology 2004: Ephemera (7 of 7)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">36</container>
+					<container localtype="folder">2</container>
+					<unittitle>International Congress of Immunology 2004: General Assembly Minutes</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">36</container>
+					<container localtype="folder">3</container>
+					<unittitle>International Congress of Immunology 2004: Media (1 of 2)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">36</container>
+					<container localtype="folder">4</container>
+					<unittitle>International Congress of Immunology 2004: Media (2 of 2)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">36</container>
+					<container localtype="folder">5</container>
+					<unittitle>International Congress of Immunology 2004: Planning</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">36</container>
+					<container localtype="folder">6</container>
+					<unittitle>International Congress of Immunology 2004: Post Congress Publications and Thank You's</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">36</container>
+					<container localtype="folder">7</container>
+					<unittitle>International Congress of Immunology 2004: Press Releases and Coverage</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">37</container>
+					<container localtype="folder">1</container>
+					<unittitle>International Congress of Immunology 2004: Proposal (Montreal)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">37</container>
+					<container localtype="folder">2</container>
+					<unittitle>International Congress of Immunology 2004: Proposal (Israel)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">37</container>
+					<container localtype="folder">3</container>
+					<unittitle>International Congress of Immunology 2007: Bids (1 of 3)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">37</container>
+					<container localtype="folder">4</container>
+					<unittitle>International Congress of Immunology 2007: Bids (2 of 3)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">37</container>
+					<container localtype="folder">5</container>
+					<unittitle>International Congress of Immunology 2007: Bids (3 of 3)</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">37</container>
+					<container localtype="folder">6</container>
+					<unittitle>International Congress of Immunology 2007: General Assembly Minutes</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">37</container>
+					<container localtype="folder">7</container>
+					<unittitle>International Congress of Immunology 2010: General Assembly Minutes and Conference Reports</unittitle>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container localtype="box">37</container>
+					<container localtype="folder">8</container>
+					<unittitle>International Immunopathological Symposium 1970: List of Participants</unittitle>
+				</did>
+			</c02>
+		</c01>
+		<c01 level="series">
+			<did>
+				<unittitle>Series IV. Committees</unittitle>
+				<unitdate>1967-2000</unitdate>
+				<physdesc>8 boxes (3.75 linear feet)</physdesc>
+			</did>
+			<scopecontent>
+				<p>Records pertaining to society committees organized into 9 sub-series by committee title.</p>
+			</scopecontent>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries IV.A. Organization</unittitle>
+					<unitdate>1994-1995</unitdate>
+					<physdesc>1 folder</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence related to the assignment of committee chairs and other organizational issues.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">37</container>
+						<container localtype="folder">9</container>
+						<unittitle>Committee Chairmen 1994-1995</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries IV.B. Clinical Immunology</unittitle>
+					<unitdate>1967-2000</unitdate>
+					<physdesc>2 boxes (1.5 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence, minutes, articles and reports arranged in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">37</container>
+						<container localtype="folder">10</container>
+						<unittitle>1967-1969</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">38</container>
+						<container localtype="folder">1</container>
+						<unittitle>1970</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">38</container>
+						<container localtype="folder">2</container>
+						<unittitle>1971</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">38</container>
+						<container localtype="folder">3</container>
+						<unittitle>1972</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">38</container>
+						<container localtype="folder">4</container>
+						<unittitle>1973</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">38</container>
+						<container localtype="folder">5</container>
+						<unittitle>1974</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">38</container>
+						<container localtype="folder">6</container>
+						<unittitle>1975-1979</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">39</container>
+						<container localtype="folder">1</container>
+						<unittitle>1980-1982</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">39</container>
+						<container localtype="folder">2</container>
+						<unittitle>1983-1982</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">39</container>
+						<container localtype="folder">3</container>
+						<unittitle>1990-1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">39</container>
+						<container localtype="folder">4</container>
+						<unittitle>1993-1997</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">39</container>
+						<container localtype="folder">5</container>
+						<unittitle>1998-2000</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries IV.C. Committion for Europe</unittitle>
+					<unitdate>1972-1973</unitdate>
+					<physdesc>1 folder</physdesc>
+				</did>
+				<scopecontent>
+					<p>Contains minutes, correspondence and a questionnaire.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">40</container>
+						<container localtype="folder">1</container>
+						<unittitle>1972-1973</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries IV.D. Education</unittitle>
+					<unitdate>1974-1998</unitdate>
+					<physdesc>4 folders</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence, minutes, reports and notes in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">40</container>
+						<container localtype="folder">2</container>
+						<unittitle>1974-1986</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">40</container>
+						<container localtype="folder">3</container>
+						<unittitle>1989-1998 (1 of 3)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">40</container>
+						<container localtype="folder">4</container>
+						<unittitle>1989-1998 (2 of 3)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">40</container>
+						<container localtype="folder">5</container>
+						<unittitle>1989-1998 (3 of 3)</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries IV.E. Nomenclature</unittitle>
+					<unitdate>1971-1998</unitdate>
+					<physdesc>2 boxes (.75 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Reports, papers, correspondence and memos arranged in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">40</container>
+						<container localtype="folder">6</container>
+						<unittitle>1971-1973</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">40</container>
+						<container localtype="folder">7</container>
+						<unittitle>1974-1979</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">40</container>
+						<container localtype="folder">8</container>
+						<unittitle>1980-1981</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">40</container>
+						<container localtype="folder">9</container>
+						<unittitle>1982</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">40</container>
+						<container localtype="folder">10</container>
+						<unittitle>1983</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">1</container>
+						<unittitle>1984-1986</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">2</container>
+						<unittitle>1990-1994</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">3</container>
+						<unittitle>1995-1998</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries IV.F. Publication</unittitle>
+					<unitdate>1985-2000</unitdate>
+					<physdesc>3 folders</physdesc>
+				</did>
+				<scopecontent>
+					<p>Contains correspondence and memos.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">4</container>
+						<unittitle>1985</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">5</container>
+						<unittitle>1992-1997</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">6</container>
+						<unittitle>1998-2000</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries IV.G. Standardization</unittitle>
+					<unitdate>1971-1998</unitdate>
+					<physdesc>.5 box (.25 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence files including reports, and drafts of papers are arranged in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">7</container>
+						<unittitle>1971</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">8</container>
+						<unittitle>1978</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">9</container>
+						<unittitle>1982</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">10</container>
+						<unittitle>1983-1986</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">11</container>
+						<unittitle>1990-1993</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">41</container>
+						<container localtype="folder">12</container>
+						<unittitle>1994-1995 (1 of 2)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">1</container>
+						<unittitle>1994-1995 (2 of 2)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">2</container>
+						<unittitle>1996-1998</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries IV.H. Symposia</unittitle>
+					<unitdate>1971-1991</unitdate>
+					<physdesc>.5 box (.25 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Agendas, correspondence and reports are arranges in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">3</container>
+						<unittitle>1971-1973</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">4</container>
+						<unittitle>1974-1980</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">5</container>
+						<unittitle>1981-1985</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">6</container>
+						<unittitle>1982 Ephemera</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">7</container>
+						<unittitle>1990-1991</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries IV.I. Veterinary Immunology</unittitle>
+					<unitdate>1980-1998</unitdate>
+					<physdesc>3 boxes (1.25 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Documents include reports, correspondence, conference and workshop planning documents, and files relating to the establishment of the committee. The sub-series is arranged alphabetical by file type and then chronologically.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">8</container>
+						<unittitle>Annual Reports: 1982-1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">9</container>
+						<unittitle>Annual Reports: 1991-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">10</container>
+						<unittitle>Avian Marker Workshops 1989-1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">42</container>
+						<container localtype="folder">11</container>
+						<unittitle>Budget &amp; Reports 1986-1989</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">1</container>
+						<unittitle>Budget 1990-1994</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">2</container>
+						<unittitle>Budget 1997-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">3</container>
+						<unittitle>Correspondence 1980-1989</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">4</container>
+						<unittitle>Correspondence 1990-1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">5</container>
+						<unittitle>Correspondence 1993-1994</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">6</container>
+						<unittitle>Correspondence 1997-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">7</container>
+						<unittitle>Education Program 1997-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">8</container>
+						<unittitle>Immunoglobulins 1990-1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">9</container>
+						<unittitle>Liason with other groups 1986-1989</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">10</container>
+						<unittitle>Meetings Agendas &amp; Minutes 1983-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">11</container>
+						<unittitle>Meetings Correspondence 1986-1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">43</container>
+						<container localtype="folder">12</container>
+						<unittitle>Membership 1983-1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">1</container>
+						<unittitle>Pig CD Workshops 1991-1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">2</container>
+						<unittitle>Proposal for the Establishment of Veterinary Committee (1 of 3)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">3</container>
+						<unittitle>Proposal for the Establishment of Veterinary Committee 1979-1980 (2 of 3)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">4</container>
+						<unittitle>Proposal for the Establishment of Veterinary Committee 1980-1986(3 of 3)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">5</container>
+						<unittitle>Publications 1993-1994</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">6</container>
+						<unittitle>Publications 1997-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">7</container>
+						<unittitle>Reports 1983-2000</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">8</container>
+						<unittitle>Ruminant CD Workshop 1987-1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">9</container>
+						<unittitle>Standardization Correspondence 1985-1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">10</container>
+						<unittitle>Symposium, 1st International 1986</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">11</container>
+						<unittitle>Symposium, 2nd International 1989</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">44</container>
+						<container localtype="folder">12</container>
+						<unittitle>Symposium, 3rd International 1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">1</container>
+						<unittitle>Symposium, 4th International 1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">2</container>
+						<unittitle>Symposium, 6th International 2001</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">3</container>
+						<unittitle>Workshops 1983</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">4</container>
+						<unittitle>Workshops 1993-1994</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">5</container>
+						<unittitle>Workshops 1997-1998</unittitle>
+					</did>
+				</c03>
+			</c02>
+		</c01>
+		<c01 level="series">
+			<did>
+				<unittitle>Series V. Affiliated Organizations</unittitle>
+				<unitdate>1972-2000</unitdate>
+				<physdesc>3.5 boxes (4 linear feet)</physdesc>
+			</did>
+			<scopecontent>
+				<p>Records pertaining to organizations with which IUIS has a working relationship are organized into subseries by organization.</p>
+			</scopecontent>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries V.A. European Federation of Immunological Societies (EFIS)</unittitle>
+					<unitdate>1973-2000</unitdate>
+					<physdesc>4 folders</physdesc>
+				</did>
+				<scopecontent>
+					<p>Minutes, reports, correspondence and questionnaire responses are arranged in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">6</container>
+						<unittitle>1973-1976</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">7</container>
+						<unittitle>1977-1985</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">8</container>
+						<unittitle>1982 Ephemera</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">9</container>
+						<unittitle>1990-2000</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries V.B. International Training and Research Center (ITR)</unittitle>
+					<unitdate>1977-1980</unitdate>
+					<physdesc>1 folder</physdesc>
+				</did>
+				<scopecontent>
+					<p>Contains the organization’s charter, reports and correspondence.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">10</container>
+						<unittitle>1977-1980</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries V.C. World Health Organization (WHO)</unittitle>
+					<unitdate>1972-1973, 1991-1999</unitdate>
+					<physdesc>4 folders</physdesc>
+				</did>
+				<scopecontent>
+					<p>Reports, correspondence, and memos in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">11</container>
+						<unittitle>1972-1973</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">12</container>
+						<unittitle>1991-1993</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">13</container>
+						<unittitle>1993-1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">14</container>
+						<unittitle>1996-1999</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries V.D. International Council of Scientific Unions (ICSU)</unittitle>
+					<unitdate>1973-2000</unitdate>
+					<physdesc>3 boxes (1.25 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence, audits, reports, grants applications, and newsletters are arranged in alphabetical order by subject and then in date order.</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">45</container>
+						<container localtype="folder">15</container>
+						<unittitle>Audited Accounts 1994-1999</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">46</container>
+						<container localtype="folder">1</container>
+						<unittitle>Correspondence 1973</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">46</container>
+						<container localtype="folder">2</container>
+						<unittitle>Correspondence 1974</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">46</container>
+						<container localtype="folder">3</container>
+						<unittitle>Correspondence 1975</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">46</container>
+						<container localtype="folder">4</container>
+						<unittitle>Correspondence 1976</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">46</container>
+						<container localtype="folder">5</container>
+						<unittitle>Correspondence 1977 (Jan - Jun)</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">46</container>
+						<container localtype="folder">6</container>
+						<unittitle>Correspondence 1977 (July - Dec0</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">46</container>
+						<container localtype="folder">7</container>
+						<unittitle>Correspondence 1978</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">46</container>
+						<container localtype="folder">8</container>
+						<unittitle>Correspondence 1979</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">1</container>
+						<unittitle>Correspondence 1980-1981</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">2</container>
+						<unittitle>Correspondence 1982-1983</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">3</container>
+						<unittitle>Correspondence 1984</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">4</container>
+						<unittitle>Correspondence 1985-1987</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">5</container>
+						<unittitle>Correspondence 1990-1995</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">6</container>
+						<unittitle>Correspondence 1996-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">7</container>
+						<unittitle>Correspondence 1999-2000</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">8</container>
+						<unittitle>Dues 1992-1994</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">9</container>
+						<unittitle>Exchange Rates 1978</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">10</container>
+						<unittitle>Exchange Rates 1979</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">11</container>
+						<unittitle>Exchange Rates 1980</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">12</container>
+						<unittitle>Exchange Rates 1992-1998</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">13</container>
+						<unittitle>Grants 1985-1987</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">14</container>
+						<unittitle>Grants 1988</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">47</container>
+						<container localtype="folder">15</container>
+						<unittitle>Grants 1986</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">1</container>
+						<unittitle>Grants 1990</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">2</container>
+						<unittitle>Grants 1991-1992</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">3</container>
+						<unittitle>Grants 1993-1994</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">4</container>
+						<unittitle>Grants 1995-1996</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">5</container>
+						<unittitle>Grants 1997-1999</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">6</container>
+						<unittitle>Newsletters 1980-1985</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">7</container>
+						<unittitle>Reports 1992-2000</unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unittitle>Subseries V.E. Miscellaneous Organizations</unittitle>
+					<unitdate>1981-1998</unitdate>
+					<physdesc>.5 box (.25 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Reports and newsletters in alphabetical order by subject</p>
+				</scopecontent>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">8</container>
+						<unittitle>Asian Network for Biological Science 1984</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">9</container>
+						<unittitle>International Biosciences Network Reports 1983-1984</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">10</container>
+						<unittitle>Newsletters 1981-1983</unittitle>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container localtype="box">48</container>
+						<container localtype="folder">11</container>
+						<unittitle>Reports 1981-1984</unittitle>
+					</did>
+				</c03>
+			</c02>
+		</c01>
+		<c01 level="series">
+			<did>
+				<unittitle>Series VI. Oversized</unittitle>
+				<physdesc>1 box</physdesc>
+			</did>
+			<c02 level="file">
+				<did>
+					<container localtype="box">49</container>
+					<unittitle>1995 Conference Textiles (Originally Box 33, Folder 9)</unittitle>
+				</did>
+			</c02>
+		</c01>
+		 </dsc>
+      </archdesc>
+   </ead>
