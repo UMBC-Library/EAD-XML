@@ -1,0 +1,192 @@
+/****************************
+CSS for EAD-XML Web Display
+Created by: Emily Somach
+*****************************/
+
+body {
+	font-family: "Droid Sans";
+	font-size: 14px;
+	background-color: white;
+}
+
+#header {
+	font-size: 18px;
+	min-width: 843px;
+	color:black;
+	text-align:center;
+	line-height: 50%;
+	margin-right: 75px;
+	margin-left:75px;
+}
+
+#content-wrapper {
+	margin-left: 350px;
+	margin-right: 75px;
+	min-width: 600px;
+}
+
+#images {
+	margin: auto;
+	width: 90%;
+	text-align: center;
+}
+
+#images img {
+	margin: 5px;
+	border: none;
+}
+
+#header, #firstbox, #secondbox {
+	background-color: white;
+	border-style: solid;
+	border-width: thin;
+	border-color: black;
+	padding:15px;
+}
+
+#firstbox, #header, #timeline {
+	margin-bottom: 15px;
+}
+
+#table-content, #leftbar {
+	float:left;
+}
+
+#overviewtable {
+	table-layout: auto;
+	text-align: left;
+	padding: 5px;
+	font-size: 14px;
+}
+
+#overviewtable tr td:FIRST-CHILD {
+	font-weight: bold;
+	text-align: right;
+	width: 25%;
+	padding-right: 8px;
+}
+
+td {
+	vertical-align: top;
+}
+
+#leftbar {
+	width: 250px;
+	text-align: left;
+	margin-left: 75px;
+	position: fixed;
+}
+
+#nav, #fabox {
+	padding:5px;
+	border-style: solid;
+	border-color: black;
+	border-width: thin;
+}
+
+#nav {
+	background-color: #ffffff;
+	line-height:150%;
+}
+
+#fabox {
+	background-color: #FFFF99;
+	margin-bottom: 5px;
+	padding-top: 15px;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	font-weight: normal;
+	font-size: 13.5px;
+}
+
+#nav a:link, #nav a:visited {
+	color: black;
+	font-weight: bold;
+}
+
+#timeline {
+	table-layout: auto;
+	text-align: left;
+	padding: 5px;
+	font-size: 14px;
+}
+
+#timeline tr td:FIRST-CHILD {
+	font-weight: bold;
+	text-align: right;
+	width: 20%;
+	padding-right: 10px;
+}
+
+.section6 ol {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.section6 h1, .section6 h2, .section6 h3 {
+	margin-top: 0px;
+}
+
+#folder {
+    table-layout: fixed;
+	text-align: center;
+	font-size: 12.5px;
+}
+
+#folder tr:first-child td{
+    font-weight: bold;
+}
+
+#folder tr td:first-child {
+	width: 450px;
+	text-align: left;
+}
+
+#folder tr td:nth-child(5) { 
+	min-width: 100px;
+	width: auto;
+}
+
+#folder tr td:nth-child(2), tr td:nth-child(3), tr td:nth-child(4) {
+	width: auto;
+	min-width: 50px;
+}
+
+#folder td {
+	padding: 1px;
+}
+
+h1, h2, h3 {
+	margin-bottom: 0px;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 26px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+h3 {
+    font-style: italic;
+    font-size: 14px;
+}
+	
+p{
+	margin-left: 15px;
+}
+
+footer {
+	background-color:white;
+	clear:both;
+	text-align:center;
+	padding:5px; 
+}
