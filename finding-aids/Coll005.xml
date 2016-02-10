@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><ead audience="external" relatedencoding="MARC21">
+      <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+         <recordid>Coll005</recordid>
+		 <representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll005.php" localtype="PHP">Finding Aid</representation>
+         <filedesc>
+            <titlestmt>
+               <titleproper encodinganalog="245$a">Barbara Young papers</titleproper>
+               <author>Loeper, Lindsey</author>
+            </titlestmt>
+         </filedesc>
+         <maintenancestatus value="new"/>
+         <maintenanceagency countrycode="US">
+            <agencycode>mdubc</agencycode>
+            <agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+         </maintenanceagency>
+         <conventiondeclaration>
+            <abbr>DACS</abbr>
+            <citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+         </conventiondeclaration>
+         <localtypedeclaration>
+            <citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
+            <descriptivenote>
+               <p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+            </descriptivenote>
+         </localtypedeclaration>
+         <maintenancehistory>
+            <maintenanceevent>
+               <eventtype value="derived"/>
+               <eventdatetime standarddatetime="2015-08-27T12:45:18.077-04:00"/>
+               <agenttype value="machine"/>
+               <agent>Computer</agent>
+               <eventdescription>Conversion from PastPerfect.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-10-16T10:17:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Sonnenberg, Eric</agent>
+               <eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+            </maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-20T10:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated representation field.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2016-01-27T16:15:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated subject and creator fields.</eventdescription>
+			</maintenanceevent>
+		</maintenancehistory>
+      </control>
+      <archdesc level="collection">
+         <did>
+            <unittitle encodinganalog="245$a">Barbara Young papers</unittitle>
+            <unitid countrycode="US" repositorycode="mdubc">Coll005</unitid>
+            <origination>
+               <persname relator="creator" encodinganalog="100" source="lc">
+                  <part>Young</part><part>Barbara</part><part>1920-</part>
+               </persname>
+            </origination>
+            <unitdate unitdatetype="inclusive" encodinganalog="245$f">circa 2002</unitdate>
+            <unitdatestructured unitdatetype="inclusive">
+               <daterange>
+                  <fromdate>2002</fromdate>
+                  <todate>2002</todate>
+               </daterange>
+            </unitdatestructured>
+            <physdesc encodinganalog="300$a$f">3 boxes (1.25 linear feet)</physdesc>
+            <physdescset>
+               <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+                  <quantity>3</quantity>
+                  <unittype>boxes</unittype>
+               </physdescstructured>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>1.25</quantity>
+                  <unittype>linear feet</unittype>
+               </physdescstructured>
+            </physdescset>
+            <abstract encodinganalog="520$a">Includes an unpublished manuscript copy of "The Autobiography of an Eye," an autobiography written by Barbara Young that details her time as a student at Johns Hopkins University in the 1940s. Also contains a typescript of one article and two offprints.</abstract>
+            <langmaterial>
+               <language langcode="eng">eng</language>
+            </langmaterial>
+            <repository>
+               <corpname>
+                  <part>University of Maryland, Baltimore County</part>
+               </corpname>
+               <address>
+                  <addressline>Albin O. Kuhn Library and Gallery</addressline>
+                  <addressline>UMBC</addressline>
+                  <addressline>1000 Hilltop Circle</addressline>
+                  <addressline>Baltimore, MD 21250</addressline>
+                  <addressline>410-455-2353</addressline>
+                  <addressline>speccoll@umbc.edu</addressline>
+               </address>
+            </repository>
+         </did>
+         <bioghist encodinganalog="545">
+            <p>Barbara Young studied at Johns Hopkins University in the 1940s; she went on to become a prominent psychotherapist.</p>
+         </bioghist>
+         <arrangement encodinganalog="351">
+            <p>Arranged by accession.</p>
+         </arrangement>
+         <accessrestrict encodinganalog="506">
+            <p>No restrictions.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>Reproductions allowed for research purposes. Copyright maintained by the creator.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>Barbara Young papers, Collection 5, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+         </prefercite>
+         <acqinfo>
+            <p>Donated by Barbara Young, PHMS2001-01 and PHMS2002-03.</p>
+         </acqinfo>
+         <processinfo>
+            <p>Collection unprocessed.</p>
+         </processinfo>
+         <controlaccess>
+            <corpname encodinganalog="610" source="lc">
+               <part>Johns Hopkins University</part>
+            </corpname>
+			<subject encodinganalog="650" source="lc">
+               <part>Young, Barbara, 1920-</part><part>Archives</part>
+            </subject>
+         </controlaccess>
+      </archdesc>
+   </ead>
