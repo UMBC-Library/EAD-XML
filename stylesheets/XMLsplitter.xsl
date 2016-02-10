@@ -7,7 +7,7 @@
     <xsl:template match="/">
         <xsl:for-each select="batch/ead">
 			<xsl:variable name="fname" select="./control/recordid"/>
-			<xsl:result-document method="xml" href="{$fname}.xml">
+			<xsl:result-document method="xml" href="{lower-case($fname)}.xml">
 				<xsl:copy-of select="."/>
 			</xsl:result-document>
 		</xsl:for-each>
