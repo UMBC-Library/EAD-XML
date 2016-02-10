@@ -2,7 +2,7 @@
 <ead audience="external" relatedencoding="MARC21">
 	<control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
 		<recordid>Coll002</recordid>
-		<representation encodinganalog="856" href="http://aok.lib.umbc.edu/specoll/perryhall/index.php" localtype="PHP">Finding Aid</representation>
+		<representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll002.php" localtype="PHP">Finding Aid</representation>
 		<filedesc>
 			<titlestmt>
 				<titleproper encodinganalog="245$a">Perry Hall Improvement Association records</titleproper>
@@ -19,7 +19,7 @@
 			<citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
 		</conventiondeclaration>
 		<localtypedeclaration>
-			<citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2012)</citation>
+			<citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
 			<descriptivenote>
 				<p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
 			</descriptivenote>
@@ -45,6 +45,20 @@
 				<agenttype value="human"/>
 				<agent>Somach, Emily</agent>
 				<eventdescription>Manual additions and updates including: container list, scope and content note, biographical note, and arrangement list.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-12T16:08:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Added bibliography.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-19T16:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated links in representation field.</eventdescription>
 			</maintenanceevent>
 		</maintenancehistory>
 	</control>
@@ -155,6 +169,9 @@
 				<part>History</part>
 			</subject>
 		</controlaccess>
+		<bibliography>
+			<bibref><ref href="http://www.perryhallmaryland.org/">Perry Hall Improvement Association (PHIA) homepage. Accessed November 12, 2015.</ref></bibref>
+		</bibliography>
 		<dsc>
 			<c01 level="series">
 				<did>
