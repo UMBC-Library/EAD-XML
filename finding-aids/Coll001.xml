@@ -2,7 +2,7 @@
 <ead audience="external" relatedencoding="MARC21">
 	<control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
 		<recordid>Coll001</recordid>
-		<representation encodinganalog="856" href="http://aok.lib.umbc.edu/specoll/wagner/index.php" localtype="PHP">Finding Aid</representation>
+		<representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll001.php" localtype="PHP">Finding Aid</representation>
 		<filedesc>
 			<titlestmt>
 				<titleproper encodinganalog="245$a">Philip M. Wagner papers</titleproper>
@@ -19,7 +19,7 @@
 			<citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
 		</conventiondeclaration>
 		<localtypedeclaration>
-			<citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2012)</citation>
+			<citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
 			<descriptivenote>
 				<p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
 			</descriptivenote>
@@ -45,6 +45,27 @@
 				<agenttype value="human"/>
 				<agent>Somach, Emily</agent>
 				<eventdescription>Manual additions and updates including: container list, scope and content note, biographical time line, and arrangement lists.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-12T15:59:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Added bibliography.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-13T14:59:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated separatedmaterial field.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-19T16:21:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated links in bibliography and representation fields.</eventdescription>
 			</maintenanceevent>
 		</maintenancehistory>
 	</control>
@@ -265,7 +286,7 @@
 			<p>The manuscripts were found in a somewhat disordered state and in generally fair condition. The collection had been previously sorted so that the original order was not entirely clear but there appeared to be disctinct divisions in the materials between those documents created during Wagner's work for the Sun and those resulting from either his work as a free lance writer or his founding and running of Boordy Vineyards. As such it seemed best to arrange them into threse three primary series. The collection was processed by Marcia Frank Peri December 1997.</p>
 		</processinfo>
 		<separatedmaterial encodinganalog="544">
-			<p>Philip Wagner papers, #6928. Division of Rare and Manuscript Collections, Cornell University Library.</p>
+			<archref>Philip Wagner papers, #6928. Division of Rare and Manuscript Collections, Cornell University Library.</archref>
 		</separatedmaterial>
 		<controlaccess>
 			<persname relator="creator" encodinganalog="700" source="lc">
@@ -315,6 +336,10 @@
 				<part>Baltimore sun</part>
 			</title>
 		</controlaccess>
+		 <bibliography>
+			<bibref><ref href="http://www.boordy.com">Boordy Vineyards. Accessed November 12, 2015.</ref></bibref>
+			<archref><ref href="http://library.umbc.edu/speccoll/publications.php">Historical Newspaper Holdings in Special Collections. Accessed November 12, 2015.</ref></archref>
+		 </bibliography>
 		<dsc>
 			<c01 level="series">
 				<did>
