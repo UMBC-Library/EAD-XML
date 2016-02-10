@@ -2,7 +2,7 @@
 <ead audience="external" relatedencoding="MARC21">
 	<control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
 		<recordid>Coll004</recordid>
-		<representation encodinganalog="856" href="http://aok.lib.umbc.edu/specoll/FCLatrobe/index.php" localtype="PHP">Finding Aid</representation>
+		<representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll004.php" localtype="PHP">Finding Aid</representation>
 		<filedesc>
 			<titlestmt>
 				<titleproper encodinganalog="245$a">Ferdinand C. Latrobe papers</titleproper>
@@ -20,7 +20,7 @@
 		</conventiondeclaration>
 		<localtypedeclaration>
 			<citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description
-            (2012)</citation>
+            (2015)</citation>
 			<descriptivenote>
 				<p>The processing manual used in Special Collections for all descriptive platforms,
                including PastPerfect.</p>
@@ -48,6 +48,27 @@
 				<agenttype value="human"/>
 				<agent>Somach, Emily</agent>
 				<eventdescription>Manual additions and updates including: container list, scope and content note, biographical time line, bibliography, and arrangement lists.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-13T15:05:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated bibliography and related materials.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-19T16:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated links in representation field.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-12-16T10:05:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Added corrected container list.</eventdescription>
 			</maintenanceevent>
 		</maintenancehistory>
 	</control>
@@ -280,8 +301,8 @@
             II. Journals and Diaries, was rehoused into envelopes in Spring 2014.</p>
 		</processinfo>
 		<separatedmaterial encodinganalog="544">
-			<p>Maryland State Archives SPECIAL COLLECTIONS (Biographical Series) Ferdinand C. Latrobe
-            file, MSA SC 3520-1698, 2/11/11/21.</p>
+			<archref>Maryland State Archives SPECIAL COLLECTIONS (Biographical Series) Ferdinand C. Latrobe
+            file, MSA SC 3520-1698, 2/11/11/21.</archref>
 		</separatedmaterial>
 		<controlaccess>
 			<persname relator="creator" encodinganalog="700" source="lc">
@@ -329,1032 +350,1034 @@
 			</persname>
 		</controlaccess>
 		<bibliography>
-			<p>"A Letter from Ross Winans to the President and Board of Directors of the Baltimore and Ohio Rail Road Co." 1857, UMBC, Special Collections: Howard HE 2791 B33 W56 1857.</p>
-			<p>Hall, Clayton. Baltimore Its History and Its People. Volume I- History. New York and Chicago: Lewis Historical Publishing Company, 1912.</p>
-			<p>Semmes, John E. John H.B. Latrobe and His Times, 1803-1891. Baltimore, MD: The Norman Remington Co., 1917.</p>
-			<p>Hungerford, Edward. The Story of the Baltimore and Ohio Railroad, 1827-1927. New York and London: G.P. Putnam's Sons, The Knickerbocker Press, 1928.</p>
-			<p>Scharf, J. Thomas. History of Baltimore City and County. Reprint, Baltimore, MD: Regional Publishing Company, 1971.</p>
-			<p>Beirne, Francis F. The Amiable Baltimoreans. Hatboro, PA: Tradition Press, A Division of Folklore Associates, INC., 1968.</p>
+			<archref>"A Letter from Ross Winans to the President and Board of Directors of the Baltimore and Ohio Rail Road Co." 1857, UMBC, Special Collections: Howard HE 2791 B33 W56 1857.</archref>
+			<bibref>Hall, Clayton. Baltimore Its History and Its People. Volume I- History. New York and Chicago: Lewis Historical Publishing Company, 1912.</bibref>
+			<bibref>Semmes, John E. John H.B. Latrobe and His Times, 1803-1891. Baltimore, MD: The Norman Remington Co., 1917.</bibref>
+			<bibref>Hungerford, Edward. The Story of the Baltimore and Ohio Railroad, 1827-1927. New York and London: G.P. Putnam's Sons, The Knickerbocker Press, 1928.</bibref>
+			<bibref>Scharf, J. Thomas. History of Baltimore City and County. Reprint, Baltimore, MD: Regional Publishing Company, 1971.</bibref>
+			<bibref>Beirne, Francis F. The Amiable Baltimoreans. Hatboro, PA: Tradition Press, A Division of Folklore Associates, INC., 1968.</bibref>
 		</bibliography>
 		<dsc>
-			<c01 level="series">
+	<c01 level="series">
+		<did>
+			<unittitle>Series I. Papers and Doucments</unittitle>
+			<unitdate>1844-1911</unitdate>
+			<physdesc>5 boxes (3 linear feet)</physdesc>
+		</did>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries I.A. Compositions - Adult</unittitle>
+			</did>
+			<c03 level="file">
 				<did>
-					<unittitle>Series I. Papers and Doucments</unittitle>
-					<unitdate>1844-1911</unitdate>
-					<physdesc>5 boxes (3 linear feet)</physdesc>
+					<container localtype="box">1</container>
+					<container localtype="folder">1</container>
+					<unittitle>“A Story of War, After the Battle: Vengeance is mine, I will repay, saith the Lord.” undated, 25 pages</unittitle>
 				</did>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries I.A. Compositions - Adult</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">1</container>
-							<unittitle>“A Story of War, After the Battle: Vengeance is mine, I will repay, saith the Lord.” undated, 25 pages</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries I.B. Compostions - School</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">2</container>
-							<unittitle>1844 Essay and Poems, 1848 composition on Julius Caesar, and 1848 composition on a Picnic (3)</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries I.C. Correspondence (Incoming)</unittitle>
-						<unitdate>1876-1910</unitdate>
-						<physdesc>10 folders</physdesc>
-					</did>
-					<scopecontent>
-						<p>Arranged alphabetically by subject, except individual letters which are arranged chronologically. Most subject headings are according to Mr. Latrobe’s own categorization.</p>
-					</scopecontent>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">3</container>
-							<unittitle>Dr. Boykin regarding political appointment of Hopkins, 2 letters, 1888</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">4</container>
-							<unittitle>Carroll Island Gun Club, dog breeding, undated (2)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">5</container>
-							<unittitle>Chinese Delegation, Chen Shen Yin Correspondence, 1878-1879 (6)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">6</container>
-							<unittitle>Johns Hopkins University, 1888-1901 (4)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">7</container>
-							<unittitle>John King Telegram regarding RR Strike, 1877 (1)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">8</container>
-							<unittitle>“Letters of Congratulations,” 1878-1889 (7)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">9</container>
-							<unittitle>Personal Business/Affairs, 1876-1910 (14)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">10</container>
-							<unittitle>Political, Concerning Democratic Party Politics, City Business, 1877 -1903 (12</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">11</container>
-							<unittitle>Pratt, Enoch 1879, 1891 (2)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">12</container>
-							<unittitle>Sister Mary Benedict, 1877-1879 (3)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">13</container>
-							<unittitle>Vansant, Joshua 1880, 1882, (2)</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries I.D. Legal Documents</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">14</container>
-							<unittitle>Petition to the Orphan’s Court Regarding the Will of son Thomas Swann Latrobe, Letter of will transferring turnpike shares to F.C. Latrobe and two turnpike share certificates. (4)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">15</container>
-							<unittitle>Hampshire County Business, 1852</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries I.E. Binder 1</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">16</container>
-							<unittitle>Corruption in office, undated but during Mayoral term</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">1</container>
-							<container localtype="folder">17</container>
-							<unittitle>Letter to German Citizens regarding Democratic Politics, by Heinrich Tieck, 1891</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries I.F. Memorabilia: Certificates, Stocks, Etc.</unittitle>
-						<unitdate>1876-1907</unitdate>
-						<physdesc>15 items</physdesc>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">1</container>
-							<unittitle>11th Ward Ticket for Democratic Mayoral Candidate Ferdinand Latrobe, undated</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">1</container>
-							<unittitle>Letter of Invitation to Philadelphia International Exhibition Opening Ceremonies, 1876</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">1</container>
-							<unittitle>Guest Pass to Opening Ceremonies, Philadelphia International Exhibition, 1876</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">2</container>
-							<unittitle>Letter regarding Honorary Membership to Hagerstown Light Infantry, 1881 and Certificate from Hagerstown Light Infantry, 1881</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">2</container>
-							<unittitle>Letter regarding Membership to Philomanthiana Society, 1881</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">2</container>
-							<unittitle>Certificate of Membership to Philomanthiana Society, 1881</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">2</container>
-							<unittitle>Certificate of Honorary Membership to Baltimore Light Infantry, 1882</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">3</container>
-							<unittitle>Editorial from Baltimore American on retirement of Ex-Mayor and Ferdinand Latrobe and Certificate for Advertising, 1881 (2)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">4</container>
-							<unittitle>Stock Certificate for Mount Vernon Colombian Memorial Association of Virginia, 1892</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">4</container>
-							<unittitle>Certificate for Membership to Art Commission of Baltimore, 1904</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">5</container>
-							<unittitle>Certificate for Membership to Art Commission of Baltimore, 1904</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">5</container>
-							<unittitle>Certificate for Membership to Art Commission of Baltimore, 1907</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">2</container>
-							<container localtype="folder">5</container>
-							<unittitle>Letter regarding Stock to Royal Arcanum Club Building, 1907</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">3</container>
-							<container localtype="folder">1</container>
-							<unittitle>Certificate of Membership to State of Maryland Board of State Aid and Charities, 1902</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries I.G. Miscellaneous, Personal</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">3</container>
-							<container localtype="folder">2</container>
-							<unittitle>Civil War, Replica of Army of Northern Virginia Surrender at Appomattox, 1865.</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">3</container>
-							<container localtype="folder">3</container>
-							<unittitle>Carpentry Bill, 1910.</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">3</container>
-							<container localtype="folder">4</container>
-							<unittitle>Genealogy, Undated</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">3</container>
-							<container localtype="folder">5</container>
-							<unittitle>Latrobe Genealogy, St. Louis Latrobe’s, Undated</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries I.H. Press Clippings</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">3</container>
-							<container localtype="folder">6</container>
-							<unittitle>“To the Citizens of Baltimore,” undated</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">3</container>
-							<container localtype="folder">7</container>
-							<unittitle>Ferdinand Latrobe Portrait, 1913 ( 5 docs)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">3</container>
-							<container localtype="folder">8</container>
-							<unittitle>Latrobe Biography, undated</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">3</container>
-							<container localtype="folder">8</container>
-							<unittitle>“Memorandum Concerning a National Expedition to be sent to Mesopotamia under the auspices of the Smithsonian Expedition”</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">3</container>
-							<container localtype="folder">9</container>
-							<unittitle>Editorial by H. Clay Preuss, 1889</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries I.I. Speeches</unittitle>
-						<dao daotype="derived" href="http://collections.digitalmaryland.org/cdm/landingpage/collection/umfl">
-							<descriptivenote><p>Digital files available</p></descriptivenote>
-						</dao>
-					</did>
-					<scopecontent>
-						<p>This sub-series was digitized in 2010 by the Maryland Digital Cultural Heritage program.</p>
-					</scopecontent>
-					<c03 level="file">
-						<did>
-							<container localtype="box">4</container>
-							<container localtype="folder">1</container>
-							<unittitle>Address to the Brotherhood of Locomotive Engineers, undated, 11 pages (Oversized)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">4</container>
-							<container localtype="folder">2</container>
-							<unittitle>To the City Council regarding Mayor’s Status as Committee Member, undated, 6 pages (Oversized)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">4</container>
-							<container localtype="folder">3</container>
-							<unittitle>Democratic Stump Speech for Cleveland to Eastern Shore Democratic Club, undated, 10 pages (Oversized)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">4</container>
-							<container localtype="folder">4</container>
-							<unittitle>Franchise Bill, undated, 5 pages (Oversized)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">4</container>
-							<container localtype="folder">5</container>
-							<unittitle>1889, “An Incident of the Mayor’s Office” (Oversized)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">4</container>
-							<container localtype="folder">6</container>
-							<unittitle>1901 Address to the Johns Hopkins Club, “Recollections of Mrs. Caroline Donovan,” 20 pages (Oversized)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">4</container>
-							<container localtype="folder">7</container>
-							<unittitle>On Lincoln and the Civil War, undated, incomplete, 5 pages (Oversized)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">4</container>
-							<container localtype="folder">8</container>
-							<unittitle>Toast to Maryland, A History of the State, undated, 2 copies, 5 pages each (Oversized)</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">1</container>
-							<unittitle>Application for State Aid to Maryland Board of State Aid and Charities to Various Colleges and Schools, 1903-1904</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">2</container>
-							<unittitle>Application for State Aid to Maryland Board of State Aid and Charities, Johns Hopkins University, 1903-1904, 5 pages</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">3</container>
-							<unittitle>Baltimore Court House Wall Decorations, Art Society, 1902, 4 pages</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">4</container>
-							<unittitle>Baltimore History, Politics, incomplete, undated, 31 pages</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">5</container>
-							<unittitle>Baltimore “Illumination” Festival, undated, 6 pages</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">6</container>
-							<unittitle>Baltimore Improvements to City Council, undated, 7 pages</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">7</container>
-							<unittitle>Baltimore Improvements, Roadways, undated, 30 pages</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">8</container>
-							<unittitle>Church Congregation, May 9, 24 pages</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">9</container>
-							<unittitle>Andrew Jackson, undated, incomplete, 4 pages</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">10</container>
-							<unittitle>Municipal Government, undated, 5 pages</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">11</container>
-							<unittitle>Public Safety in Cities, Undated, 5 pages</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">12</container>
-							<unittitle>Pure Foods Exhibit, undated, 7 pages</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries I.J. Printed Speeches</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">4</container>
-							<unittitle>“Address by Ferdinand C. Latrobe,” October 7, 1875</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">8</container>
-							<unittitle>“A Message from Ferdinand C. Latrobe, Mayor of Baltimore, in relation to the Basis Nuisance” 1876</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">13</container>
-							<unittitle>“Proceedings of the Maryland Historical Society, In Commemoration of the late Hon. John H.B Latrobe, for twenty years, President of the Society,” 1891</unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">5</container>
-							<container localtype="folder">13</container>
-							<unittitle>“Valedictory Address of His Honor Mayor Latrobe on the occasion the Inauguration of Hon. Alcaeus Hooper as Mayor of Baltimore,” November 20, 1895</unittitle>
-						</did>
-					</c03>
-				</c02>
-			</c01>
-			<c01 level="series">
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries I.B. Compostions - School</unittitle>
+			</did>
+			<c03 level="file">
 				<did>
-					<unittitle>Series II. Journals and Diaries</unittitle>
-					<unitdate>circa 1860-1988; bulk 1880-1911</unitdate>
-					<physdesc>3.5 boxes (2 linear feet)</physdesc>
+					<container localtype="box">1</container>
+					<container localtype="folder">2</container>
+					<unittitle>1844 Essay and Poems, 1848 composition on Julius Caesar, and 1848 composition on a Picnic (3)</unittitle>
 				</did>
-				<scopecontent>
-					<p>This series is arranged in chronological order.</p>
-				</scopecontent>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries II.A. Diaries</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">6</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1888</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">6</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1889</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">6</container>
-							<container localtype="folder">0</container>
-							<unittitle>American Diary</unittitle>
-							<unitdate>1890</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">6</container>
-							<container localtype="folder">0</container>
-							<unittitle>Standard Diary</unittitle>
-							<unitdate>1891</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">6</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1892</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">6</container>
-							<container localtype="folder">0</container>
-							<unittitle>Clayton’s Octavo Diary</unittitle>
-							<unitdate>1893</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">6</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1894</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">6</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1895</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">7</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1896</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">7</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1897</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">7</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1898</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">7</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1899</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">7</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1900</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">7</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1901</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">7</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1902</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">7</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1903</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">8</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1904</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">8</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1905</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">8</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1906</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">8</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1907</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">8</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1908</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">8</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1909</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">9</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1910</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">9</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary. The last entry in this diary is dated January 11. Latrobe died on January 13, 1911 at the age of 77.</unittitle>
-							<unitdate>1911</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">9</container>
-							<container localtype="folder">0</container>
-							<unittitle>Diary, unknown writer</unittitle>
-							<unitdate>1922</unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Subseries II.B. Account Books</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">9</container>
-							<container localtype="folder">0</container>
-							<unittitle>Undated memo book containing notes to self, accounts, expenses, addresses, and daily appointments</unittitle>
-							<unitdate>undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">9</container>
-							<container localtype="folder">0</container>
-							<unittitle>Undated memo book containing notes to self, accounts, expenses, addresses, and daily appointments</unittitle>
-							<unitdate>Undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">9</container>
-							<container localtype="folder">0</container>
-							<unittitle>Undated memo book containing notes to self, accounts, expenses, addresses, and daily appointments</unittitle>
-							<unitdate>Undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">9</container>
-							<container localtype="folder">0</container>
-							<unittitle>Notebook containing accounts and memos</unittitle>
-							<unitdate>1860s</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">9</container>
-							<container localtype="folder">0</container>
-							<unittitle>Book with accounts, investments and loans</unittitle>
-							<unitdate>1861-1877</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">10</container>
-							<container localtype="folder">0</container>
-							<unittitle>Diary used as an appointment and address book, incomplete and scattered usage</unittitle>
-							<unitdate>1870</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">10</container>
-							<container localtype="folder">0</container>
-							<unittitle>Autograph book for Speaker of the House, Ferdinand C. Latrobe</unittitle>
-							<unitdate>1870</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">10</container>
-							<container localtype="folder">0</container>
-							<unittitle>Account and address book</unittitle>
-							<unitdate>1877</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">10</container>
-							<container localtype="folder">0</container>
-							<unittitle>Account book for Bank of Commerce</unittitle>
-							<unitdate>1880-1885</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">10</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary</unittitle>
-							<unitdate>1884</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">10</container>
-							<container localtype="folder">0</container>
-							<unittitle>Notebook</unittitle>
-							<unitdate>1889</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">10</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior Diary of names, accounts and daily appointments</unittitle>
-							<unitdate>1892</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">10</container>
-							<container localtype="folder">0</container>
-							<unittitle>Notebook</unittitle>
-							<unitdate>1893-1894</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">10</container>
-							<container localtype="folder">0</container>
-							<unittitle>Directory of Public Schools, Baltimore, MD</unittitle>
-							<unitdate>1894</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">10</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior diary used for accounts and appointments</unittitle>
-							<unitdate>1895</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">11</container>
-							<container localtype="folder">0</container>
-							<unittitle>Excelsior diary used for accounts and appointments, also contains diary entries from June of 1889</unittitle>
-							<unitdate>1896</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">11</container>
-							<container localtype="folder">0</container>
-							<unittitle>Appointment and address book</unittitle>
-							<unitdate>1896-1899</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">11</container>
-							<container localtype="folder">0</container>
-							<unittitle>Ellen Latrobe account book</unittitle>
-							<unitdate>1896-1910</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">11</container>
-							<container localtype="folder">0</container>
-							<unittitle>Book containing appointments, addresses and accounts</unittitle>
-							<unitdate>1897</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">11</container>
-							<container localtype="folder">0</container>
-							<unittitle>Book containing appointments, addresses and accounts</unittitle>
-							<unitdate>1898</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">11</container>
-							<container localtype="folder">0</container>
-							<unittitle>Book containing appointments, addresses, and brief diary entries (mostly relating to weather)</unittitle>
-							<unitdate>1899</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">11</container>
-							<container localtype="folder">0</container>
-							<unittitle>Maryland Congressional List</unittitle>
-							<unitdate>1900</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">11</container>
-							<container localtype="folder">0</container>
-							<unittitle>“Detroit Stove Works” account book</unittitle>
-							<unitdate>1903</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">11</container>
-							<container localtype="folder">0</container>
-							<unittitle>Standard Diary used as appointment book</unittitle>
-							<unitdate>1905</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">11</container>
-							<container localtype="folder">0</container>
-							<unittitle>Account book, incomplete</unittitle>
-							<unitdate>1910</unitdate>
-						</did>
-					</c03>
-				</c02>
-			</c01>
-			<c01 level="series">
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries I.C. Correspondence (Incoming)</unittitle>
+				<unitdate>1876-1910</unitdate>
+				<physdesc>10 folders</physdesc>
+			</did>
+			<scopecontent>
+				<p>Arranged alphabetically by subject, except individual letters which are arranged chronologically. Most subject headings are according to Mr. Latrobe’s own categorization.</p>
+			</scopecontent>
+			<c03 level="file">
 				<did>
-					<unittitle>Series III. Railroad Documents</unittitle>
-					<unitdate>1830-1857</unitdate>
-					<physdesc>50 documents (.25 linear feet)</physdesc>
+					<container localtype="box">1</container>
+					<container localtype="folder">3</container>
+					<unittitle>Dr. Boykin regarding political appointment of Hopkins, 2 letters, 1888</unittitle>
 				</did>
-				<scopecontent>
-					<p>The bulk of this series contains documents pertaining to a dispute between railroad locomotive engineers, Ross Winans and Henry Tyson. This subseries contains pamphlet documents, rough drafts, and copies. It is arranged by similar subject, paper, and corr</p>
-				</scopecontent>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Series III. A. John H.B. Latrobe Letter</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container localtype="box">12</container>
-							<container localtype="folder">1</container>
-							<unittitle>“Letter of PE Thomas, after the decision in MD Court of Appeals regards the RR Company,” by John H.B. Latrobe (2 pages). January 5, 1830.</unittitle>
-							<unitdate>1830</unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Series III.B. Ross Winans and Henry Tyson Dispute Papers</unittitle>
-						<physdesc>6 folders</physdesc>
-					</did>
-					<scopecontent>
-						<p>This subseries is arranged by page number, and by material size and color.</p>
-					</scopecontent>
-					<c03 level="file">
-						<did>
-							<container localtype="box">12</container>
-							<container localtype="folder">2</container>
-							<unittitle>Winans Papers, numbered pages 1-11</unittitle>
-							<unitdate>undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">12</container>
-							<container localtype="folder">3</container>
-							<unittitle>Winans Papers, numbered pages 12-26</unittitle>
-							<unitdate>undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">12</container>
-							<container localtype="folder">4</container>
-							<unittitle>Winans Papers, partially finished draft</unittitle>
-							<unitdate>undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">12</container>
-							<container localtype="folder">5</container>
-							<unittitle>Winans Papers, one piece, attached copy</unittitle>
-							<unitdate>undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">12</container>
-							<container localtype="folder">6</container>
-							<unittitle>Winans Papers, blue paper fragments</unittitle>
-							<unitdate>undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container localtype="box">12</container>
-							<container localtype="folder">7</container>
-							<unittitle>Winans Papers, fragments, notes, un-numbered</unittitle>
-							<unitdate>undated</unitdate>
-						</did>
-					</c03>
-				</c02>
-			</c01>
-		</dsc>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">4</container>
+					<unittitle>Carroll Island Gun Club, dog breeding, undated (2)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">5</container>
+					<unittitle>Chinese Delegation, Chen Shen Yin Correspondence, 1878-1879 (6)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">6</container>
+					<unittitle>Johns Hopkins University, 1888-1901 (4)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">7</container>
+					<unittitle>John King Telegram regarding RR Strike, 1877 (1)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">8</container>
+					<unittitle>“Letters of Congratulations,” 1878-1889 (7)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">9</container>
+					<unittitle>Personal Business/Affairs, 1876-1910 (14)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">10</container>
+					<unittitle>Political, Concerning Democratic Party Politics, City Business, 1877 -1903 (12</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">11</container>
+					<unittitle>Pratt, Enoch 1879, 1891 (2)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">12</container>
+					<unittitle>Sister Mary Benedict, 1877-1879 (3)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">13</container>
+					<unittitle>Vansant, Joshua 1880, 1882, (2)</unittitle>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries I.D. Legal Documents</unittitle>
+			</did>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">14</container>
+					<unittitle>Petition to the Orphan’s Court Regarding the Will of son Thomas Swann Latrobe, Letter of will transferring turnpike shares to F.C. Latrobe and two turnpike share certificates. (4)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">15</container>
+					<unittitle>Hampshire County Business, 1852</unittitle>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries I.E. Binder 1</unittitle>
+			</did>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">16</container>
+					<unittitle>Corruption in office, undated but during Mayoral term</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">1</container>
+					<container localtype="folder">17</container>
+					<unittitle>Letter to German Citizens regarding Democratic Politics, by Heinrich Tieck, 1891</unittitle>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries I.F. Memorabilia: Certificates, Stocks, Etc.</unittitle>
+				<unitdate>1876-1907</unitdate>
+				<physdesc>15 items</physdesc>
+			</did>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">1</container>
+					<unittitle>11th Ward Ticket for Democratic Mayoral Candidate Ferdinand Latrobe, undated</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">1</container>
+					<unittitle>Letter of Invitation to Philadelphia International Exhibition Opening Ceremonies, 1876</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">1</container>
+					<unittitle>Guest Pass to Opening Ceremonies, Philadelphia International Exhibition, 1876</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">2</container>
+					<unittitle>Letter regarding Honorary Membership to Hagerstown Light Infantry, 1881 and Certificate from Hagerstown Light Infantry, 1881</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">2</container>
+					<unittitle>Letter regarding Membership to Philomanthiana Society, 1881</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">2</container>
+					<unittitle>Certificate of Membership to Philomanthiana Society, 1881</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">2</container>
+					<unittitle>Certificate of Honorary Membership to Baltimore Light Infantry, 1882</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">3</container>
+					<unittitle>Editorial from Baltimore American on retirement of Ex-Mayor and Ferdinand Latrobe and Certificate for Advertising, 1881 (2)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">4</container>
+					<unittitle>Stock Certificate for Mount Vernon Colombian Memorial Association of Virginia, 1892</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">4</container>
+					<unittitle>Certificate for Membership to Art Commission of Baltimore, 1904</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">5</container>
+					<unittitle>Certificate for Membership to Art Commission of Baltimore, 1904</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">5</container>
+					<unittitle>Certificate for Membership to Art Commission of Baltimore, 1907</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">2</container>
+					<container localtype="folder">5</container>
+					<unittitle>Letter regarding Stock to Royal Arcanum Club Building, 1907</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">3</container>
+					<container localtype="folder">1</container>
+					<unittitle>Certificate of Membership to State of Maryland Board of State Aid and Charities, 1902</unittitle>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries I.G. Miscellaneous, Personal</unittitle>
+			</did>
+			<c03 level="file">
+				<did>
+					<container localtype="box">3</container>
+					<container localtype="folder">2</container>
+					<unittitle>Civil War, Replica of Army of Northern Virginia Surrender at Appomattox, 1865.</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">3</container>
+					<container localtype="folder">3</container>
+					<unittitle>Carpentry Bill, 1910.</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">3</container>
+					<container localtype="folder">4</container>
+					<unittitle>Genealogy, Undated</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">3</container>
+					<container localtype="folder">5</container>
+					<unittitle>Latrobe Genealogy, St. Louis Latrobe’s, Undated</unittitle>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries I.H. Press Clippings</unittitle>
+			</did>
+			<c03 level="file">
+				<did>
+					<container localtype="box">3</container>
+					<container localtype="folder">6</container>
+					<unittitle>“To the Citizens of Baltimore,” undated</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">3</container>
+					<container localtype="folder">7</container>
+					<unittitle>Ferdinand Latrobe Portrait, 1913 ( 5 docs)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">3</container>
+					<container localtype="folder">8</container>
+					<unittitle>Latrobe Biography, undated</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">3</container>
+					<container localtype="folder">8</container>
+					<unittitle>“Memorandum Concerning a National Expedition to be sent to Mesopotamia under the auspices of the Smithsonian Expedition”</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">3</container>
+					<container localtype="folder">9</container>
+					<unittitle>Editorial by H. Clay Preuss, 1889</unittitle>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries I.I. Speeches</unittitle>
+				<dao daotype="derived" href="http://collections.digitalmaryland.org/cdm/landingpage/collection/umfl">
+					<descriptivenote>
+						<p>Digital files available</p>
+					</descriptivenote>
+				</dao>
+			</did>
+			<scopecontent>
+				<p>This sub-series was digitized in 2010 by the Maryland Digital Cultural Heritage program.</p>
+			</scopecontent>
+			<c03 level="file">
+				<did>
+					<container localtype="box">4</container>
+					<container localtype="folder">1</container>
+					<unittitle>Address to the Brotherhood of Locomotive Engineers, undated, 11 pages (Oversized)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">4</container>
+					<container localtype="folder">2</container>
+					<unittitle>To the City Council regarding Mayor’s Status as Committee Member, undated, 6 pages (Oversized)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">4</container>
+					<container localtype="folder">3</container>
+					<unittitle>Democratic Stump Speech for Cleveland to Eastern Shore Democratic Club, undated, 10 pages (Oversized)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">4</container>
+					<container localtype="folder">4</container>
+					<unittitle>Franchise Bill, undated, 5 pages (Oversized)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">4</container>
+					<container localtype="folder">5</container>
+					<unittitle>1889, “An Incident of the Mayor’s Office” (Oversized)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">4</container>
+					<container localtype="folder">6</container>
+					<unittitle>1901 Address to the Johns Hopkins Club, “Recollections of Mrs. Caroline Donovan,” 20 pages (Oversized)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">4</container>
+					<container localtype="folder">7</container>
+					<unittitle>On Lincoln and the Civil War, undated, incomplete, 5 pages (Oversized)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">4</container>
+					<container localtype="folder">8</container>
+					<unittitle>Toast to Maryland, A History of the State, undated, 2 copies, 5 pages each (Oversized)</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">1</container>
+					<unittitle>Application for State Aid to Maryland Board of State Aid and Charities to Various Colleges and Schools, 1903-1904</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">2</container>
+					<unittitle>Application for State Aid to Maryland Board of State Aid and Charities, Johns Hopkins University, 1903-1904, 5 pages</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">3</container>
+					<unittitle>Baltimore Court House Wall Decorations, Art Society, 1902, 4 pages</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">4</container>
+					<unittitle>Baltimore History, Politics, incomplete, undated, 31 pages</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">5</container>
+					<unittitle>Baltimore “Illumination” Festival, undated, 6 pages</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">6</container>
+					<unittitle>Baltimore Improvements to City Council, undated, 7 pages</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">7</container>
+					<unittitle>Baltimore Improvements, Roadways, undated, 30 pages</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">8</container>
+					<unittitle>Church Congregation, May 9, 24 pages</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">9</container>
+					<unittitle>Andrew Jackson, undated, incomplete, 4 pages</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">10</container>
+					<unittitle>Municipal Government, undated, 5 pages</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">11</container>
+					<unittitle>Public Safety in Cities, Undated, 5 pages</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">12</container>
+					<unittitle>Pure Foods Exhibit, undated, 7 pages</unittitle>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries I.J. Printed Speeches</unittitle>
+			</did>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">4</container>
+					<unittitle>“Address by Ferdinand C. Latrobe,” October 7, 1875</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">8</container>
+					<unittitle>“A Message from Ferdinand C. Latrobe, Mayor of Baltimore, in relation to the Basis Nuisance” 1876</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">13</container>
+					<unittitle>“Proceedings of the Maryland Historical Society, In Commemoration of the late Hon. John H.B Latrobe, for twenty years, President of the Society,” 1891</unittitle>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">5</container>
+					<container localtype="folder">13</container>
+					<unittitle>“Valedictory Address of His Honor Mayor Latrobe on the occasion the Inauguration of Hon. Alcaeus Hooper as Mayor of Baltimore,” November 20, 1895</unittitle>
+				</did>
+			</c03>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series II. Journals and Diaries</unittitle>
+			<unitdate>circa 1860-1988; bulk 1880-1911</unitdate>
+			<physdesc>3.5 boxes (2 linear feet)</physdesc>
+		</did>
+		<scopecontent>
+			<p>This series is arranged in chronological order.</p>
+		</scopecontent>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries II.A. Diaries</unittitle>
+			</did>
+			<c03 level="file">
+				<did>
+					<container localtype="box">6</container>
+					<container localtype="folder">Envelope 1</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1888</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">6</container>
+					<container localtype="folder">Envelope 2</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1889</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">6</container>
+					<container localtype="folder">Envelope 3</container>
+					<unittitle>American Diary</unittitle>
+					<unitdate>1890</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">6</container>
+					<container localtype="folder">Envelope 4</container>
+					<unittitle>Standard Diary</unittitle>
+					<unitdate>1891</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">6</container>
+					<container localtype="folder">Envelope 5</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1892</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">6</container>
+					<container localtype="folder">Envelope 6</container>
+					<unittitle>Clayton’s Octavo Diary</unittitle>
+					<unitdate>1893</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">6</container>
+					<container localtype="folder">Envelope 7</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1894</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">6</container>
+					<container localtype="folder">Envelope 8</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1895</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">7</container>
+					<container localtype="folder">Envelope 1</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1896</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">7</container>
+					<container localtype="folder">Envelope 2</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1897</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">7</container>
+					<container localtype="folder">Envelope 3</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1898</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">7</container>
+					<container localtype="folder">Envelope 4</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1899</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">7</container>
+					<container localtype="folder">Envelope 5</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1900</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">7</container>
+					<container localtype="folder">Envelope 6</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1901</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">7</container>
+					<container localtype="folder">Envelope 7</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1902</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">7</container>
+					<container localtype="folder">Envelope 8</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1903</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">8</container>
+					<container localtype="folder">Envelope 1</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">8</container>
+					<container localtype="folder">Envelope 2</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1905</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">8</container>
+					<container localtype="folder">Envelope 3</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1906</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">8</container>
+					<container localtype="folder">Envelope 4</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1907</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">8</container>
+					<container localtype="folder">Envelope 5</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1908</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">8</container>
+					<container localtype="folder">Envelope 6</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1909</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">9</container>
+					<container localtype="folder">Envelope 1</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1910</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">9</container>
+					<container localtype="folder">Envelope 2</container>
+					<unittitle>Excelsior Diary. The last entry in this diary is dated January 11. Latrobe died on January 13, 1911 at the age of 77.</unittitle>
+					<unitdate>1911</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">9</container>
+					<container localtype="folder">Envelope 3</container>
+					<unittitle>Diary, unknown writer</unittitle>
+					<unitdate>1922</unitdate>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Subseries II.B. Account Books</unittitle>
+			</did>
+			<c03 level="file">
+				<did>
+					<container localtype="box">9</container>
+					<container localtype="folder">Envelope 4</container>
+					<unittitle>Undated memo book containing notes to self, accounts, expenses, addresses, and daily appointments</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">9</container>
+					<container localtype="folder">Envelope 5</container>
+					<unittitle>Undated memo book containing notes to self, accounts, expenses, addresses, and daily appointments</unittitle>
+					<unitdate>Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">9</container>
+					<container localtype="folder">Envelope 6</container>
+					<unittitle>Undated memo book containing notes to self, accounts, expenses, addresses, and daily appointments</unittitle>
+					<unitdate>Undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">9</container>
+					<container localtype="folder">Envelope 7</container>
+					<unittitle>Notebook containing accounts and memos</unittitle>
+					<unitdate>1860s</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">9</container>
+					<container localtype="folder">Envelope 8</container>
+					<unittitle>Book with accounts, investments and loans</unittitle>
+					<unitdate>1861-1877</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">10</container>
+					<container localtype="folder">Envelope 1</container>
+					<unittitle>Diary used as an appointment and address book, incomplete and scattered usage</unittitle>
+					<unitdate>1870</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">10</container>
+					<container localtype="folder">Envelope 2</container>
+					<unittitle>Autograph book for Speaker of the House, Ferdinand C. Latrobe</unittitle>
+					<unitdate>1870</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">10</container>
+					<container localtype="folder">Envelope 3</container>
+					<unittitle>Account and address book</unittitle>
+					<unitdate>1877</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">10</container>
+					<container localtype="folder">Envelope 4</container>
+					<unittitle>Account book for Bank of Commerce</unittitle>
+					<unitdate>1880-1885</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">10</container>
+					<container localtype="folder">Envelope 5</container>
+					<unittitle>Excelsior Diary</unittitle>
+					<unitdate>1884</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">10</container>
+					<container localtype="folder">Envelope 6</container>
+					<unittitle>Notebook</unittitle>
+					<unitdate>1889</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">10</container>
+					<container localtype="folder">Envelope 7</container>
+					<unittitle>Excelsior Diary of names, accounts and daily appointments</unittitle>
+					<unitdate>1892</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">10</container>
+					<container localtype="folder">Envelope 8</container>
+					<unittitle>Notebook</unittitle>
+					<unitdate>1893-1894</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">10</container>
+					<container localtype="folder">Envelope 9</container>
+					<unittitle>Directory of Public Schools, Baltimore, MD</unittitle>
+					<unitdate>1894</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">10</container>
+					<container localtype="folder">Envelope 10</container>
+					<unittitle>Excelsior diary used for accounts and appointments</unittitle>
+					<unitdate>1895</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">11</container>
+					<container localtype="folder">Envelope 1</container>
+					<unittitle>Excelsior diary used for accounts and appointments, also contains diary entries from June of 1889</unittitle>
+					<unitdate>1896</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">11</container>
+					<container localtype="folder">Envelope 2</container>
+					<unittitle>Appointment and address book</unittitle>
+					<unitdate>1896-1899</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">11</container>
+					<container localtype="folder">Envelope 3</container>
+					<unittitle>Ellen Latrobe account book</unittitle>
+					<unitdate>1896-1910</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">11</container>
+					<container localtype="folder">Envelope 4</container>
+					<unittitle>Book containing appointments, addresses and accounts</unittitle>
+					<unitdate>1897</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">11</container>
+					<container localtype="folder">Envelope 5</container>
+					<unittitle>Book containing appointments, addresses and accounts</unittitle>
+					<unitdate>1898</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">11</container>
+					<container localtype="folder">Envelope 6</container>
+					<unittitle>Book containing appointments, addresses, and brief diary entries (mostly relating to weather)</unittitle>
+					<unitdate>1899</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">11</container>
+					<container localtype="folder">Envelope 7</container>
+					<unittitle>Maryland Congressional List</unittitle>
+					<unitdate>1900</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">11</container>
+					<container localtype="folder">Envelope 8</container>
+					<unittitle>“Detroit Stove Works” account book</unittitle>
+					<unitdate>1903</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">11</container>
+					<container localtype="folder">Envelope 9</container>
+					<unittitle>Standard Diary used as appointment book</unittitle>
+					<unitdate>1905</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">11</container>
+					<container localtype="folder">Envelope 10</container>
+					<unittitle>Account book, incomplete</unittitle>
+					<unitdate>1910</unitdate>
+				</did>
+			</c03>
+		</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series III. Railroad Documents</unittitle>
+			<unitdate>1830-1857</unitdate>
+			<physdesc>50 documents (.25 linear feet)</physdesc>
+		</did>
+		<scopecontent>
+			<p>The bulk of this series contains documents pertaining to a dispute between railroad locomotive engineers, Ross Winans and Henry Tyson. This subseries contains pamphlet documents, rough drafts, and copies. It is arranged by similar subject, paper, and corr</p>
+		</scopecontent>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Series III. A. John H.B. Latrobe Letter</unittitle>
+			</did>
+			<c03 level="file">
+				<did>
+					<container localtype="box">12</container>
+					<container localtype="folder">1</container>
+					<unittitle>“Letter of PE Thomas, after the decision in MD Court of Appeals regards the RR Company,” by John H.B. Latrobe (2 pages). January 5, 1830.</unittitle>
+					<unitdate>1830</unitdate>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+			<did>
+				<unittitle>Series III.B. Ross Winans and Henry Tyson Dispute Papers</unittitle>
+				<physdesc>6 folders</physdesc>
+			</did>
+			<scopecontent>
+				<p>This subseries is arranged by page number, and by material size and color.</p>
+			</scopecontent>
+			<c03 level="file">
+				<did>
+					<container localtype="box">12</container>
+					<container localtype="folder">2</container>
+					<unittitle>Winans Papers, numbered pages 1-11</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">12</container>
+					<container localtype="folder">3</container>
+					<unittitle>Winans Papers, numbered pages 12-26</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">12</container>
+					<container localtype="folder">4</container>
+					<unittitle>Winans Papers, partially finished draft</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">12</container>
+					<container localtype="folder">5</container>
+					<unittitle>Winans Papers, one piece, attached copy</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">12</container>
+					<container localtype="folder">6</container>
+					<unittitle>Winans Papers, blue paper fragments</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container localtype="box">12</container>
+					<container localtype="folder">7</container>
+					<unittitle>Winans Papers, fragments, notes, un-numbered</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c03>
+		</c02>
+	</c01>
+	</dsc>
 	</archdesc>
 </ead>
