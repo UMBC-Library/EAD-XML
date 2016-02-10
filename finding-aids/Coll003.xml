@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><ead audience="external" relatedencoding="MARC21">
+      <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+         <recordid>Coll003</recordid>
+		 <representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll003.php" localtype="PHP">Finding Aid</representation>
+         <filedesc>
+            <titlestmt>
+               <titleproper encodinganalog="245$a">Rita Saltz collection</titleproper>
+               <author>Loeper, Lindsey</author>
+            </titlestmt>
+         </filedesc>
+         <maintenancestatus value="new"/>
+         <maintenanceagency countrycode="US">
+            <agencycode>mdubc</agencycode>
+            <agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+         </maintenanceagency>
+         <conventiondeclaration>
+            <abbr>DACS</abbr>
+            <citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+         </conventiondeclaration>
+         <localtypedeclaration>
+            <citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
+            <descriptivenote>
+               <p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+            </descriptivenote>
+         </localtypedeclaration>
+         <maintenancehistory>
+            <maintenanceevent>
+               <eventtype value="derived"/>
+               <eventdatetime standarddatetime="2015-08-27T12:45:18.077-04:00"/>
+               <agenttype value="machine"/>
+               <agent>Computer</agent>
+               <eventdescription>Conversion from PastPerfect.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-10-16T10:10:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Sonnenberg, Eric</agent>
+               <eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-10-23T11:44:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Sonnenberg, Eric</agent>
+               <eventdescription>Manual tag formatting update in controlaccess field.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-11-05T15:35:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Sonnenberg, Eric</agent>
+               <eventdescription>Added container list.</eventdescription>
+            </maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-20T10:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated representation field.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2016-01-27T16:15:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated subject and creator fields.</eventdescription>
+			</maintenanceevent>
+		</maintenancehistory>
+      </control>
+      <archdesc level="collection">
+         <did>
+            <unittitle encodinganalog="245$a">Rita Saltz collection</unittitle>
+            <unitid countrycode="US" repositorycode="mdubc">Coll003</unitid>
+            <origination>
+               <persname relator="creator" encodinganalog="100" source="local">
+                  <part>Saltz</part><part>Rita Seplowitz</part>
+               </persname>
+            </origination>
+            <unitdate unitdatetype="inclusive" encodinganalog="245$f">1955-1986</unitdate>
+            <unitdatestructured unitdatetype="inclusive">
+               <daterange>
+                  <fromdate>1955</fromdate>
+                  <todate>1986</todate>
+               </daterange>
+            </unitdatestructured>
+            <physdesc encodinganalog="300$a$f">1 box (.25 linear feet)</physdesc>
+            <physdescset>
+               <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+                  <quantity>1</quantity>
+                  <unittype>box</unittype>
+               </physdescstructured>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>.25</quantity>
+                  <unittype>linear feet</unittype>
+               </physdescstructured>
+            </physdescset>
+            <abstract encodinganalog="520$a">The collection contains announcements, newsletters, and manuscript drafts of Rita Saltz, as well as books, photographs, and comic books. Of particular interest is the correspondence from Jane Yolen [Stemple] the well known author of science fiction, fantasy, and childrens books. Also noteworthy is a signed and dated partial manuscript by science fiction writer Harlan Ellison of his screenplay based on Isaac Asimov's book I, Robot.</abstract>
+            <langmaterial>
+               <language langcode="eng">eng</language>
+            </langmaterial>
+            <repository>
+               <corpname>
+                  <part>University of Maryland, Baltimore County</part>
+               </corpname>
+               <address>
+                  <addressline>Albin O. Kuhn Library and Gallery</addressline>
+                  <addressline>UMBC</addressline>
+                  <addressline>1000 Hilltop Circle</addressline>
+                  <addressline>Baltimore, MD 21250</addressline>
+                  <addressline>410-455-2353</addressline>
+                  <addressline>speccoll@umbc.edu</addressline>
+               </address>
+            </repository>
+         </did>
+         <bioghist encodinganalog="545">
+            <p>Jane Yolen (1939 - ) is a science fiction and children's book author. Yolen has received both the Nebula Award from the Science Fiction/ Fantasy Writers of America and the Mythopoeic Fantasy Award. Harlan Ellison (1934 - ) is a science fiction author who has also worked in television, radio, and comics and graphic narratives. Ellison is also a recepient of the Nebula Award, in addition to the World Science Fiction Society's Hugo Award and the Silver Pen for Journalism by PEN International.</p>
+         </bioghist>
+         <arrangement encodinganalog="351">
+            <p>Arranged by accession.</p>
+         </arrangement>
+         <accessrestrict encodinganalog="506">
+            <p>No restrictions.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>Reproductions allowed for research purposes. Copyright maintained by the creator.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>Rita Saltz collection, Collection 3, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+         </prefercite>
+         <otherfindaid encodinganalog="555">
+            <p>Folder list available.</p>
+         </otherfindaid>
+         <acqinfo>
+            <p>These papers were acquired as three separate donations along with several books, some photographs and a large collection of comic books from Rita Seplowitz Saltz. Accessions from Saltz include: MSS 1995-09, 1996-13, 1996-14, 1997-05, 1998-01.</p>
+         </acqinfo>
+         <processinfo>
+            <p>Collection unprocessed. Several donations by Saltz contained science fiction publications; these have been removed and added to the Rosenfeld Science Fiction Collection or the general stacks.</p>
+         </processinfo>
+         <controlaccess>
+            <persname relator="creator" encodinganalog="700" source="lc">
+               <part>Yolen</part><part>Jane</part>
+            </persname>
+            <persname relator="creator" encodinganalog="700" source="lc">
+               <part>Ellison</part><part>Harlan</part>
+            </persname>
+            <subject encodinganalog="650" source="lc">
+               <part>Comic books, strips, etc.</part>
+            </subject>
+            <persname encodinganalog="600" source="lc">
+               <part>Asimov</part><part>Isaac</part><part>1920-1992</part>
+            </persname>
+            <subject encodinganalog="650" source="lc">
+               <part>Saltz, Rita Seplowitz</part><part>Archives</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Yolen, Jane</part><part>Correspondence</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Science fiction, American</part><part>20th century</part><part>Women authors</part>
+            </subject>
+         </controlaccess>
+		 <dsc>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">1</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate>1955</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1996-13, MSS 1996-14</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">2</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate>1965</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1996-13, MSS 1996-14</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">3</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate>1970-1975</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1996-13, MSS 1996-14</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">4</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate>1985</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1996-13, MSS 1996-14</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">5</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate>undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1996-13, MSS 1996-14</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">6</container>
+			<unittitle>Correspondence, Jane Yolan [Stemple]</unittitle>
+			<unitdate>1966, 1970-1975</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1996-13, MSS 1996-14</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">7</container>
+			<unittitle>Correspondence, Jane Yolan [Stemple]</unittitle>
+			<unitdate>1976-1979</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1996-13, MSS 1996-14</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">8</container>
+			<unittitle>Correspondence, Jane Yolan [Stemple]</unittitle>
+			<unitdate>1980-1986</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1996-13, MSS 1996-14</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">9</container>
+			<unittitle>Correspondence, Jane Yolan [Stemple]</unittitle>
+			<unitdate>undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1996-13, MSS 1996-14</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">10</container>
+			<unittitle>Newsletters and Announcements</unittitle>
+			<unitdate>undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>1 newsletter and 1 announcement regarding the constitution of the World Science Fiction Society. MSS 1996-13, MSS 1996-14</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">11</container>
+			<unittitle>Correspondence</unittitle>
+			<unitdate>1955, 1966-1967, 1971-1972</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1997-05</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">12</container>
+			<unittitle>Manuscript</unittitle>
+			<unitdate>undated</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1997-05. Partial manuscript draft of screenplay, "I, Robot" Harlon Ellison</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">13</container>
+			<unittitle>Correspondence, Isaac Asimov, Aug 24, 1973</unittitle>
+			<unitdate>1973</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1998-01</p>
+		</scopecontent>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">13</container>
+			<unittitle>Correspondence, Jane Yolan [Stemple]</unittitle>
+			<unitdate>1969-1972</unitdate>
+		</did>
+		<scopecontent>
+			<p>MSS 1998-01</p>
+		</scopecontent>
+	</c01>
+		 </dsc>
+      </archdesc>
+   </ead>
