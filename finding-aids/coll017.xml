@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><ead audience="external" relatedencoding="MARC21">
+      <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+         <recordid>Coll017</recordid>
+		 <representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll017.php" localtype="PHP">Finding Aid</representation>
+         <filedesc>
+            <titlestmt>
+               <titleproper encodinganalog="245$a">R.D. Allen film and videotape collection</titleproper>
+               <author>Loeper, Lindsey</author>
+            </titlestmt>
+         </filedesc>
+         <maintenancestatus value="new"/>
+         <maintenanceagency countrycode="US">
+            <agencycode>mdubc</agencycode>
+            <agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+         </maintenanceagency>
+         <conventiondeclaration>
+            <abbr>DACS</abbr>
+            <citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+         </conventiondeclaration>
+         <localtypedeclaration>
+            <citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
+            <descriptivenote>
+               <p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+            </descriptivenote>
+         </localtypedeclaration>
+         <maintenancehistory>
+            <maintenanceevent>
+               <eventtype value="derived"/>
+               <eventdatetime standarddatetime="2015-08-27T12:45:18.077-04:00"/>
+               <agenttype value="machine"/>
+               <agent>Computer</agent>
+               <eventdescription>Conversion from PastPerfect.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-10-16T10:53:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Sonnenberg, Eric</agent>
+               <eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+            </maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-20T10:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated representation field.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2016-01-27T16:15:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated subject and creator fields.</eventdescription>
+			</maintenanceevent>
+		</maintenancehistory>
+      </control>
+      <archdesc level="collection">
+         <did>
+            <unittitle encodinganalog="245$a">R.D. Allen film and videotape collection</unittitle>
+            <unitid countrycode="US" repositorycode="mdubc">Coll017</unitid>
+            <origination>
+               <persname relator="creator" encodinganalog="100" source="lc">
+                  <part>Allen</part><part>Robert Day</part>
+               </persname>
+            </origination>
+            <unitdate unitdatetype="inclusive" encodinganalog="245$f">1955-1986</unitdate>
+            <unitdatestructured unitdatetype="inclusive">
+               <daterange>
+                  <fromdate>1955</fromdate>
+                  <todate>1986</todate>
+               </daterange>
+            </unitdatestructured>
+            <physdesc encodinganalog="300$a$f">39 boxes (50 linear feet)</physdesc>
+            <physdescset>
+               <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+                  <quantity>39</quantity>
+                  <unittype>boxes</unittype>
+               </physdescstructured>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>50</quantity>
+                  <unittype>linear feet</unittype>
+               </physdescstructured>
+            </physdescset>
+            <abstract encodinganalog="520$a">Contains films and video recordings from R.D. Allen's research library. Includes footage provided by other scientisits regarding their research as well as films made by Allen. Includes 100 16mm films, approximately 500 16mm films, 438 3/4" videocassettes.</abstract>
+            <langmaterial>
+               <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+               <corpname>
+                  <part>University of Maryland, Baltimore County</part>
+               </corpname>
+               <address>
+                  <addressline>Albin O. Kuhn Library and Gallery</addressline>
+                  <addressline>UMBC</addressline>
+                  <addressline>1000 Hilltop Circle</addressline>
+                  <addressline>Baltimore, MD 21250</addressline>
+                  <addressline>410-455-2353</addressline>
+                  <addressline>speccoll@umbc.edu</addressline>
+               </address>
+            </repository>
+         </did>
+         <bioghist encodinganalog="545">
+            <p>R.D. "Bob" Allen (1927-1986) was a professor of biology at Dartmouth College, the founder of the journal "Cell Motility and the Cytoskeleton" (renamed "Cytoskeleton" in 2010), and leader in the field of cell motility, cytomechanics, and the developing use of video microscopy and optics in scientific research. Allen died in his home in New Hampshire, March 23, 1986, after a battle with pancreatic cancer.</p>
+         </bioghist>
+         <arrangement encodinganalog="351">
+            <p>By format, then either by date/author or topic.</p>
+         </arrangement>
+         <accessrestrict encodinganalog="506">
+            <p>No restrictions.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>Reproductions allowed for research purposes. Rights are maintained by UMBC.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>R.D. Allen film and videotape collection, Center for Biological Sciences Archives, Collection 17, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+         </prefercite>
+         <otherfindaid encodinganalog="555">
+            <p>Inventory available</p>
+         </otherfindaid>
+         <acqinfo>
+            <p>Originally located at Dartmouth University, the collection was donated to the American Society of Cell Biology in 1999; they immediately donated the holdings to UMBC.</p>
+         </acqinfo>
+         <processinfo>
+            <p>Collection unprocessed.</p>
+         </processinfo>
+         <controlaccess>
+            <corpname encodinganalog="610" source="lc">
+               <part>American Society for Cell Biology</part>
+            </corpname>
+            <subject encodinganalog="650" source="lc">
+               <part>Biology</part>
+            </subject>
+            <corpname encodinganalog="610" source="lc">
+               <part>Dartmouth College</part>
+            </corpname>
+            <subject encodinganalog="650" source="lc">
+               <part>Allen, Robert Day</part><part>Archives</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Cell Motility and the Cytoskeleton</part>
+			</subject>
+			<subject encodinganalog="650" source="lc">
+			   <part>Cells</part><part>Motility</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Microscopy</part>
+            </subject>
+         </controlaccess>
+      </archdesc>
+   </ead>

@@ -1,0 +1,4117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<ead audience="external" relatedencoding="MARC21">
+      <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+         <recordid>Coll012</recordid>
+		 <representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll012.php" localtype="PHP">Finding Aid</representation>
+		 <filedesc>
+            <titlestmt>
+               <titleproper encodinganalog="245$a">American Association of Immunologists records</titleproper>
+               <author>Peri, Marcia</author>
+            </titlestmt>
+         </filedesc>
+         <maintenancestatus value="new"/>
+         <maintenanceagency countrycode="us">
+            <agencycode>mdubc</agencycode>
+            <agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+         </maintenanceagency>
+         <conventiondeclaration>
+            <abbr>DACS</abbr>
+            <citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+         </conventiondeclaration>
+         <localtypedeclaration>
+            <citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
+            <descriptivenote>
+               <p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+            </descriptivenote>
+         </localtypedeclaration>
+         <maintenancehistory>
+            <maintenanceevent>
+               <eventtype value="derived"/>
+               <eventdatetime standarddatetime="2015-06-30T09:11:32.282-04:00"/>
+               <agenttype value="machine"/>
+               <agent>Computer</agent>
+               <eventdescription>Conversion from PastPerfect.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-07-14T11:51:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Somach, Emily</agent>
+               <eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-11-05T14:24:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Sonnenberg, Eric</agent>
+               <eventdescription>Updated biographical note, scope and content, organization; added container list.</eventdescription>
+            </maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-13T15:15:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated bibliography and related materials.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-19T16:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated links in representation field.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2016-03-09T14:26:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Corrections to container list and collection arrangement, and additions to processing note.</eventdescription>
+			</maintenanceevent>
+         </maintenancehistory>
+      </control>
+      <archdesc level="collection">
+         <did>
+            <unittitle encodinganalog="245$a">American Association of Immunologists records</unittitle>
+            <unitid countrycode="us" repositorycode="mdubc">Coll012</unitid>
+            <origination>
+               <corpname relator="creator" encodinganalog="110" source="lc">
+                  <part>American Association of Immunologists</part>
+               </corpname>
+            </origination>
+            <unitdate unitdatetype="inclusive" encodinganalog="245$f">1913-1996</unitdate>
+            <unitdate unitdatetype="bulk" encodinganalog="245$g">bulk 1967-1992</unitdate>
+            <unitdatestructured unitdatetype="inclusive">
+               <daterange>
+                  <fromdate>1913</fromdate>
+                  <todate>1996</todate>
+               </daterange>
+            </unitdatestructured>
+            <physdesc encodinganalog="300$a$f">12 boxes (17 linear feet)</physdesc>
+            <physdescset>
+               <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+                  <quantity>12</quantity>
+                  <unittype>boxes</unittype>
+               </physdescstructured>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>17</quantity>
+                  <unittype>linear feet</unittype>
+               </physdescstructured>
+            </physdescset>
+            <abstract encodinganalog="520$a">Files documenting the American Association of Immunologists' (AAI) activities including correspondence, reports, minutes, ledgers, journals, newsletters, programs, directories, and audio visual materials. Of particular significance are membership dues ledgers and issues of the Journal of Immunology. Personal histories including articles, reports, correspondence and photographs are present for all the Presidents of the association.</abstract>
+            <langmaterial>
+               <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+               <corpname>
+                  <part>University of Maryland, Baltimore County</part>
+               </corpname>
+               <address>
+                  <addressline>Albin O. Kuhn Library and Gallery</addressline>
+                  <addressline>UMBC</addressline>
+                  <addressline>1000 Hilltop Circle</addressline>
+                  <addressline>Baltimore, MD 21250</addressline>
+                  <addressline>410-455-2353</addressline>
+                  <addressline>speccoll@umbc.edu</addressline>
+               </address>
+            </repository>
+         </did>
+		 <scopecontent encodinganalog="520">
+			<p>The collection of records of the American Association of Immunologists (AAI) primarily documents its activity between 1967 and 1992. While there are records back as far as 1941 they are very sporadic and consist mostly of correspondence. There are no documents concerning the Association’s founding and years up to the late 1940s, although there are articles included that relate the Associations history. The records are arranged in eight series: Council, Meetings, Committees, Financial, Historian, Publications, Affiliated Societies and Video and Audio Tapes.</p>
+			<p>The Council Series contains the records of Association Officers, Councillors, and the Executive Director. The Officer and Councillor files consist almost entirely of correspondence from the 1950s and 1960s though reports and meeting minutes are sometimes interspersed with the correspondence. The Executive Director files are those of Dr. Joe Saunders who was the first Executive Director of the Association and was appointed in 1986. His files include some materials of the Administrative Assistant dating from 1967 to 1971. The series Meetings contains files from the Annual/Business meetings, Council meetings, Executive Committee meetings and International Congress of Immunology meetings. The Annual/Business meeting subseries contains files for meetings from 1954 to 1992 with the exception of 1955. The Council meeting files begin in 1946 and are sporadic until 1965; from that point there is some material from each year until 1992. The index for Executive Committee reports and the accompanying reports were gleaned from meeting minutes and compiled in an easy to look up format. The system was devised by Executive Director Dr. Joe Saunders and is a good source to see what the various committees were involved in from 1973 to 1985. International Congress of Immunology files consist of correspondence pertaining to travel grants and arrangements with little information directly related to the meetings themselves.</p>
+			<p>Committee files are arranged in alpha order. The Education Committee files are the most numerous. There is more information on committees in the Meeting Series.</p>
+			<p>Financial records are extremely limited and in no way complete. There are two Association ledgers that cover the years from 1946 to 1970. The Membership Dues Ledger records membership records dating from 1921 provides a comprehensive member list. Also included are a small number of bank deposit and investment records, statements and a budget.</p>
+			<p>The Historian Series contains the files of the Associations first historian Merrill Chase. He was appointed in 1965 and began compiling histories and photographs of all AAI Presidents. Executive Director Dr. Joe Saunders added to Dr. Chase’s work. The files are in alpha order and include information and photographs of people other than AAI Presidents.</p>
+			<p>The Publication Series contains AAI publications such as newsletters from 1971 to 1991, meeting programs from from1960 to 1987. Although the Association published the Journal of Immunology since 1916, there are only volumes included from 1988 and 1989. The bulk of the material was not published by AAI but was included in the accession. It includes scientific articles, brochures, meeting programs and books. They are listed in alpha order.</p>
+			<p>Federation of American Societies for Experimental Biology (FASEB), the International Congress of Immunology, the International Union of Immunological Societies and the New York Academy of Science Conference are included in the Affiliated Societies Series. The majority of the files are from AAI’s close relationship with FASEB and date from 1961 to 1990. There are FASEB yearly membership directories from 1965 to 1979. The files are in alpha order followed by date order.</p>
+			<p>Audio cassette tapes are available for some Annual and Council meeting from 1986 to 1991. The video cassettes contain interviews and lectures.</p>
+		 </scopecontent>
+         <bioghist encodinganalog="545">
+            <p>The American Association of Immunologists, Inc. (AAI) was formally chartered on June 19, 1913 in Minneapolis, Minnesota while the founders, Dr. Gerald Webb, Dr. A. Parker Hitchens and Dr. Martin Synnott were attending a meeting of The American Medical Association.  Three principal objectives were set forth by the 52 enrolled charter members which were to unite the physicians of the United States and Canada who are engaged in the scientific study of immunity and bacterial therapy; to study problems of immunology and to promote by its concerted efforts a scientific research in this department; and to spread a correct knowledge of vaccine therapy and immunology among general practitioners. The Council established a liberal policy of admitting individuals with a doctorate and several years of teaching and/or research in immunology including publications. In 1972 the criterion for membership was modified and additional publishing requirements were imposed in order to create a more exclusionary Society.</p>
+			<p>In February of 1916 in Baltimore Maryland the Association began publication of its journal, The Journal of Immunology. The following year Association’s constitution and bylaws were adopted on April 6, 1917. There have been two major revisions in the Constitution since that time one in 1950 and the other in 1986. The alterations approved in 1950 expanded the classes of membership to include Honorary and Emeritus members and modified both election procedures and council membership requirements. The 1986 Constitutional revisions expanded the Council, called for the election of the nominating committee, gave formal recognition to Corporate Members, changed the entitlements of Emeritus and Honorary Members, replaced the Editorial Board with a Publications Committee and changed the management of the Journal and the Editor in Chief.</p>
+			<p>AAI’s Council has the duty of general supervision of the affairs of AAI between annual business meetings.  The voting members of the Council include the President, Vice-President, Secretary-Treasurer, and four Councillors. Chairs of the committees may also be asked to attend Council meetings as non-voting members. They meet prior to the annual business meeting and at other times deemed necessary by the President and three voting members of the Council.</p>
+			<p>In the early years and until 1939 AAI scheduled its annual business meetings to coincide with the meetings of the American Association of Pathologists and Bacteriologists. However at the 1938 meeting of the Council and membership at large, a decision was reached to convene joint sessions with the Federation of the American Societies of Experimental Biologists.  In 1942 AAI was formally invited to join the Federation as a Corporate Member Society. From that time and at least until 1991 the annual business meetings have been held in conjunction with FASEB.</p>
+			<p>For the first fifty years, the Association had no fixed location for executive activity.  During that time the AAI headquarters was either in the residence or the professional offices of the Secretary/Treasurer.  In 1965 a permanent headquarters was established for the administration and management of Association affairs at Beaumont House in FASEB headquarters.  In 1980 the Council initiated moving the editorial office of The Journal of Immunology to the AAI Central Office at FASEB.  At this time AAI began a search for an Executive Officer who would also serve as the Managing Editor for the Journal.  Three years later President Barry Bloom appointed Dr. Joseph Saunders the first professional executive officer of the Association.</p>
+			<p>In 1968, the Council approved the appointment of a historian to assume responsibility of collecting letters and photographs of past AAI Presidents and people of historic significance to the Association.  Past President Merrill Chase was selected as the first historian and began collecting as much primary source data as possible about the previous AAI Presidents.  Dr. Joseph Saunders assumed the role of archivist as one of his duties as Executive Director in 1983 and collected more data.</p>
+			<p>Currently AAI is the largest professional association of immunologists in the world.  It is still affiliated with FASEB and continues to have its headquarters located with the FASEB.</p>
+         </bioghist>
+         <arrangement encodinganalog="351">
+            <p>Organized into eight series: Series I. Council, 1941-1992. Series II. Meetings, 1954-1993. Series III. Committees, 1966-1992. Series IV. Financial, 1921-1991. Series V. Historian, 1913-1988. Series VI. Publications, 1933-1995. Series VII. Affiliated Societies, 1967-1991. Series VIII. Video and Audio Materials, 1970-1991.</p>
+			<list listtype="ordered" numeration="upper-alpha">
+               <head>Series I. Council</head>
+               <item>Councillors</item>
+               <item>Executive Director</item>
+               <item>President</item>
+               <item>Secretary/Treasurer</item>
+			</list>  
+			<list listtype="ordered" numeration="upper-alpha">
+               <head>Series II. Meetings</head>
+               <item>Annual/Business</item>
+               <item>Council</item>
+               <item>Executive Committee</item>
+               <item>International Congress of Immunology</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series III. Committees</head>
+				<item></item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series IV. Financial</head>
+				<item></item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series V. Historian</head>
+				<item>Historian Records</item>
+				<item>Personal Histories</item>
+				<item>Photographs</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series VI. Publications</head>
+				<item></item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series VII. Affiliated Societies</head>
+				<item></item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series VIII. Video and Audio Materials</head>
+				<item></item>
+			</list>
+         </arrangement>
+         <accessrestrict encodinganalog="506">
+            <p>No restrictions.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>Reproduction allowed for research purposes. Copyright maintained by creator.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>American Association of Immunologists records, Center for Biological Sciences Archives, Collection 12, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+         </prefercite>
+         <otherfindaid encodinganalog="555">
+            <p>Finding aid available.</p>
+         </otherfindaid>
+         <acqinfo>
+            <p>MSS 1996-03; The records in this collection were donated in a single gift on March 29, 1996. The donation was approved by Dr. Michelle Hogan and the materials transferred from the Society’s offices in Bethesda, MD.</p>
+         </acqinfo>
+         <processinfo>
+            <p>This collection was processed by Sharon Knecht under the supervision of Maria Frank Peri and completed in November 2001.</p>
+			<p>The majority of the records were found to be in relatively good order since the bulk of them were the files of Executive Director Dr. Joe Saunders. There were very few financial or membership records included in the acquisition. Committee files containing reports were occasionally filed separately but the more often were found interspersed with meeting files. The remaining records have been organized by type of activity based on the order in which they were received.</p>
+			<p>Multiple copies have been disposed of whenever there were more than two copies of a given document.</p>
+			<p>No materials were found for the early years of the Association (1913 –1960s) with the exception of a few pieces of correspondence of past Presidents. These documents had been gathered first by the Association Historian, Merrill Chase and later by the Executive Director, Joe Saunders. Correspondence and Minutes indicate that there was a discussion about sending the association archives to the University of Wisconsin, but it is not clear if that was ever done.</p>
+			<p>In the course of reviewing container lists in March 2016, Series V. Historian was modified. Several folders which were not previously contained in a subseries were assigned to Subseries V.A. Historian Records. The preexisting subseries, V.A. Personal Histories, and V.B. Photographs, were renamed as subseries V.B and V.C respectively.</p>
+         </processinfo>
+         <controlaccess>
+            <subject encodinganalog="650" source="lc">
+               <part>American Association of Immunologists</part><part>Archives</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Federation of American Societies for Experimental Biology</part><part>Archives</part>
+            </subject>
+            <corpname encodinganalog="610" source="lc">
+               <part>Federation of American Societies for Experimental Biology</part>
+            </corpname>
+            <subject encodinganalog="650" source="lc">
+               <part>Immunology</part><part>Societies, etc.</part>
+            </subject>
+            <persname encodinganalog="600" source="lc">
+               <part>Saunders</part><part>Joe</part>
+            </persname>
+         </controlaccess>
+		 <bibliography>
+			<bibref><ref href="http://www.aai.org/">American Association of Immunologists. Accessed November 13, 2015.</ref></bibref>
+		 </bibliography>
+		 <dsc>
+	<c01 level="series">
+		<did>
+			<unittitle>Series I. Council</unittitle>
+			<unitdate>1941-1992; 1986-1992 bulk</unitdate>
+			<physdesc>3 boxes (4 linear feet)</physdesc>
+		</did>
+		<scopecontent>
+			<p>The Council Series consists of four sub-series which made up the organization’s Council. They are the Councilors, Executive Director, President and Secretary/Treasurer. The general correspondence of each sub-series is in date order followed by subject correspondence in alpha order.</p>
+		</scopecontent>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries I.A. Councilors</unittitle>
+			<unitdate>1941-1986</unitdate>
+			<physdesc>.25 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>All the files contain correspondence of a miscellaneous nature.</p>
+		</scopecontent>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">1</container>
+			<unittitle>Correspondence 1941, 1943, 1954 -1956</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">2</container>
+			<unittitle>Correspondence (Chase) 1954/4 -1955/2</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">3</container>
+			<unittitle>Correspondence (Metzger) 1986/5 -12</unittitle>
+		</did>
+	</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries I.B. Executive Director</unittitle>
+			<unitdate>1967–1992; 1986 –1992 bulk</unitdate>
+			<physdesc>1.75 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The materials are primarily the files of Executive Director Dr. Joseph Saunders. He was the first professional Executive Director and was appointed in 1986. Many files contain a combination of correspondence and reports. They have been kept in the same arrangement as Saunders had them as much as possible. The files are listed in subject alpha order and then in date order. General Correspondence files are in date order and files preceding the subject correspondence files.</p>
+		</scopecontent>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">4</container>
+			<unittitle>Actions Completed 1992/4–6</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">5</container>
+			<unittitle>Administrative Assistant (Reines) 1967/1- 1971/12</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">6</container>
+			<unittitle>Agreements 1990/9 –1991/3</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">7</container>
+			<unittitle>Awards 1988</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">8</container>
+			<unittitle>Castaneda 1986</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">9</container>
+			<unittitle>Committee Reports 1988</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">10</container>
+			<unittitle>Correspondence 1986/3 – 4</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">11</container>
+			<unittitle>Correspondence 1988/1 – 3</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">12</container>
+			<unittitle>Correspondence 1988//4 –12</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">13</container>
+			<unittitle>Correspondence 1989/4 – 1991/3</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">14</container>
+			<unittitle>Correspondence 1991/4 – 10</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">15</container>
+			<unittitle>Correspondence 1991/10 –1992/9</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">16</container>
+			<unittitle>Correspondence/AAI Symposium 1986/8 –1988/5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">17</container>
+			<unittitle>Correspondence/AAI Annual Meeting 1988 1987/8 – 1988/6</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">18</container>
+			<unittitle>Correspondence/AAI Annual Meeting 1990 1988/11 – 1990/5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">19</container>
+			<unittitle>Correspondence/AAI Annual Meeting 1991 !989/6 –1991/4</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">20</container>
+			<unittitle>Correspondence/ Bang Scholarship 1986/11 – 1987/6</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">21</container>
+			<unittitle>Correspondence/ Behring-Heidelberger Lecture 1988/4 –1990/3</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">22</container>
+			<unittitle>Correspondence/ Behring-Heidelberger Lecture 1990/4 – 11</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">23</container>
+			<unittitle>Correspondence/ Behring-Heidelberger Lecture ( McDevitt) 1991/4 – 1992/4</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">24</container>
+			<unittitle>Correspondence/ Committee Members 1991/9 – 1992/8</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">25</container>
+			<unittitle>Correspondence/Committees 1987/6 – 1988/4</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">26</container>
+			<unittitle>Correspondence/Congressional Hearings 1991/1-3</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">27</container>
+			<unittitle>Correspondence/Congressional Hearings 1991/4</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">28</container>
+			<unittitle>Correspondence/Congressional Hearings 1991/5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">29</container>
+			<unittitle>Correspondence/Congressional Hearings 1992/1 –2</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">30</container>
+			<unittitle>Correspondence/Cooper 1988/5 –1989/1</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">31</container>
+			<unittitle>Correspondence/Cooper 1989/4 – 1990/4</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">1</container>
+			<container localtype="folder">32</container>
+			<unittitle>Correspondence/Council Meeting 1987 1987/3 – 9</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">1</container>
+			<unittitle>Correspondence/Council Meeting 1988 1988/5 –10</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">2</container>
+			<unittitle>Correspondence/Council Meeting 1989 1989/3</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">3</container>
+			<unittitle>Correspondence/Council Meeting 1990 1989/11 – 1990/5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">4</container>
+			<unittitle>Correspondence/Finance Committee 1989/12 – 1990/5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">5</container>
+			<unittitle>Correspondence/Fitch 1991/11 – 1992/6</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">6</container>
+			<unittitle>Correspondence/Funding Requests A 1991 – 1992</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">7</container>
+			<unittitle>Correspondence/Funding Requests B 1991 – 1992</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">8</container>
+			<unittitle>Correspondence/Heidelberger 1988/3 – 1989/11</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">9</container>
+			<unittitle>Correspondence/Heidelberger Death 1991/2 – 1991/9</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">10</container>
+			<unittitle>Correspondence/Honorary Members 1992</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">11</container>
+			<unittitle>Correspondence/International Congress of Immunology Budapest 1991/3 – 11</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">12</container>
+			<unittitle>Correspondence/International Union of Immunological Societies 1992/2 – 6</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">13</container>
+			<unittitle>Correspondence/Journal of Immunology 1988</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">14</container>
+			<unittitle>Correspondence/Meetings 1990 – 1993 1990/1 –1991/3</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">15</container>
+			<unittitle>Correspondence/Metzger 1991/7 – 1992/7</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">16</container>
+			<unittitle>Correspondence/Nisonoff 1990/8 – 1991/12</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">17</container>
+			<unittitle>Correspondence/Paul 1986/7 – 1987/12</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">18</container>
+			<unittitle>Correspondence/Program Committee 1989/11 – 1990/4</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">19</container>
+			<unittitle>Correspondence/Publications 1985/10 – 1986/4</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">20</container>
+			<unittitle>Correspondence/Resolutions 1990/10</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">21</container>
+			<unittitle>Correspondence/Sandoz Prize 1989/2 – 1990/11</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">22</container>
+			<unittitle>Correspondence/Shreffler 1987/4 – 1988/6</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">23</container>
+			<unittitle>Correspondence/Thorbecke 1988/2 – 1990/9</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">24</container>
+			<unittitle>History Articles</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">25</container>
+			<unittitle>Meeting Location Materals</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">26</container>
+			<unittitle>Membership 1988 – 1990</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">27</container>
+			<unittitle>Membership 1989 – 1991</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">28</container>
+			<unittitle>Statistics (Scientific Program) A 1987 – 1991</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">2</container>
+			<container localtype="folder">29</container>
+			<unittitle>Statistics (Scientific Program) B 1987 - 1992</unittitle>
+		</did>
+	</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries I.C. President</unittitle>
+			<unitdate>1947–1992</unitdate>
+			<physdesc>.5 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The President sub-series contains all correspondence files. Occasionally reports are included within the files or are referenced in the correspondence. The correspondence is listed in date order with the President’s name. The correspondence was not all necessarily created while the person was in office.</p>
+		</scopecontent>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">1</container>
+			<unittitle>Correspondence (Enders) 1945/11 – 1953/11</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">2</container>
+			<unittitle>Correspondence (Heidelberger) 1947/3 – 1948/11</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">3</container>
+			<unittitle>Correspondence (Enders) 1955/3 – 1968/9</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">4</container>
+			<unittitle>Correspondence (Chase) 1956</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">5</container>
+			<unittitle>Correspondence (Chase) 1957</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">6</container>
+			<unittitle>Correspondence (Chase)/Constitutional Revison 1955/10 –1958/9</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">7</container>
+			<unittitle>Correspondence (Smadel) 1957/2 –1959/2</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">8</container>
+			<unittitle>Correspondence (Dingle) 1957/5 – 1959/2</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">9</container>
+			<unittitle>Correspondence (Coons) 1960/2 – 12</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">10</container>
+			<unittitle>Correspondence (Lancefield)/Dr. Lee 1961 –1962</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">11</container>
+			<unittitle>Correspondence (Horsfall) 1967/5 – 1968/7</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">12</container>
+			<unittitle>Correspondence (Horsfall)/American Academy of Science Representives 1967/6</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">13</container>
+			<unittitle>Correspondence (Horsfall)/Committee to Study National or International Congress on Immunology 1967/6 – 1968/3</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">14</container>
+			<unittitle>Correspondence (Horsfall)/Federation Board 1967/4 – 5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">15</container>
+			<unittitle>Correspondence (Horsfall)/Membership Committee 1967/4 – 5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">16</container>
+			<unittitle>Correspondence (Horsfall)/National Medal of Science 1967/1 – 5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">17</container>
+			<unittitle>Correspondence (Horsfall)/Nominating Committee 1967/6 – 1968/3</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">18</container>
+			<unittitle>Correspondence (Horsfall)/ Public Affairs Committee 1967/6 1968/1</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">19</container>
+			<unittitle>Correspondence (Horsfall)/Public Information Committee 1967/6</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">20</container>
+			<unittitle>Correspondence (Horsfall)/Translation Supplement Federation of American Societies for Experimental Biology 1967/4 – 9</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">21</container>
+			<unittitle>Correspondence (Enders)1968/4 – 1969/5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">22</container>
+			<unittitle>Correspondence (Campbell) 1972/8 – 1973/7</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">23</container>
+			<unittitle>Correspondence (Campbell)/Committees 1972/6 – 1973/5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">24</container>
+			<unittitle>Correspondence (Metzger)/Fitch 1992/4 – 5</unittitle>
+		</did>
+	</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries I.D. Secretary/Treasurer</unittitle>
+			<unitdate>1953-1980</unitdate>
+			<physdesc>.5 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The sub-series contains primarily correspondence, but there are reports, financial statements and information on meetings in some files. They are listed in date order.</p>
+		</scopecontent>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">25</container>
+			<unittitle>Correspondence (Sugg) 1953</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">26</container>
+			<unittitle>Correspondence (Cheever) 1954/9 – 1961/2</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">27</container>
+			<unittitle>Correspondence (Howe) 1960/4 – 1961/5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">28</container>
+			<unittitle>Correspondence (Howe)/Dr. Coca’s death 1959/12 – 1961/2</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">29</container>
+			<unittitle>Correspondence (Waksman) 1961/4 – 1963/2</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">30</container>
+			<unittitle>Correspondence (Waksman) 1963/3 – 1964/4</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">31</container>
+			<unittitle>Correspondence (Dray) 1963 –1969</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">32</container>
+			<unittitle>Correspondence (Dray)/International Congress of Immunology 1966/6 – 1967/1</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">33</container>
+			<unittitle>Correspondence (Metzger) 1970/10 – 1980/2</unittitle>
+		</did>
+	</c03>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series II. Meetings</unittitle>
+			<unitdate>1954-1993</unitdate>
+			<physdesc>4.5 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The Series II folders contain a variety of information on the annual and council meetings. Varying records are in the files including minutes, reports and correspondence. It is arranged in date order by year and then in alpha order if additional files were found for that year. The most information is available from 1986 to 1993.</p>
+		</scopecontent>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries II.A. Annual/Business Meetings</unittitle>
+			<unitdate>1954-1993</unitdate>
+			<physdesc>.75 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The annual business meeting was held in conjunction with the FASEB meeting. The files are arranged in date order and contain a variety of different items varying from year to year. Correspondence, reports, minutes and personal observances are available for many years. There is not a complete run of years.</p>
+		</scopecontent>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">34</container>
+			<unittitle>1954</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">35</container>
+			<unittitle>1956</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">36</container>
+			<unittitle>1958</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">37</container>
+			<unittitle>1959</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">38</container>
+			<unittitle>1960</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">39</container>
+			<unittitle>1961</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">40</container>
+			<unittitle>1962</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">41</container>
+			<unittitle>1963</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">42</container>
+			<unittitle>1963/Correspondence 1962/6 – 1963/2</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">43</container>
+			<unittitle>1964</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">44</container>
+			<unittitle>1964/Correspondence 1963/5 – 1964/12</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">45</container>
+			<unittitle>1964/Display Materials</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">46</container>
+			<unittitle>1965</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">3</container>
+			<container localtype="folder">47</container>
+			<unittitle>1966</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">1</container>
+			<unittitle>1967</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">2</container>
+			<unittitle>1968</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">3</container>
+			<unittitle>1969</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">4</container>
+			<unittitle>1970</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">5</container>
+			<unittitle>1971</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">6</container>
+			<unittitle>1972</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">7</container>
+			<unittitle>1987 – 1993/Miscellaneous</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">8</container>
+			<unittitle>1988</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">9</container>
+			<unittitle>1988/ Correspondence (Celebratory Symposium) 1987/3 – 1988/2</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">10</container>
+			<unittitle>1990</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">11</container>
+			<unittitle>1990/Correspondence 1990/2 – 6</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">12</container>
+			<unittitle>1990/Funding Requests</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">13</container>
+			<unittitle>1990/Speakers and Abstracts</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">14</container>
+			<unittitle>1991/Abstract Control</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">15</container>
+			<unittitle>1992</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">16</container>
+			<unittitle>1993/Arrangements</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">17</container>
+			<unittitle>1993/Correspondence 1990/7 – 1992/5</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">18</container>
+			<unittitle>1963 – 1964/Programs</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">19</container>
+			<unittitle>1966 – 1977/Programs</unittitle>
+		</did>
+	</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries II.B. Council</unittitle>
+			<unitdate>1946-1993</unitdate>
+			<physdesc>2.33 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The files are arranged in date order followed by committee report index and the corresponding files. Correspondence, reports and minutes are variously included for different years. Two council meetings a year were held beginning in 1986. The Council meeting files from 1986 to1993 were those compiled by the Executive Director.</p>
+		</scopecontent>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">20</container>
+			<unittitle>1946, 1948, 1949</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">21</container>
+			<unittitle>1954</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">22</container>
+			<unittitle>1957</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">23</container>
+			<unittitle>1963</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">24</container>
+			<unittitle>1965</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">25</container>
+			<unittitle>1966</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">26</container>
+			<unittitle>1967</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">27</container>
+			<unittitle>1968</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">28</container>
+			<unittitle>1969, 1970</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">29</container>
+			<unittitle>1971</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">30</container>
+			<unittitle>1972</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">31</container>
+			<unittitle>1973</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">32</container>
+			<unittitle>1974</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">33</container>
+			<unittitle>1975</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">34</container>
+			<unittitle>1976</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">35</container>
+			<unittitle>1977</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">4</container>
+			<container localtype="folder">36</container>
+			<unittitle>1978</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">1</container>
+			<unittitle>1979</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">2</container>
+			<unittitle>1980</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">3</container>
+			<unittitle>1981</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">4</container>
+			<unittitle>1982</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">5</container>
+			<unittitle>1983</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">6</container>
+			<unittitle>1984</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">7</container>
+			<unittitle>1985</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">8</container>
+			<unittitle>1986/April</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">9</container>
+			<unittitle>1986/November</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">10</container>
+			<unittitle>1987/March</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">11</container>
+			<unittitle>1987/October</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">12</container>
+			<unittitle>1988/April</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">13</container>
+			<unittitle>1988/May</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">14</container>
+			<unittitle>1988/October</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">15</container>
+			<unittitle>1989/March</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">16</container>
+			<unittitle>1989/November</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">17</container>
+			<unittitle>1990/June</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">18</container>
+			<unittitle>1990/October</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">19</container>
+			<unittitle>1991/April</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">5</container>
+			<container localtype="folder">20</container>
+			<unittitle>1991/November</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">1</container>
+			<unittitle>1992/April</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">2</container>
+			<unittitle>1992/November</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">3</container>
+			<unittitle>1993/May</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">4</container>
+			<unittitle>Committee Report Index 1965-1985</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">5</container>
+			<unittitle>Committee Report Overview I – VI 1965 – 1985</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">6</container>
+			<unittitle>Committee Report Overview VII – XVIII 1965 – 1985</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">7</container>
+			<unittitle>Committee Report Overview XIX – XXXVII 1965 - 1985</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">8</container>
+			<unittitle>Teleconferences 1990, 1991</unittitle>
+		</did>
+	</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries II.C. Executive Committee</unittitle>
+			<unitdate>19731986</unitdate>
+			<physdesc>.3 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The sub-series is an arrangement of committee reports taken from the council meetings from 1973 – 1986. The index listed what reports are included with a corresponding numeral.</p>
+		</scopecontent>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">9</container>
+			<unittitle>Committee Overview Report Index 1973 – 1986</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">10</container>
+			<unittitle>Committee Overview Report I – VIII (II missing)</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">11</container>
+			<unittitle>Committee Overview Report IX</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">12</container>
+			<unittitle>Committee Overview Report X</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">13</container>
+			<unittitle>Committee Overview Report XI – XVI</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">14</container>
+			<unittitle>Committee Overview Report XVII – XXIV</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">15</container>
+			<unittitle>Committee Overview Report XV – XXXIII</unittitle>
+		</did>
+	</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries II.D. International Congress of Immunology</unittitle>
+			<unitdate>1990, 1992</unitdate>
+			<physdesc>.1 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>This sub-series contains grant application, travel grant awards and correspondence regarding the Congresses.</p>
+		</scopecontent>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series III. Committees</unittitle>
+			<unitdate>1966-1992</unitdate>
+			<physdesc>.75 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The Committee files contain mostly correspondence and reports. The files are arranged in alpha order followed by date order. The Education Committee files also have curriculum description of courses.</p>
+		</scopecontent>
+	<c02 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">18</container>
+			<unittitle>Clinical Immunology 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">19</container>
+			<unittitle>Correspondence (Saunders)/ 1989</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">20</container>
+			<unittitle>Education 1986 – 1987</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">21</container>
+			<unittitle>Education/Correspondence 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">22</container>
+			<unittitle>Education/High School Teacher Internship Program 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">23</container>
+			<unittitle>Education/ High School Teacher Internships in Immunology 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">24</container>
+			<unittitle>Education/ Summer Courses 1966</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">6</container>
+			<container localtype="folder">25</container>
+			<unittitle>Education/ Teacher Internship Program 1992</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">1</container>
+			<unittitle>Member List 1971 – 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">2</container>
+			<unittitle>Minority Affairs 1988 – 1989</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">3</container>
+			<unittitle>Program 1988 – 198</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">4</container>
+			<unittitle>Program 1989 – 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">5</container>
+			<unittitle>Program/Annual Meeting 1988</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">6</container>
+			<unittitle>Program/Meeting 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">7</container>
+			<unittitle>Program/Report 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">8</container>
+			<unittitle>Program/Report 1992 – 1993</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">9</container>
+			<unittitle>Public Affairs 1989 – 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">10</container>
+			<unittitle>Public Affairs 1989 – 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">11</container>
+			<unittitle>Public Affairs/Correspondence 1989 – 1992</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">12</container>
+			<unittitle>Publications/Correspondence 1989/11 – 1991/7</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">13</container>
+			<unittitle>Publications/Journal of Immunology 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">14</container>
+			<unittitle>Publications/Meeting 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">15</container>
+			<unittitle>Selection (ad hoc)/Executive Director 1991 – 1992</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">16</container>
+			<unittitle>Veterinary Immunology 1989 – 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">17</container>
+			<unittitle>Veterinary Immunology 1992</unittitle>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series IV. Financial</unittitle>
+			<unitdate>1921-1991</unitdate>
+			<physdesc>1.25 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>There was a very limited amount of financial information in the collection. Membership dues ledgers and journals contained information regarding membership from 1946 – 1970.</p>
+		</scopecontent>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">18</container>
+			<unittitle>Bank Deposit Records 1973 – 1975</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">19</container>
+			<unittitle>Certificates of Deposit 1981</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">20</container>
+			<unittitle>Investment Records 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">21</container>
+			<unittitle>Journal 1946 – 1964</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">22</container>
+			<unittitle>Journal 1964 – 1970</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">23</container>
+			<unittitle>Membership Dues Ledger (A – C)</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">24</container>
+			<unittitle>Membership Dues Ledger (D – G)</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">25</container>
+			<unittitle>Membership Dues Ledger (H – L)</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">26</container>
+			<unittitle>Membership Dues Ledger (M – R)</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">7</container>
+			<container localtype="folder">27</container>
+			<unittitle>Membership Dues Ledger (S – Z)</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">1</container>
+			<unittitle>Membership Dues Ledger (Resigned, Honorary, Deceased) 1921 – 1964</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">2</container>
+			<unittitle>Statement 1985</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">3</container>
+			<unittitle>Statement 1986, 1987</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">4</container>
+			<unittitle>Statement 1987, 1988</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">5</container>
+			<unittitle>Statement 1989</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">6</container>
+			<unittitle>Statement and Budget 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">7</container>
+			<unittitle>Statement and Budget 1990 – 1991</unittitle>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series V. Historian</unittitle>
+			<unitdate>1913-1988</unitdate>
+			<physdesc>1.5 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The series contains records compiled by Merrill Chase and Joe Saunders beginning in 1969. It has information files for most AAI Presidents as well as their photograph.</p>
+		</scopecontent>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries V.A. Historian Records</unittitle>
+			<unitdate></unitdate>
+			<physdesc>.5 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The files contain correspondence, member lists, financial records, and other administrative records.</p>
+		</scopecontent>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">8</container>
+			<unittitle>Constitution/Proposed Revision</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">9</container>
+			<unittitle>Correspondence 1969/2 – 1976/7</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">10</container>
+			<unittitle>Expenses 1969</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">11</container>
+			<unittitle>Lists/ Honorary Members 1913 – 1988</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">12</container>
+			<unittitle>Lists/ Presidents 1913 – 1987</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">13</container>
+			<unittitle>Logo/AAI</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">14</container>
+			<unittitle>Notes 1969 – 1970</unittitle>
+		</did>
+	</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries V.B. Personal Histories</unittitle>
+			<unitdate>1946-1991</unitdate>
+			<physdesc>.5 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The files contain information submitted to Merrill Chase during his project to document personal history files for all AAI Presidents. Dr. Joe Saunders acting as Executive Director and archivist expanded the histories. Files may contain correspondence, articles written or reports retained by the individual. The personal histories are listed in alpha order.</p>
+		</scopecontent>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">15</container>
+			<unittitle>Avery, Dr. Oswald</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">16</container>
+			<unittitle>Boyne-Jones, Dr. Stanbope</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">17</container>
+			<unittitle>Benacerraf, Dr. Barry</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">18</container>
+			<unittitle>Berry, Dr. George</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">19</container>
+			<unittitle>Boyd, Dr. W.C.</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">20</container>
+			<unittitle>Bronfenbrenner, Dr. Jakor</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">21</container>
+			<unittitle>Campbell, Dr. Dan</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">22</container>
+			<unittitle>Cannon, Dr. Paul</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">23</container>
+			<unittitle>Chase, Dr. Merrill</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">24</container>
+			<unittitle>Dingle, Dr. John</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">25</container>
+			<unittitle>Dixon, Dr. Frank</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">26</container>
+			<unittitle>Dochez, Dr. A.R</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">27</container>
+			<unittitle>Eagle, Dr. Harry</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">28</container>
+			<unittitle>Edsall, Dr. Goeffrey</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">29</container>
+			<unittitle>Felton, Dr. Lloyd (pneumonia vaccine)</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">30</container>
+			<unittitle>Fraser, Dr. Donald</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">31</container>
+			<unittitle>Fruend, Dr. Jules</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">32</container>
+			<unittitle>Gay, Dr. Frederick</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">33</container>
+			<unittitle>Good, Dr. Robert</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">34</container>
+			<unittitle>Heidelberger, Dr. Michael</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">35</container>
+			<unittitle>Hekteon, Dr. Ludwig</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">36</container>
+			<unittitle>Henle, Dr. Werner</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">37</container>
+			<unittitle>Hooker, Dr. Sanford</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">38</container>
+			<unittitle>Horsfall, Dr. Frank</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">39</container>
+			<unittitle>Jobling, Dr. James</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">40</container>
+			<unittitle>Kabat, Dr. Elvin</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">41</container>
+			<unittitle>Kolmer, Dr. John</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">42</container>
+			<unittitle>Kunkel, Dr. Henry George</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">43</container>
+			<unittitle>Lancefield, Dr. Rebecca</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">44</container>
+			<unittitle>Landsteiner, Dr. Karl</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">45</container>
+			<unittitle>Lennette, Dr. Edwin</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">46</container>
+			<unittitle>Longcope, Dr. Warfield</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">47</container>
+			<unittitle>Magill, Dr. Thomas</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">48</container>
+			<unittitle>Manwaring, Dr. Wilfred</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">49</container>
+			<unittitle>McCoy, Dr. George</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">50</container>
+			<unittitle>Meyer, Dr. Karl</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">51</container>
+			<unittitle>Novy, Dr. Frederick</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">52</container>
+			<unittitle>Novy, Dr. Frederick/University of Michigan Department of Microbiology/Bacteriology</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">53</container>
+			<unittitle>Opie, Dr. Eugene</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">54</container>
+			<unittitle>Pappenheimer, Dr. A.M.</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">55</container>
+			<unittitle>Park, Dr. William</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">56</container>
+			<unittitle>Rivers, Dr. Thomas</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">57</container>
+			<unittitle>Ten Broeck, Dr. Carl</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">58</container>
+			<unittitle>Thorbecke, Dr. G. J.</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">59</container>
+			<unittitle>Wadsworth, Dr. Augustus</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">60</container>
+			<unittitle>Waksman, Dr. Byron</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">61</container>
+			<unittitle>Webb, Dr. Gerald</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">62</container>
+			<unittitle>Weil, Dr. Richard</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">63</container>
+			<unittitle>Wells, Dr. H. Gideon</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">64</container>
+			<unittitle>Zinser, Dr. Hans</unittitle>
+		</did>
+	</c03>
+	</c02>
+	<c02 level="subseries">
+		<did>
+			<unittitle>Subseries V.C. Photographs</unittitle>
+			<unitdate>1913-1990</unitdate>
+			<physdesc>.5 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>Group photographs are filed first followed by individual photographs in alpha order.</p>
+		</scopecontent>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">65</container>
+			<unittitle>Annual Meeting (no date)</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">66</container>
+			<unittitle>Annual Meeting 1988</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">67</container>
+			<unittitle>Annual Meeting 1990</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">68</container>
+			<unittitle>Notes and Expenses</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">69</container>
+			<unittitle>Presidents 1913 – 1948</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">70</container>
+			<unittitle>Presidents 1949 – 1987</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">71</container>
+			<unittitle>Amos, D. Bernard</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,11">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">72</container>
+			<unittitle>Austin, Frank</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,22">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">73</container>
+			<unittitle>Avery, Oswald</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,33">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">74</container>
+			<unittitle>Baltimore, David</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,44">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">75</container>
+			<unittitle>Boyne-Jones, Stanhope</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,2">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">76</container>
+			<unittitle>Behring – Heidelberger Lecturer 1990</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">77</container>
+			<unittitle>Benacerraf, Barey</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,55">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">78</container>
+			<unittitle>Berry, George</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,66">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">79</container>
+			<unittitle>Blake, Francis</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,77">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">80</container>
+			<unittitle>Bloom, Barry</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,84">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">81</container>
+			<unittitle>Boyd, William</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,1">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">82</container>
+			<unittitle>Brondz, Boris</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,3">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">83</container>
+			<unittitle>Bronfenbrenner, Jacques</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,4">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">84</container>
+			<unittitle>Campbell, Dan</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,8">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">85</container>
+			<unittitle>Cannon, Paul</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,14">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">86</container>
+			<unittitle>Capra, Don</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,5">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">87</container>
+			<unittitle>Coca, Arthur</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,9">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">88</container>
+			<unittitle>Chase, Merrill</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,6">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">89</container>
+			<unittitle>Cheever, Francis</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,7">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">90</container>
+			<unittitle>Cole, Rufus</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,10">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">91</container>
+			<unittitle>Coons, Albert</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,0">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">92</container>
+			<unittitle>Cooper, Max</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,12">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">93</container>
+			<unittitle>Dingle, John</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,13">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">94</container>
+			<unittitle>Dixon, Frank</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,15">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">95</container>
+			<unittitle>Dochez, Alphonse</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,26">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">96</container>
+			<unittitle>Eagle, Harry</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,16">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">97</container>
+			<unittitle>Eisen, Herman</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,17">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">98</container>
+			<unittitle>Enders, John</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,18">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">99</container>
+			<unittitle>Felton, Lloyd</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,19">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">100</container>
+			<unittitle>Fraser, Donald</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,21">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">101</container>
+			<unittitle>Francis, Jr., Thomas</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,20">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">102</container>
+			<unittitle>Fruend, Jules</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,23">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">103</container>
+			<unittitle>Gay, Frederick</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,24">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">104</container>
+			<unittitle>Good, Robert</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,25">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">105</container>
+			<unittitle>Habel, Karl</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,27">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">8</container>
+			<container localtype="folder">106</container>
+			<unittitle>Heidelberger, Michael</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,28">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">1</container>
+			<unittitle>Hektoen, Ludvig</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,29">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">2</container>
+			<unittitle>Henle, Werner</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,43">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">3</container>
+			<unittitle>Hitchens, A. Parker</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,48">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">4</container>
+			<unittitle>Hooker, Sanford</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,49">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">5</container>
+			<unittitle>Horsfall, Frank</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,30">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">6</container>
+			<unittitle>Ishizaka, Kemishige</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,31">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">7</container>
+			<unittitle>Jobling, James</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,32">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">8</container>
+			<unittitle>Kabat, Elvin</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,34">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">9</container>
+			<unittitle>Kolmer, John</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,35">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">10</container>
+			<unittitle>Kashland, Marion</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,36">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">11</container>
+			<unittitle>Kunkel, Henry</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,37">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">12</container>
+			<unittitle>Lancefield, Rebecca</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,38">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">13</container>
+			<unittitle>Landsteiner, Karl</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,39">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">14</container>
+			<unittitle>Lennette, Elwin</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,40">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">15</container>
+			<unittitle>Lepow, Irwin</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,41">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">16</container>
+			<unittitle>Longcope, Norfield</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,42">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">17</container>
+			<unittitle>MacCleod, Colin</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,45">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">18</container>
+			<unittitle>Magill, Thomas</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,46">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">19</container>
+			<unittitle>Manwaring, Wilfred</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,47">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">20</container>
+			<unittitle>Mayer, M.M.</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,52">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">21</container>
+			<unittitle>McCoy, George</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,65">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">22</container>
+			<unittitle>McDevitt, Hugh</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,50">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">23</container>
+			<unittitle>Metzger, Henry</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,51">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">24</container>
+			<unittitle>Meyer, Karl</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,52">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">25</container>
+			<unittitle>Miller, Jacques</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">26</container>
+			<unittitle>Nisonoff, A.</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,53">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">27</container>
+			<unittitle>Novy, Frederick</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,54">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">28</container>
+			<unittitle>Opie, Eugene</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,56">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">29</container>
+			<unittitle>Pappenheim, A.</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,58">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">30</container>
+			<unittitle>Park, William</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,59">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">31</container>
+			<unittitle>Paul, William</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,60">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">32</container>
+			<unittitle>Pierce, Carl</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,61">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">33</container>
+			<unittitle>Rivers, Thomas</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,62">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">34</container>
+			<unittitle>Schulz, G. &amp; McDevitt, H.</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,64">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">35</container>
+			<unittitle>Schwick, G</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,67">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">36</container>
+			<unittitle>Shevach, Ethan</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,79">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">37</container>
+			<unittitle>Shreffler, Donald</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,82">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">38</container>
+			<unittitle>Smadel, Joseph</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,68">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">39</container>
+			<unittitle>Synnott, Martin</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,69">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">40</container>
+			<unittitle>Talmage, David</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,63">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">41</container>
+			<unittitle>Ten Broeck, Carl</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,63">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">42</container>
+			<unittitle>Thorbecke, Jeanette</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,71">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">43</container>
+			<unittitle>Uhr, Jonathan</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,72">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">44</container>
+			<unittitle>Vaughn, Victor</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,73">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">45</container>
+			<unittitle>Wadsworth, Augustus</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,74">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">46</container>
+			<unittitle>Waksman, Byron</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,75">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">47</container>
+			<unittitle>Webb, Gerald</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,76">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">48</container>
+			<unittitle>Webb, Gerald with Patch, Pottenger, Brown,O.H., Wright, A., May, A.</unittitle>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">49</container>
+			<unittitle>Weil, Richard</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,78">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">50</container>
+			<unittitle>Wells, H. Gideon</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,80">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">51</container>
+			<unittitle>Wright, Almroth Edward</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,81">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	<c03 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">52</container>
+			<unittitle>Zinsser, Hans</unittitle>
+			<dao daotype="derived" href="http://contentdm.ad.umbc.edu/u?/aai,83">
+				<descriptivenote>
+					<p>Digital image available</p>
+				</descriptivenote>
+			</dao>
+		</did>
+	</c03>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series VI. Publications</unittitle>
+			<unitdate>1933-1995</unitdate>
+			<physdesc>2.5 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>This series contains a mix of publications from AAI, FASEB, and other scientific organizations as well as individual authors. Included are journals, newsletters, meeting programs, articles and full length books. There are two folders of correspondence regarding AAI publications. They are listed in alpha order.
+</p>
+		</scopecontent>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">53</container>
+			<unittitle>American Academy Allergy and Immunology Meeting Program 1992</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">54</container>
+			<unittitle>AAI Annual Meeting Program 1978</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">55</container>
+			<unittitle>AAI Annual Meeting Program 1984</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">56</container>
+			<unittitle>AAI Newsletters 1971 – 1972</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">57</container>
+			<unittitle>AAI Newsletters 1973 – 1975</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">58</container>
+			<unittitle>AAI Newsletters 1976 – 1978</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">59</container>
+			<unittitle>AAI Newsletters 1979 – 1981</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">60</container>
+			<unittitle>AAI Newsletters 1982 – 1984</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">61</container>
+			<unittitle>AAI Newsletters 1985 – 1986</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">62</container>
+			<unittitle>AAI Newsletters 1987 – 1988</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">63</container>
+			<unittitle>AAI Newsletters 1989 – 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">64</container>
+			<unittitle>AAI Program Book 1960 – 1987</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">65</container>
+			<unittitle>AAI’s Role – 1913 to 1988 – in the First Century of Immunology</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">66</container>
+			<unittitle>Articles</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">67</container>
+			<unittitle>Brochures</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">68</container>
+			<unittitle>Brucelosis (M. Ruiz Castaneda) 1986</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">69</container>
+			<unittitle>The Bulletin (Howard Hughes Medical Institute) 1990/9, 1991/1</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">70</container>
+			<unittitle>Cancer Center Report Spring 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">71</container>
+			<unittitle>China Exchange News 1989/9</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">72</container>
+			<unittitle>Correspondence/Joe Saunders 1998</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">73</container>
+			<unittitle>Distinguished Woman Physician/Scientist 1988, 1989</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">74</container>
+			<unittitle>Forecast Fall 1985</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">75</container>
+			<unittitle>Growing Up with Virology (Gertrude Henle, M.D.)</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">76</container>
+			<unittitle>Henry Sewell Physiologist and Physician (Webb&amp;Powell) 1946</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">77</container>
+			<unittitle>History of Immunology (Arthur Silverstein) 1983</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">78</container>
+			<unittitle>History of American Society for Experimental Pathology (Esmond Long) 1972</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">79</container>
+			<unittitle>Immunological Concepts (David Talmadge) 1986</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">80</container>
+			<unittitle>Immunology Meetings and News 1967/2</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">81</container>
+			<unittitle>The Immunologist 1994, 1995</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">9</container>
+			<container localtype="folder">82</container>
+			<unittitle>Immuno News (Thorbecke) 1990/6</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">1</container>
+			<unittitle>International Congress of Immunology Abstracts 1995/7</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">2</container>
+			<unittitle>International Congress of Immunology Program 1995/7</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">3</container>
+			<unittitle>Journal of Immunology 1988/12 – 1989/2</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">4</container>
+			<unittitle>Journal of Immunology 1988/10</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">5</container>
+			<unittitle>Journal of Immunology/M. Heidelberger 1988/5</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">6</container>
+			<unittitle>Journal of Immunology/Presidential Addresses (Bloom, Nisonoff, Thorbecke) 1986, 1990, 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">7</container>
+			<unittitle>Journal of the American Medical Association 1982/11</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">8</container>
+			<unittitle>Marine Biological Laboratory Science Writing Fellowship Programs 1992</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">9</container>
+			<unittitle>Maximilliano Ruiz-Casteneda 1988</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">10</container>
+			<unittitle>National Coalition on Immune System Disorders/Program 1987/1</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">11</container>
+			<unittitle>National Institute of Allergy and Infectious Diseases 1991/1</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">12</container>
+			<unittitle>Nutrition Notes</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">13</container>
+			<unittitle>The Prescription of Literature (Webb) 1933</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">14</container>
+			<unittitle>Regulatory Elements of the Immune System 1992</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">15</container>
+			<unittitle>R.J.R. Nabisco Research Scholars Award 1989</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">16</container>
+			<unittitle>Sandoz Focus on Immunology 1990/6</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">17</container>
+			<unittitle>Veterinary Immunology Newsletter 1986/6</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">18</container>
+			<unittitle>Warlord’s Revenge – Can You Dig It? 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">19</container>
+			<unittitle>World Health 1988/1</unittitle>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series VII. Affiliated Societies</unittitle>
+			<unitdate>1967-1991</unitdate>
+			<physdesc>1.5 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>This series consists mostly of materials from the umbrella organization Federation of American Societies for Experimental Biology (FASEB) which AAI was a member. It is arranged in alpha order followed by date order. Most materials are from the 1980s.</p>
+		</scopecontent>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">20</container>
+			<unittitle>FASEB/Annual Meeting Program 1988</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">21</container>
+			<unittitle>FASEB/Annual Meeting Reports 1987, 1988, 1 1990, 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">22</container>
+			<unittitle>FASEB/Biomedical Research Funding Form 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">23</container>
+			<unittitle>FASEB/Committee Reports</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">24</container>
+			<unittitle>FASEB/Concensus Conference 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">25</container>
+			<unittitle>FASEB/Constitution</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">26</container>
+			<unittitle>FASEB/Correspondence 1990/4 – 10</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">27</container>
+			<unittitle>FASEB/Correspondence (Federation Board) 1961/6 – 1967/12</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">28</container>
+			<unittitle>FASEB/Correspondence (Federation Board) 1989</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">29</container>
+			<unittitle>FASEB/Meeting 1989</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">30</container>
+			<unittitle>FASEB/Meeting 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">31</container>
+			<unittitle>FASEB/Program Committee 1987</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">32</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1965</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">33</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1966</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">34</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1967</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">35</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1968</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">36</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1969</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">37</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1970</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">38</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1971</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">39</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1972</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">40</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1973 - 1974</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">10</container>
+			<container localtype="folder">41</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1974 – 1975</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">1</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1975 - 1976</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">2</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1977 - 1977</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">3</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1977 – 1978</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">4</container>
+			<unittitle>FASEB/Publications/Directory of Membership 1978 –1979</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">5</container>
+			<unittitle>FASEB/Publications/Journal 1989/8</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">6</container>
+			<unittitle>FASEB/Publications/Meeting Program 1979, 1981</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">7</container>
+			<unittitle>FASEB/Publications/Meeting Program 1982</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">8</container>
+			<unittitle>FASEB/Publications/Meeting Program 1983, 1984</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">9</container>
+			<unittitle>FASEB/Publications/Meeting Program 1985</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">10</container>
+			<unittitle>FASEB/Publications/Meeting Program 1986, 1987</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">11</container>
+			<unittitle>FASEB/Publications/Newsletters 1987/2, 1988/2, 1988/6, 1989/3, 1990/2, 1990/5</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">12</container>
+			<unittitle>FASEB/Public Affairs Committee 1977 – 1978</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">13</container>
+			<unittitle>International Congress of Immunology/Meeting (First) 1971</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">14</container>
+			<unittitle>International Congress of Immunology/Meeting 1989, 1992</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">15</container>
+			<unittitle>International Congress of Immunology/Meeting 1995</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">16</container>
+			<unittitle>International Union of Immunological Societies/Correspondence and Reports 1971 – 1973</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">17</container>
+			<unittitle>International Union of Immunological Societies/Correspondence and Reports 1985</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">11</container>
+			<container localtype="folder">18</container>
+			<unittitle>New York Academy of Science Conference/Abstract Control 1989</unittitle>
+		</did>
+	</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Series VIII. Video and Audio Tapes</unittitle>
+			<unitdate>1970-1991</unitdate>
+			<physdesc>.4 linear feet</physdesc>
+		</did>
+		<scopecontent>
+			<p>The series consists mostly of audio cassette tapes of annual and council meetings from 1986 – 1991.</p>
+		</scopecontent>
+	<c02 level="file">
+		<did>
+			<container localtype="box">12</container>
+			<container localtype="folder">1</container>
+			<unittitle>Audio Tapes/Annual Meetings 1986, 1987, 1988, 1990</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">12</container>
+			<container localtype="folder">2</container>
+			<unittitle>Audio Tapes/Council Meetings 1986 – 1991</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">12</container>
+			<container localtype="folder">3</container>
+			<unittitle>Audio Tapes/Teleconference 1987/8</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">12</container>
+			<container localtype="folder">4</container>
+			<unittitle>Video Tapes/ Cohen, Sheldon</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">12</container>
+			<container localtype="folder">5</container>
+			<unittitle>Video Tapes/ 1975/5</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">12</container>
+			<container localtype="folder">6</container>
+			<unittitle>Video Tapes/ Heidelberger Lecture 1970/9</unittitle>
+		</did>
+	</c02>
+	<c02 level="file">
+		<did>
+			<container localtype="box">12</container>
+			<container localtype="folder">7</container>
+			<unittitle>Video Tapes/Talmadge, David/Interview, The First Century of Immunology, Mechanisms of Graft Rejections</unittitle>
+		</did>
+	</c02>
+	</c01>
+		 </dsc>
+      </archdesc>
+   </ead>

@@ -1,0 +1,2733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead audience="external" relatedencoding="MARC21">
+	<control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<recordid>Coll015</recordid>
+		<representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll015.php" localtype="PHP">Finding Aid</representation>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="245$a">Society for Industrial Microbiology records</titleproper>
+				<author>Peri, Marcia</author>
+			</titlestmt>
+		</filedesc>
+		<maintenancestatus value="new"/>
+		<maintenanceagency countrycode="us">
+			<agencycode>mdubc</agencycode>
+			<agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+		</maintenanceagency>
+		<conventiondeclaration>
+			<abbr>DACS</abbr>
+			<citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+		</conventiondeclaration>
+		<localtypedeclaration>
+			<citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
+			<descriptivenote>
+				<p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+			</descriptivenote>
+		</localtypedeclaration>
+		<maintenancehistory>
+			<maintenanceevent>
+				<eventtype value="derived"/>
+				<eventdatetime standarddatetime="2015-06-30T09:11:32.282-04:00"/>
+				<agenttype value="machine"/>
+				<agent>Computer</agent>
+				<eventdescription>Conversion from PastPerfect.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-07-14T11:46:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Somach, Emily</agent>
+				<eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-09-06T12:45:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Somach, Emily</agent>
+				<eventdescription>Manual updates and edits including: biographical information, arrangement lists, scope and content note, and container list.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-13T16:37:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated bibliography and historical note.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-19T16:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated links in representation field.</eventdescription>
+			</maintenanceevent>
+		</maintenancehistory>
+	</control>
+	<archdesc level="collection">
+		<did>
+			<unittitle encodinganalog="245$a">Society for Industrial Microbiology records</unittitle>
+			<unitid countrycode="us" repositorycode="mdubc">Coll015</unitid>
+			<origination>
+				<corpname relator="creator" encodinganalog="110" source="lc">
+					<part>Society for Industrial Microbiology (U.S.)</part>
+				</corpname>
+			</origination>
+			<unitdate unitdatetype="inclusive" encodinganalog="245$f">1949-2001</unitdate>
+			<unitdatestructured unitdatetype="inclusive">
+				<daterange>
+					<fromdate>1949</fromdate>
+					<todate>2001</todate>
+				</daterange>
+			</unitdatestructured>
+			<physdesc encodinganalog="300$a$f">51 boxes (26.5 linear feet)</physdesc>
+			<physdescset>
+				<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+					<quantity>51</quantity>
+					<unittype>boxes</unittype>
+				</physdescstructured>
+				<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+					<quantity>26.5</quantity>
+					<unittype>linear feet</unittype>
+				</physdescstructured>
+			</physdescset>
+			<abstract encodinganalog="520$a">Records document the founding and growth of the Society for Industrial Microbiology. Documents show the development of important society activities such as the Summer Institute, the Education Committee and Awards and Grants Committee, annual meetings and publications such as the SIM Newsletter. They include the officers’ correspondence, financial audits and reports, minutes, memoranda, membership lists, meeting materials, committee reports, and photographs. Also includes publications such as the Society of Industrial Microbiology Newsletter, the Society of Industrial Microbiology News, Developments in industrial microbiology, and the Journal of Industrial Microbiology.</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+			<repository>
+				<corpname>
+					<part>University of Maryland, Baltimore County</part>
+				</corpname>
+				<address>
+					<addressline>Albin O. Kuhn Library and Gallery</addressline>
+					<addressline>UMBC</addressline>
+					<addressline>1000 Hilltop Circle</addressline>
+					<addressline>Baltimore, MD 21250</addressline>
+					<addressline>410-455-2353</addressline>
+					<addressline>speccoll@umbc.edu</addressline>
+				</address>
+			</repository>
+		</did>
+		<scopecontent encodinganalog="520">
+			<p>This collection of records of the Society for Industrial Microbiology covers the years 1949 – 2001 and includes correspondence, memoranda, minutes, financial reports, audits and budgets, constitutions and by-laws, incorporation documents, ledgers, membership lists and directories, brochures, photographs, publications and other records of activities. Documents are arranged into series based on the administrative organization set forth in the society’s policy manual. </p>
+			<p>Series one, Board of Directors contains the records generated by the President, Vice-President, Secretary and Treasurer arranged by creating officer. Files of the President include correspondence, both incoming and outgoing, beginning with the origin of the Society. Presidential correspondence covers the wide range of activities and interests of the society including committee assignments, awards issues and other administrative concerns. There is only one folder of Vice-Presidential material from 1975-1976. Among the Secretary’s files are the agendas and minutes of the board of directors meetings for 1954, and from 1960 through 1992 inclusive. Files also include correspondence pertaining to administrative activities such as elections, mailing list approvals, business calendars, the certificate of incorporation, constitution, by-laws and revisions, and rosters of officers and committee members. The bulk of the financial records falls under the Treasurer. Along with correspondence files dating as early as 1949 are audit reports, budgets, finance committee reports and ledgers for cash assets, income and disbursements, and receipts. </p>
+			<p>The second series, Business Secretary, is arranged into two series: Business Office and Membership. The sub-series Business Office contains correspondence, income and expense statements for a variety of Society activities and the Policy Manuals. All documents of the Business Secretary, whether the office was in a private home and or after the National Office was established, are organized together by subject and then in date order. All membership records (which became the responsibility of the Business Secretary after the creation of that position) are together and organized first by subject and then in date order. The sub-series includes applications from 1957, brochures, member lists and printed directories. </p>
+			<p>The third series, Committees, contains correspondence, memos, reports and rosters of many of the Society committees among them the Archives Committee, the Awards and Grants Committee, the Education Committee and the Summer Institute Committee. The materials show the extent of the interests of the society and the development of their activities. For example, the Summer Institute Committee files outline the inception of the Summer Institute courses and contain materials on courses taught from 1965 – 1970. </p>
+			<p>Series four, Meetings, contains correspondence, memoranda, minutes, reports, forms, proceedings, and photographs. There is a block of correspondence from 1960 pertaining to a conference and some related to the Summer Institute dated 1968 – 1971. There is not a complete record of annual meetings and copies of minutes are extent only for the years 1950 – 1985. There is a smattering of reports from the annual meetings running from 1960 –1981 and some photographs from 1981 – 1990. There is a variety of proceedings, programs, papers and reports from workshops, symposia, conferences and joint meetings organized by the society. Of these a few are from 1960 – 1961, with the bulk of the papers coming from the 1980’s and early 1990’s. Also included are records from local chapter meetings. These contain the correspondence, memos, agendas, minutes and reports of five of the local chapters. The earliest of these is the Washington chapter with papers dating from 1951 – 1960, followed by Chicago with papers beginning in 1959 and extending to 1973. The remaining materials date from the 1970’s – 1990. These give a brief look at the workings of local units. </p>
+			<p>The series Publications is made up primarily of printed works published by the Society. These include a nearly complete run of the SIM Newsletter, runs of both society journals, copies of meeting programs and abstracts, conference papers, and various special publications. In addition, there is a smattering of documents such as contract agreements with the society publisher from the period 1959 – 1962 and some correspondence from the editor of the society newsletter dating from the mid sixties to the late seventies. </p>
+			<p>In the final series, Affiliated Organizations and Ephemera, are a small number of files relating to other affiliated societies and the records documenting the relationship between SIM and Northwestern University, where the SIM archive had been previously housed and maintained.</p>
+		</scopecontent>
+		<bioghist encodinganalog="545">
+			<p>Today, within the scientific community, there is a general recognition of the balance and interdependence that exists between the theoretical and the applied sciences. This was not the case in the 1940’s when a growing group of industrial microbiologists began to feel that the practical and industrial aspects of bacteriology were being neglected by the established societies and that there was a need for a forum in which they could present their views and papers. </p>
+			<p>In the late Summer and early Fall of 1949 Dr. Walter Ezekiel began mailing letters to prospective members concerning the possible formation of a new organization which would support the work of industrial and applied microbiology. The new scientific body he proposed was a Society for Industrial Microbiology. Dr. Ezekiel mentioned his plan to Dr. Raymond L. Taylor, then associate administrative secretary of the American Association for the Advancement of Science (AAAS) in charge of meetings and programs during a phone conversation in late October. This resulted in the scheduling of an organizational meeting to be held during the upcoming AAAS meetings in New York. At that time, it was decided that a new society, the Society for Industrial Microbiology (SIM) be established as a national scientific organization covering “the field of microbiologic work as applied to industrial materials and processes”. </p>
+			<p>The first organizational meeting was held in the ballroom of the Hotel McAlpin in New York City on December 29, 1949 with some 300 people in attendance. This new society was to be associated with then newly formed American Institute of Biological Sciences. At that time, Dr. Charles Thom was elected Acting Chairman and C.L. Porter was elected Acting Secretary and Dr. Thom appointed an organizational committee that met several times during the first year to prepare a program for the first annual meeting and to write a constitution. </p>
+			<p>The first annual meeting was held in conjunction with the American Institute of Biological Sciences (AIBS) on September 11 – 13 1950 at Ohio State in Columbus, Ohio. Thereafter the newly formed society held all its meetings in conjunction with the AIBS meetings. It was not until 1967 that they began to hold independent annual meetings. The first of these was held at the University of Western Ontario in London, Ontario Canada. In 1960 the Society for Industrial Microbiology was incorporated in the District of Columbia. </p>
+			<p>From the original 300 members SIM membership grew to about 550 in 1959. In that year the SIM began offering corporate membership in the society. By 1975 the society had grown to the point where it had approximately 1000 members including some 46 corporate members. Due to the significant growth in the society a position of Business Secretary was established in 1973 to assist the society in managing its expanding activities. In addition, Local Sections were being established in different parts of the country. </p>
+			<p>At present, SIM still has well under 2,000 members. This is no accident. At the outset the society wanted to foster a climate where the rank and file would know each other on a first name basis. In fact, C. L. Porter stated in a presidential address that “a membership of more than 1,200 – 1,500 should be discouraged for then we like other groups mentioned, would lose the personal contact which was one of the principal attractions.” </p>
+			<p>Over the years, SIM has made use of publications to give recognition for research in the practical aspects of microbiology and to announce scientific findings. As early as 1951, SIM put out its first publication, the SIM News Letter (changed to SIM News in November 1972) followed by the publication of its first journal Applied Microbiology in 1953. This served as the official publication of SIM until 1960 when the second journal to be published by the society, Developments in Industrial Microbiology, became the official publication of SIM. In 1963, SIM began publishing their Special Publications series that would later included proceedings or lectures of the Summer Institute. In 1986, the Journal of Industrial Microbiology (now the Journal of Industrial Microbiology &amp; Biotechnology) was launched to be a companion to the earlier Developments in Industrial Microbiology. By 1964 SIM began to turn its attention to the problem of education. It was decided that SIM should begin a series of summer courses designed to focus on specific areas of interest as well as “practical methods” and that these courses should promote the enrollment of technician level employees of firms conducting microbiological work. The courses were to be open to all college graduates and that SIM membership would not be required. In 1965 the first of the Summer Institute courses, an Introduction to Genetics, was held at the University of Minnesota. </p>
+			<p>In addition, over the years SIM has established numerous awards. The first award, the Certificate of Merit (now the C.L. Porter Award for Distinguished Service) was created in 1963 to recognize individual members for unselfish and outstanding service to the society. A second award the SIM High School Science Award was established in 1964. In 1966 the Charles H. Thom Award, the highest award in the society was instituted to award individuals who have made outstanding contributions to research in industrial microbiology. The first recipient of this award was Kenneth B. Raper in August of 1967. Since those early years several more awards have been created to recognize the outstanding work in the field. The Waksman Outstanding Teaching Award was established in 1989 and in 1992 the Schering-Plough Research Institute Young Investigator Award intended to give recognition and support young researchers was instituted. </p>
+			<p>In 2011, the organization changed its name to the Society for Industrial Microbiology and Biotechnology (SIMB). The National Office currently resides in Fairfax, Virginia.</p>
+		</bioghist>
+		<arrangement encodinganalog="351">
+			<p>Organized in six series: Series I. Board of Directors, 1949-2000. Series II. Business Secretary, 1949-1999. Series III. Committees, 1952-1996. Series IV. Meetings, 1949-2001. Series V. Publications, 1951-2000. Series VI. Affiliated Organizations and Ephemera, 1967-1989.</p>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series I. Board of Directors</head>
+				<item>President</item>
+				<item>Vice President</item>
+				<item>Secretary</item>
+				<item>Treasurer</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series II. Business Secretary</head>
+				<item>Business Office</item>
+				<item>Membership</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series III. Committees</head>
+				<item/>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series IV. Meetings</head>
+				<item>Correspondence</item>
+				<item>Annual Meetings</item>
+				<item>Conferences, Symposia, &amp; Workshops</item>
+				<item>Joint Meetings</item>
+				<item>Local Chapter Meetings</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series V. Publications</head>
+				<item>Journals and Newsletters</item>
+				<item>Conferences, Workshops, &amp; Meeting Materials</item>
+				<item>Special Publications and Miscellanea</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series VI. Affiliated Organizations and Ephemera</head>
+				<item/>
+			</list>
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<p>No restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<p>Reproduction allowed for research purposes. Copyright maintained by creator.</p>
+		</userestrict>
+		<prefercite encodinganalog="524">
+			<p>Society for Industrial Microbiology records, Center for Biological Sciences Archives, Collection 15, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+		</prefercite>
+		<otherfindaid encodinganalog="555">
+			<p>Finding aid available.</p>
+		</otherfindaid>
+		<acqinfo>
+			<p>SARCV 2000-11; SARCV 2001-06; SARCV 2002-04. This collection was received in three accessions. The first accession of 20 cubic feet of records arrived from Northwestern University on August 28, 2000; the second accession of 8 cubic feet was sent directly from the SIM office in Fairfax, VA and arrived on October 25, 2001; and the third, comprising one folder, was delivered by Dr. Joan Bennett on Dec 13, 2002.</p>
+		</acqinfo>
+		<processinfo>
+			<p>The records transferred from Northwestern had been partially arranged and described and had come with a finding aid to the processed portion; for the remaining portion there were accession records but no inventory. The second accession however had no inventory and was found to be in a disordered state. An inventory was done of all unprocessed materials and all records whether previously processed or not were organized according to the administrative arrangement set out in the SIM Handbook and taking into account the initial order done by Northwestern. All documents pertaining to the provenance, accessions, and processing of materials at Northwestern University may be found under the series Affiliated Organizations Envelopes, invoices, cancelled checks, payroll information such as time sheets and duplicate copies have been weeded. Processing was completed and finding aid written by Marcia Frank Peri, December 2002.</p>
+		</processinfo>
+		<controlaccess>
+			<subject encodinganalog="650" source="lc">
+				<part>Society for Industrial Microbiology (U.S.)</part>
+				<part>Archives</part>
+			</subject>
+			<subject encodinganalog="650" source="lc">
+				<part>Industrial microbiology</part>
+				<part>Societies, etc.</part>
+			</subject>
+		</controlaccess>
+		<bibliography>
+			<bibref><ref href="http://www.simbhq.org/">Society for Industrial Microbiology and Biotechnology. Accessed November 13, 2015.</ref></bibref>
+		</bibliography>
+		<dsc>
+			<c01 level="series">
+				<did>
+					<unittitle>Series I. Board of Directors</unittitle>
+					<unitdate>1949-2000; bulk 1960-1991</unitdate>
+					<physdesc>6,250 items; (9 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence, minutes, reports, audits, budgets, tax and insurance forms, ledgers, constitutions and by-laws, rosters, business calendars, and certificates of incorporation arranged into four sub-series: President, Vice President, Secretary, and Treasurer.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries I.A. President</unittitle>
+						<unitdate>1949-1996</unitdate>
+						<physdesc>1,300 items; (1.75 linear feet)</physdesc>
+					</did>
+					<scopecontent>
+						<p>General correspondence and memos arranged in date order followed by subject files in alphabetical order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">1</container>
+							<unittitle>Correspondence 1949/12 – 1953/4</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">2</container>
+							<unittitle>Correspondence 1959/5 – 1960/8</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">3</container>
+							<unittitle>Correspondence 1960/9 – 1961/7</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">4</container>
+							<unittitle>Correspondence 1962/3-1967/7</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">5</container>
+							<unittitle>Correspondence 1967/8-1969/12</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">6</container>
+							<unittitle>Correspondence 1970/1-1971/12</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">7</container>
+							<unittitle>Correspondence 1972/2-1973/12</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">8</container>
+							<unittitle>Correspondence 1974/5-1975/10</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">9</container>
+							<unittitle>Correspondence 1975/9-1976/3</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">1</container>
+							<unittitle>Correspondence 1976/4-1976/11</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">2</container>
+							<unittitle>Correspondence 1977/8-1977/12</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">3</container>
+							<unittitle>Correspondence 1978/1-1978/7</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">4</container>
+							<unittitle>Correspondence 1981-1987</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">5</container>
+							<unittitle>Correspondence 1987/7-12</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">6</container>
+							<unittitle>Correspondence 1988/1-1988/6</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">7</container>
+							<unittitle>Correspondence 1988/7-1988/9</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">1</container>
+							<unittitle>Correspondence 1989/1-1989/4</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">2</container>
+							<unittitle>Correspondence 1988/10-1988/12</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">3</container>
+							<unittitle>Correspondence 1989/5-9</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">4</container>
+							<unittitle>Correspondence 1989/1-1990/9</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">5</container>
+							<unittitle>Correspondence 1995</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">6</container>
+							<unittitle>Correspondence 1996</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">7</container>
+							<unittitle>Correspondence Annual Letters 1960-1981</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">8</container>
+							<unittitle>Correspondence Committees 1989/1-5</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">1</container>
+							<unittitle>Correspondence Committees 1989/6-1989/9</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">2</container>
+							<unittitle>Correspondence Corporate Members 1977-1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">3</container>
+							<unittitle>Correspondence ONR Lecture 1989</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">4</container>
+							<unittitle>Correspondence Paula Keith 1987-1990</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries I.B. Vice President</unittitle>
+						<unitdate>1975-1976</unitdate>
+						<physdesc>4 items; (1 folder)</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">5</container>
+							<unittitle>Correspondence 1975/10-1976/10</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries I.C. Secretary</unittitle>
+						<unitdate>1949-1992; bulk 1960-1990</unitdate>
+						<physdesc>3,100 items (3.5 linear feet)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Correspondence, Board of Directors minutes, reports, constitutions and by-laws, business calendars, and certificate of incorporation organized first by subject and then in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">6</container>
+							<unittitle>Correspondence 1950</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">7</container>
+							<unittitle>Correspondence 1960-1965</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">8</container>
+							<unittitle>Correspondence 1966-1968</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">9</container>
+							<unittitle>Correspondence 1969-1972</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">10</container>
+							<unittitle>Correspondence 1973-1976</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">1</container>
+							<unittitle>Correspondence 1982-1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">2</container>
+							<unittitle>Correspondence 1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">3</container>
+							<unittitle>Correspondence 1985-1989</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">4</container>
+							<unittitle>Correspondence Committee on the Deterioration of Fuels 1965</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">5</container>
+							<unittitle>Correspondence Elections 1962-1976</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">6</container>
+							<unittitle>Correspondence Emeritus Members 1982-1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">7</container>
+							<unittitle>Correspondence Mailing List Approvals 1982-1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">8</container>
+							<unittitle>Correspondence Mailing List Approvals 1983-1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">9</container>
+							<unittitle>Correspondence Special Publications 1963-1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">10</container>
+							<unittitle>Account Record 1959-1962</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">11</container>
+							<unittitle>Business Calendar 1977-1981</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">12</container>
+							<unittitle>Business Calendar 1983-1990</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">13</container>
+							<unittitle>Certificate of Incorporation</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">1</container>
+							<unittitle>By Laws, Constitution and Revisions</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">2</container>
+							<unittitle>Rosters 1949-1990</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">3</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1954</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">4</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1960</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">5</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1961</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">6</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1962</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">7</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1963</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">8</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1964</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">9</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1965</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">10</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1966</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">1</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1967</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">2</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1968</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">3</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1969</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">4</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1970</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">5</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1971</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">6</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1972</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">7</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1973</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">8</container>
+							<container localtype="folder">1</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1974</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">8</container>
+							<container localtype="folder">2</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports (Part I) 1975</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">8</container>
+							<container localtype="folder">3</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports (Part II) 1975</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">8</container>
+							<container localtype="folder">4</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports (Part I) 1976</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">8</container>
+							<container localtype="folder">5</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports (Part II) 1976</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">8</container>
+							<container localtype="folder">6</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1977</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">8</container>
+							<container localtype="folder">7</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1978</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">9</container>
+							<container localtype="folder">1</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1979</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">9</container>
+							<container localtype="folder">2</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1980</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">9</container>
+							<container localtype="folder">3</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1980</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">9</container>
+							<container localtype="folder">4</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1991</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">9</container>
+							<container localtype="folder">5</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports (Part I) 1982</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">9</container>
+							<container localtype="folder">6</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports (Part II) 1982</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">9</container>
+							<container localtype="folder">7</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">9</container>
+							<container localtype="folder">8</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">10</container>
+							<container localtype="folder">1</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1984, March</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">10</container>
+							<container localtype="folder">2</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1984/8</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">10</container>
+							<container localtype="folder">3</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1984/11</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">10</container>
+							<container localtype="folder">4</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1985</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">10</container>
+							<container localtype="folder">5</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1986</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">10</container>
+							<container localtype="folder">6</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1987/4</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">11</container>
+							<container localtype="folder">1</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1987/8</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">11</container>
+							<container localtype="folder">2</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1988/2</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">11</container>
+							<container localtype="folder">3</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1988/8</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">11</container>
+							<container localtype="folder">4</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1988/12</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">11</container>
+							<container localtype="folder">5</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1989</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">11</container>
+							<container localtype="folder">6</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1990</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">1</container>
+							<unittitle>Board of Directors Meeting Minutes and Reports 1991-1992</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries I.D. Treasurer</unittitle>
+						<unitdate>1949-2000</unitdate>
+						<physdesc>2,175 items (3.75 linear feet)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Correspondence, audit and financial reports, budgets, tax and insurance forms, and ledgers arranged in order by subject and then in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">2</container>
+							<unittitle>Correspondence 1949-1964</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">3</container>
+							<unittitle>Correspondence 1965</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">4</container>
+							<unittitle>Correspondence 1966</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">5</container>
+							<unittitle>Correspondence 1967</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">6</container>
+							<unittitle>Correspondence 1968</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">7</container>
+							<unittitle>Correspondence 1969</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">8</container>
+							<unittitle>Correspondence 1970</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">9</container>
+							<unittitle>Correspondence 1971</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">10</container>
+							<unittitle>Correspondence 1972-1973</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">11</container>
+							<unittitle>Correspondence 1974</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">13</container>
+							<container localtype="folder">1</container>
+							<unittitle>Correspondence 1974</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">13</container>
+							<container localtype="folder">2</container>
+							<unittitle>Correspondence 1976-1977</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">13</container>
+							<container localtype="folder">3</container>
+							<unittitle>Correspondence 1978-1979</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">13</container>
+							<container localtype="folder">4</container>
+							<unittitle>Correspondence 1980</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">13</container>
+							<container localtype="folder">5</container>
+							<unittitle>Correspondence 1980-1982</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">13</container>
+							<container localtype="folder">6</container>
+							<unittitle>Correspondence 1984-1985</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">13</container>
+							<container localtype="folder">7</container>
+							<unittitle>Correspondence: IRS/Buoman’s Secretary 1974-1993</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">13</container>
+							<container localtype="folder">8</container>
+							<unittitle>Correspondence: Legal Matters 1975-1978</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">13</container>
+							<container localtype="folder">9</container>
+							<unittitle>Audit Reports 1963-1969</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">13</container>
+							<container localtype="folder">10</container>
+							<unittitle>Audit Reports 1970-1975</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">14</container>
+							<container localtype="folder">1</container>
+							<unittitle>Audit Reports 1976-1979</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">14</container>
+							<container localtype="folder">2</container>
+							<unittitle>Audit Reports 1979-1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">14</container>
+							<container localtype="folder">3</container>
+							<unittitle>Audit Reports 1980-1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">14</container>
+							<container localtype="folder">4</container>
+							<unittitle>Audit Reports 1985-1989</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">14</container>
+							<container localtype="folder">5</container>
+							<unittitle>Audit Reports 1994-2000</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">14</container>
+							<container localtype="folder">6</container>
+							<unittitle>Annual Meeting Income and Expenses 1974-1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">15</container>
+							<container localtype="folder">1</container>
+							<unittitle>Budgets 1967-1978</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">15</container>
+							<container localtype="folder">2</container>
+							<unittitle>Budgets 1980-1985</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">15</container>
+							<container localtype="folder">3</container>
+							<unittitle>Checking Account Register 1966, 1978, 1980</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">15</container>
+							<container localtype="folder">4</container>
+							<unittitle>Exempt from Income Tax Forms 1964-1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">15</container>
+							<container localtype="folder">5</container>
+							<unittitle>Insurance Policies 1971-1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">15</container>
+							<container localtype="folder">6</container>
+							<unittitle>Finance Committee 1984-1985</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">15</container>
+							<container localtype="folder">7</container>
+							<unittitle>Committee Lists and Budgets 1988-1989</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">16</container>
+							<container localtype="folder">1</container>
+							<unittitle>Ledger/Development in Industrial Micro-Biology 1972-1978</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">16</container>
+							<container localtype="folder">2</container>
+							<unittitle>Ledger/Income and Disbursements 1972-1973, 1977-1978</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">16</container>
+							<container localtype="folder">3</container>
+							<unittitle>Ledger 1980-1981</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">16</container>
+							<container localtype="folder">4</container>
+							<unittitle>Ledger Cash Assets 1978-1979</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">16</container>
+							<container localtype="folder">5</container>
+							<unittitle>Ledger Cash Receipts and Disbursements 1982-1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">16</container>
+							<container localtype="folder">6</container>
+							<unittitle>Ledger Cash Receipts 1985-1986</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">16</container>
+							<container localtype="folder">7</container>
+							<unittitle>Ledger Income and Disbursements for Annual Meeting 1988</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">16</container>
+							<container localtype="folder">8</container>
+							<unittitle>Ledger Adjusting Entries 1989/3</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">16</container>
+							<container localtype="folder">9</container>
+							<unittitle>Ledger Income Statement Printouts 1989</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">16</container>
+							<container localtype="folder">10</container>
+							<unittitle>Ledger Trial Balance 1988/11-1989/6</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">1</container>
+							<unittitle>Publishers: Developments in Industrial Micro-Biology Sales Reports 1964-1975</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">2</container>
+							<unittitle>Reports 1975-1979,1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">3</container>
+							<unittitle>Reports 1965-1974</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series II. Business Secretary</unittitle>
+					<unitdate>1949-1999; bulk 1950-1996</unitdate>
+					<physdesc>1,400 items (2.75 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence, memos, reports, applications, ledgers, member lists and directories, and policy manuals arranged into two sub-series: Business Office and Membership.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries II.A. Business Office</unittitle>
+						<unitdate>1973-1985</unitdate>
+						<physdesc>200 items (.25 linear feet)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Correspondence, memos, contracts, income and expense statements, and policy manuals organized by subject and then arranged in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">4</container>
+							<unittitle>Correspondence, Memos, and Reports 1973-1985</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">5</container>
+							<unittitle>Contract of Employment 1975</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">6</container>
+							<unittitle>Income and Expense Statements, Annual Meeting 1981</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">7</container>
+							<unittitle>Income and Expense Statements, Annual Meeting 1982</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">8</container>
+							<unittitle>Income and Expense Statements, Annual Meeting 1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">9</container>
+							<unittitle>Income and Expense Statements, Membership 1981-1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">10</container>
+							<unittitle>Income and Expense Statements, Office Expenses 1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">11</container>
+							<unittitle>Income and Expense Statements, Publications 1981 - 1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">17</container>
+							<container localtype="folder">12</container>
+							<unittitle>Income and Expense Statements, Misc. N/D</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">18</container>
+							<container localtype="folder">1</container>
+							<unittitle>Policy Manuel 1972</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">18</container>
+							<container localtype="folder">2</container>
+							<unittitle>Policy Manuel 1974</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">18</container>
+							<container localtype="folder">3</container>
+							<unittitle>Policy Manuel 1982</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">18</container>
+							<container localtype="folder">4</container>
+							<unittitle>Policy Manuel 1987</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries II.B. Membership</unittitle>
+						<unitdate>1949-1999</unitdate>
+						<physdesc>1,200 items (2.5 linear feet)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Applications, brochures, ledgers, member lists and Directories, and questionnaires organized in alphabetical order by subject and then in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">19</container>
+							<container localtype="folder">1</container>
+							<unittitle>Applications for membership 1957</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">19</container>
+							<container localtype="folder">2</container>
+							<unittitle>Brochures 1968-1981</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">19</container>
+							<container localtype="folder">3</container>
+							<unittitle>Corporate Members No Date Listed</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">19</container>
+							<container localtype="folder">4</container>
+							<unittitle>Ledger Rolls A-K 1950-1957</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">19</container>
+							<container localtype="folder">5</container>
+							<unittitle>Ledger Rolls G-N 1950-1957</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">19</container>
+							<container localtype="folder">6</container>
+							<unittitle>Ledger Rolls O-Z 1950-1957</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">19</container>
+							<container localtype="folder">7</container>
+							<unittitle>Member Lists 1949-1951, 1956, 1958, 1960-1961</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">20</container>
+							<container localtype="folder">1</container>
+							<unittitle>Member Lists 1982</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">20</container>
+							<container localtype="folder">2</container>
+							<unittitle>Member Lists 1983</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">20</container>
+							<container localtype="folder">3</container>
+							<unittitle>Member Lists 1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">21</container>
+							<container localtype="folder">1</container>
+							<unittitle>Member Lists 1992</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">21</container>
+							<container localtype="folder">2</container>
+							<unittitle>Member Lists A-L 1999</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">21</container>
+							<container localtype="folder">3</container>
+							<unittitle>Member Lists M-Z 1999</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">21</container>
+							<container localtype="folder">4</container>
+							<unittitle>Member Yearbook 1956-1957</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">21</container>
+							<container localtype="folder">5</container>
+							<unittitle>Printed Directories 1965, 1969, 1972, 1975, 1978</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">21</container>
+							<container localtype="folder">6</container>
+							<unittitle>Printed Directories 1983, 1988</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">21</container>
+							<container localtype="folder">7</container>
+							<unittitle>Printed Directories 1991, 1994-1995, 1997</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">21</container>
+							<container localtype="folder">8</container>
+							<unittitle>Questionnaire</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series III. Committees</unittitle>
+					<unitdate>1952-1996</unitdate>
+					<physdesc>1,000 items (1.25 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence, memos, reports, and rosters organized by name of committee</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">1</container>
+						<unittitle>Member Rosters: undated, 1981-1983</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">2</container>
+						<unittitle>Archives Committee: Correspondence/Frances Johnson, incoming 1983-1985</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">3</container>
+						<unittitle>Archives Committee: Correspondence/Frances Johnson, outgoing 1983-1990</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">4</container>
+						<unittitle>Archives Committee: Correspondence/Frances Johnson, incoming 1986-1990</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">5</container>
+						<unittitle>Archives Committee: Correspondence/picture requests 1986</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">6</container>
+						<unittitle>Archives Committee: Correspondence/V. Lilly 1960-1984</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">7</container>
+						<unittitle>Archives Committee: Correspondence/ Northwestern University Library 1978-1991</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">8</container>
+						<unittitle>Archives Committee: Oral History Project</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">9</container>
+						<unittitle>Archives Committee: Reports for Board Meetings 1983-1990</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">10</container>
+						<unittitle>Awards and Grants Committee: Correspondence 1971-1981</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">11</container>
+						<unittitle>Awards and Grants Committee: “Charlie Porter” Nominations 1995</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">12</container>
+						<unittitle>Awards and Grants Committee: “Charles Thom” 1995-1996</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">13</container>
+						<unittitle>Awards and Grants Committee: Fellowship 1995-1996</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">22</container>
+						<container localtype="folder">14</container>
+						<unittitle>Awards and Grants Committee: “Waksman Outstanding Teaching” 1995-1996</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">1</container>
+						<unittitle>Education Committee: Correspondence 1961-1964</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">2</container>
+						<unittitle>Education Committee: Correspondence 1972/4-1976/4</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">3</container>
+						<unittitle>Education Committee: 1988-1989, 1991</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">4</container>
+						<unittitle>Local Sections Committee: 1973-1975</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">5</container>
+						<unittitle>Membership Committee: 1979, 1983</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">6</container>
+						<unittitle>Membership: Emeritus/Quarter Century Club 1974- 1979</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">7</container>
+						<unittitle>Nominations: Correspondence 1959-1964</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">8</container>
+						<unittitle>Nominations: Correspondence 1965-1974</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">9</container>
+						<unittitle>Placement Committee: 1979</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">10</container>
+						<unittitle>Planning Committee: 1973-1974</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">11</container>
+						<unittitle>Policy Manual Committee: Correspondence 1972-1974</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">12</container>
+						<unittitle>Policy Manual Committee: 1982</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">13</container>
+						<unittitle>Program Committee: Correspondence 1952, 1961-1963, 1970-1979</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">14</container>
+						<unittitle>Publications Committee: Correspondence 1971-1978</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">23</container>
+						<container localtype="folder">15</container>
+						<unittitle>Publicity Committee: Correspondence 1975</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">1</container>
+						<unittitle>Speaker’s Bureau Committee: Correspondence 1965</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">2</container>
+						<unittitle>Speaker’s Bureau Committee: Correspondence 1966-1968</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">3</container>
+						<unittitle>Summer Institute Committee: Correspondence 1965-1968/5</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">24</container>
+						<container localtype="folder">4</container>
+						<unittitle>Summer Institute Committee: Correspondence 1968/6-1970</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series IV. Meetings</unittitle>
+					<unitdate>1949-2001; bulk 1960-1993 bulk</unitdate>
+					<physdesc>2,600 items; (3.25 linear feet</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence, minutes, memos, reports, forms, proceedings, papers, programs and photographs arranged into five sub-series: Correspondence, Annual Meetings, Conferences, Symposia and Workshops, Joint Meetings, and Local Chapters.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries IV.A. Correspondence</unittitle>
+						<unitdate>1949-1971</unitdate>
+						<physdesc>250 items (.25 linear feet)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Correspondence organized in alphabetical order by subject.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">24</container>
+							<container localtype="folder">5</container>
+							<unittitle>Conferences/Herman 1960/6-1960/8</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">24</container>
+							<container localtype="folder">6</container>
+							<unittitle>Conferences/Herman 1960/9</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">24</container>
+							<container localtype="folder">7</container>
+							<unittitle>Conferences/Herman 1960/10-1961/3</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">25</container>
+							<container localtype="folder">1</container>
+							<unittitle>Organizational 1949/10-12</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">25</container>
+							<container localtype="folder">2</container>
+							<unittitle>Summer Institute 1968-1971</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries IV.B. Annual Meetings</unittitle>
+						<unitdate>1950-1991</unitdate>
+						<physdesc>400 items (1 linear foot)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Correspondence, reports, minutes, memos, forms, proceedings and photographs arranged in alphabetical order by subject and then in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">25</container>
+							<container localtype="folder">3</container>
+							<unittitle>Committee Reports 1991</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">25</container>
+							<container localtype="folder">4</container>
+							<unittitle>Minutes 1950-1958</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">25</container>
+							<container localtype="folder">5</container>
+							<unittitle>Minutes 1964-1969</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">25</container>
+							<container localtype="folder">6</container>
+							<unittitle>Minutes 1970-1974</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">25</container>
+							<container localtype="folder">7</container>
+							<unittitle>Minutes 1975-1985</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">25</container>
+							<container localtype="folder">8</container>
+							<unittitle>Miscellaneous memos, reports 1960-1981</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">25</container>
+							<container localtype="folder">9</container>
+							<unittitle>Miscellaneous memos, reports, correspondence, 1988-1989</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">26</container>
+							<container localtype="folder">1</container>
+							<unittitle>Photographs 1981-1988</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">26</container>
+							<container localtype="folder">2</container>
+							<unittitle>Photographs 1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">26</container>
+							<container localtype="folder">3</container>
+							<unittitle>Photographs 1985</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">26</container>
+							<container localtype="folder">4</container>
+							<unittitle>Photographs 1990</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">26</container>
+							<container localtype="folder">5</container>
+							<unittitle>Presentation 1989 (John Howard Video)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">26</container>
+							<container localtype="folder">6</container>
+							<unittitle>Printed Proceedings 1955-1958</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">27</container>
+							<container localtype="folder">1</container>
+							<unittitle>Registration Reply Forms 1967</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries IV.C. Conferences, Symposia, Workshops</unittitle>
+						<unitdate>1960-2001</unitdate>
+						<physdesc>55 items (1.75 linear feet)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Proceedings, programs, papers and memos organized by individual conference, symposia, or workshop with all conferences first followed by all symposia and workshops in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">27</container>
+							<container localtype="folder">2</container>
+							<unittitle>Conferences 1960, 1963, 1967, 1990, 1991</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">27</container>
+							<container localtype="folder">3</container>
+							<unittitle>Actinomycete Taxonomy 1978</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">27</container>
+							<container localtype="folder">4</container>
+							<unittitle>Freezing and Freeze Drying 1979</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">27</container>
+							<container localtype="folder">5</container>
+							<unittitle>Freezing and Freeze Drying 1980</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">27</container>
+							<container localtype="folder">6</container>
+							<unittitle>Applications of Microbial Protoplasts 1981</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">27</container>
+							<container localtype="folder">7</container>
+							<unittitle>Fungus Tests 1982</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">27</container>
+							<container localtype="folder">8</container>
+							<unittitle>Asepsis in Fermentation 1982</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">27</container>
+							<container localtype="folder">9</container>
+							<unittitle>Plasmids in Biotechnology 1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">28</container>
+							<container localtype="folder">1</container>
+							<unittitle>Introduction to Chemical Engineering for Microbiologists 1985</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">28</container>
+							<container localtype="folder">2</container>
+							<unittitle>Interfacing Fermentation with Recombinant DNA Technology 1986</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">28</container>
+							<container localtype="folder">3</container>
+							<unittitle>Process Cooling Water: Problems and Solutions 1987</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">28</container>
+							<container localtype="folder">4</container>
+							<unittitle>Water: Microbiological/Quality Issues 1987</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">28</container>
+							<container localtype="folder">5</container>
+							<unittitle>Biotechnology of Microbial Products 1988</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">28</container>
+							<container localtype="folder">6</container>
+							<unittitle>Fermentation Process Technology: Mammlian and Microbial Cell Culture 1988</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">28</container>
+							<container localtype="folder">7</container>
+							<unittitle>Polymerose Chain Reaction</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">28</container>
+							<container localtype="folder">8</container>
+							<unittitle>Asia-Oceania Biotechnology 1990</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">29</container>
+							<container localtype="folder">1</container>
+							<unittitle>Actinoplanetes and Maduromycetes, Actinomycetes 1991</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">29</container>
+							<container localtype="folder">2</container>
+							<unittitle>International Marine Biotechnology Vol. I 1991</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">29</container>
+							<container localtype="folder">3</container>
+							<unittitle>International Marine Biotechnology Vol. II 1991</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">29</container>
+							<container localtype="folder">4</container>
+							<unittitle>Controlling Biotechnology Risks: A Holistic Approach to Safety and Environmental Protection 1992</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">30</container>
+							<container localtype="folder">1</container>
+							<unittitle>Screening for Therapeutic Drugs Using Automated Assays 1993</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">30</container>
+							<container localtype="folder">2</container>
+							<unittitle>1993 Cleanroom Management</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">30</container>
+							<container localtype="folder">3</container>
+							<unittitle>1995 Fungi: An Introduction to Isolation and Taxonomy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">30</container>
+							<container localtype="folder">4</container>
+							<unittitle>2000 Predictive Medicine, Gene Expression Microarrays, Drug Discovery, Prokayotic Expression</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">30</container>
+							<container localtype="folder">5</container>
+							<unittitle>2001 Protemics</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries IV.D. Joint</unittitle>
+						<unitdate>1961, n.d.</unitdate>
+						<physdesc>6 items (2 folders)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Programs, reports and paper arranged by meeting</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">30</container>
+							<container localtype="folder">6</container>
+							<unittitle>American Institute for Biological Sciences, 1961</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">30</container>
+							<container localtype="folder">7</container>
+							<unittitle>Botanical Society, n.d</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries IV.E. Local Chapters</unittitle>
+						<unitdate>1951-1988</unitdate>
+						<physdesc>75 items (.25 linear feet)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Agendas, minutes, reports, correspondence and memos arranged by section name.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">30</container>
+							<container localtype="folder">8</container>
+							<unittitle>Chicago 1959, 1967-1969, 1972-1973</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">30</container>
+							<container localtype="folder">9</container>
+							<unittitle>Indiana 1988</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">30</container>
+							<container localtype="folder">10</container>
+							<unittitle>Metropolitan 1970, 1973-1974</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">20</container>
+							<container localtype="folder">11</container>
+							<unittitle>New England 1973-1976, 1988</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">20</container>
+							<container localtype="folder">12</container>
+							<unittitle>Washington 1951- 1960</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">20</container>
+							<container localtype="folder">13</container>
+							<unittitle>Miscellaneous Floppy Disk 1990</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series V. Publications</unittitle>
+					<unitdate>1951-2000</unitdate>
+					<physdesc>500 items (10 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Journals, newsletters, programs, abstracts, and pamphlets organized into three sub-series: Journals and Newsletters, Conference, Workshop and Meeting Materials, and Special and Miscellaneous Publications.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries V.A. Journals and Newsletters</unittitle>
+						<unitdate>1951-2000</unitdate>
+						<physdesc>8.25 linear feet</physdesc>
+					</did>
+					<scopecontent>
+						<p>Printed materials arranged by title and then in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">31</container>
+							<unittitle>Developments in Industrial Microbiology Vol. 1-5</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">32</container>
+							<unittitle>Developments in Industrial Microbiology Vol. 6-10</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">33</container>
+							<unittitle>Developments in Industrial Microbiology Vol. 11-15</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">34</container>
+							<unittitle>Developments in Industrial Microbiology Vol. 16-18</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">35</container>
+							<unittitle>Developments in Industrial Microbiology Vol. 19-20</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">36</container>
+							<unittitle>Developments in Industrial Microbiology Vol.21-23</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">37</container>
+							<unittitle>Developments in Industrial Microbiology Vol. 24-25</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">38</container>
+							<unittitle>Developments in Industrial Microbiology Vol. 26-29, 32</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">39</container>
+							<container localtype="folder">1</container>
+							<unittitle>Society of Industrial Microbiology Newsletter Vol.1 (No. 1-4) – Vol.4 (No. 1-4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">39</container>
+							<container localtype="folder">2</container>
+							<unittitle>Society of Industrial Microbiology Newsletter Vol. 5 (No. 1, 3),Vol. 6 (No. 1, 2), Vol. 7 (No. 1-3), Vol. 8 (No. 1-2)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">39</container>
+							<container localtype="folder">3</container>
+							<unittitle>Society of Industrial Microbiology Newsletter Vol. 11 (No. 1-4), Vol. 12 (No.1-3), Vol. 13 (No. 1-3), Vol.14 (No. 1-3), Vol. 15(1-4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">39</container>
+							<container localtype="folder">4</container>
+							<unittitle>Society of Industrial Microbiology Newsletter Vol. 16 (No. 1,2,4), Vol. 17 (No. 1-4), Vol. 18 (No.1-4), Vol. 19 (No. 1-5)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">39</container>
+							<container localtype="folder">5</container>
+							<unittitle>Society of Industrial Microbiology Newsletter Vol. 20 (No. 1-5), Vol. 21 (No. 1-5), Vol. 22 (No. 1, 3,4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">39</container>
+							<container localtype="folder">6</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 23 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">39</container>
+							<container localtype="folder">7</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 24 (No. 4,6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">39</container>
+							<container localtype="folder">8</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 25 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">39</container>
+							<container localtype="folder">9</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 26 (No. 1-5)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">40</container>
+							<container localtype="folder">1</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 27 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">40</container>
+							<container localtype="folder">2</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 28 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">40</container>
+							<container localtype="folder">3</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 29 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">40</container>
+							<container localtype="folder">4</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 30 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">40</container>
+							<container localtype="folder">5</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 31 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">40</container>
+							<container localtype="folder">6</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 32 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">40</container>
+							<container localtype="folder">7</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 33 (No. 1-4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">40</container>
+							<container localtype="folder">8</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 34 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">40</container>
+							<container localtype="folder">9</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 35 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">40</container>
+							<container localtype="folder">10</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 36 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">41</container>
+							<container localtype="folder">1</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 37 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">41</container>
+							<container localtype="folder">2</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 38 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">41</container>
+							<container localtype="folder">3</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 39 (No.6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">41</container>
+							<container localtype="folder">3</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 40 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">41</container>
+							<container localtype="folder">4</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 41 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">41</container>
+							<container localtype="folder">5</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 42 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">41</container>
+							<container localtype="folder">6</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 43 (No. 1, 3-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">42</container>
+							<container localtype="folder">1</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 44 (No. 1,3-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">42</container>
+							<container localtype="folder">2</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 45 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">42</container>
+							<container localtype="folder">3</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 46 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">42</container>
+							<container localtype="folder">4</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 47 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">42</container>
+							<container localtype="folder">5</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 48 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">43</container>
+							<container localtype="folder">1</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 49 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">43</container>
+							<container localtype="folder">2</container>
+							<unittitle>Society of Industrial Microbiology News Vol. 50 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">43</container>
+							<container localtype="folder">3</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 1 (No. 1-3)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">43</container>
+							<container localtype="folder">4</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 1 (No. 4-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">43</container>
+							<container localtype="folder">5</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 1 (No. 4-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">43</container>
+							<container localtype="folder">6</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 2 (No. 1-5)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">43</container>
+							<container localtype="folder">7</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 3 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">44</container>
+							<container localtype="folder">1</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 4 (No. 3), Vol. 6 (No. 1-4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">44</container>
+							<container localtype="folder">2</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 7 (No. 1-4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">44</container>
+							<container localtype="folder">3</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 8 (No. 1-4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">44</container>
+							<container localtype="folder">4</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 9 (No. 1-4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">44</container>
+							<container localtype="folder">5</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 10 (No. 1-4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">44</container>
+							<container localtype="folder">6</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 11 (No. 1-4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">45</container>
+							<container localtype="folder">1</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 12 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">45</container>
+							<container localtype="folder">2</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 13 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">45</container>
+							<container localtype="folder">3</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 14 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">45</container>
+							<container localtype="folder">4</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 15 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">46</container>
+							<container localtype="folder">1</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 16 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">46</container>
+							<container localtype="folder">2</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 17 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">46</container>
+							<container localtype="folder">3</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 18 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">46</container>
+							<container localtype="folder">4</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 19 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">46</container>
+							<container localtype="folder">5</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 20 (No. 1-6)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">47</container>
+							<unittitle>Journal of Industrial Microbiology Vol. 21-Vol. 26</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries V.B. Conferences, Workshops and Meeting Materials</unittitle>
+						<unitdate>1990-2000</unitdate>
+						<physdesc>30 items (1 linear foot)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Programs, abstracts, conference papers and handouts arranged by type of program and then in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">48</container>
+							<unittitle>Annual Meeting Programs and Abstracts 1992-1995, 1997-2000 Conference and Workshop Program and Annual Meeting Programs and Abstracts 1992-1995, 1997-2000 Conference and Workshop Program and Abstracts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">49</container>
+							<container localtype="folder">1</container>
+							<unittitle>Conference materials 1991, 1999, 2000</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">49</container>
+							<container localtype="folder">2</container>
+							<unittitle>Validation of Automated Systems in the Pharmaceutical Industry 1984</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">49</container>
+							<container localtype="folder">3</container>
+							<unittitle>Biotechnology: GMPs, Regulatory Concerns and Common Sense (Part 1-4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">49</container>
+							<container localtype="folder">4</container>
+							<unittitle>Biotechnology: GMPs, Regulatory Concerns and Common Sense (Part 5-7) 1990</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">49</container>
+							<container localtype="folder">5</container>
+							<unittitle>Validation, Design and Start-up of Biotechnology Plants 1991</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">49</container>
+							<container localtype="folder">6</container>
+							<unittitle>Development of Cell Culture Biopharmaceuticals: Manufacturing and Control 1994</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries V.C. Special Publications and Miscellanea</unittitle>
+						<unitdate>1959-1982</unitdate>
+						<physdesc>120 items (.5 linear feet)</physdesc>
+					</did>
+					<scopecontent>
+						<p>Printed materials, correspondence, reports, and contracts arranged by subject and then in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">50</container>
+							<container localtype="folder">1</container>
+							<unittitle>Special Publication No. 1- 4</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">50</container>
+							<container localtype="folder">2</container>
+							<unittitle>Special Publication No. 5</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">50</container>
+							<container localtype="folder">3</container>
+							<unittitle>Special Publication No. 6</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">50</container>
+							<container localtype="folder">4</container>
+							<unittitle>Contract Agreements 1959-1962</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">50</container>
+							<container localtype="folder">5</container>
+							<unittitle>Correspondence: Newsletter Editor 1965-1976</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">50</container>
+							<container localtype="folder">6</container>
+							<unittitle>Reprint and Page Charges 1959 – 1982</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series VI. Affiliated Organizations and Ephemera</unittitle>
+					<unitdate>1967-1989</unitdate>
+					<physdesc>150 items (.25 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence, member list and ephemera arranged by subject.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">51</container>
+						<container localtype="folder">1</container>
+						<unittitle>Proclamation, Poster, Plaque 1982 – 1989</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">51</container>
+						<container localtype="folder">2</container>
+						<unittitle>American Association for the Advancement of Science/Correspondence: 1967/8-1975/9</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">51</container>
+						<container localtype="folder">3</container>
+						<unittitle>American Institute of Biological Science/ Correspondence: 1968/1-1975/9</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">51</container>
+						<container localtype="folder">4</container>
+						<unittitle>Membership: American Institute of Biological Science 1982/3</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">51</container>
+						<container localtype="folder">5</container>
+						<unittitle>Northwestern University/ Correspondence: 1970 - 2002</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">51</container>
+						<container localtype="folder">6</container>
+						<unittitle>Northwestern University/ Accession Records and Inventories</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

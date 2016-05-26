@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><ead audience="external" relatedencoding="MARC21">
+      <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+         <recordid>Coll018</recordid>
+		 <representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll018.php" localtype="PHP">Finding Aid</representation>
+         <filedesc>
+            <titlestmt>
+               <titleproper encodinganalog="245$a">Keith Porter papers</titleproper>
+               <author>Loeper, Lindsey</author>
+            </titlestmt>
+         </filedesc>
+         <maintenancestatus value="new"/>
+         <maintenanceagency countrycode="US">
+            <agencycode>mdubc</agencycode>
+            <agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+         </maintenanceagency>
+         <conventiondeclaration>
+            <abbr>DACS</abbr>
+            <citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+         </conventiondeclaration>
+         <localtypedeclaration>
+            <citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
+            <descriptivenote>
+               <p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+            </descriptivenote>
+         </localtypedeclaration>
+         <maintenancehistory>
+            <maintenanceevent>
+               <eventtype value="derived"/>
+               <eventdatetime standarddatetime="2015-08-27T12:45:18.077-04:00"/>
+               <agenttype value="machine"/>
+               <agent>Computer</agent>
+               <eventdescription>Conversion from PastPerfect.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-10-16T11:04:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Sonnenberg, Eric</agent>
+               <eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+            </maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-11-18T11:50:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Sonnenberg, Eric</agent>
+               <eventdescription>Updated separated materials.</eventdescription>
+            </maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-20T10:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated representation field.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2016-01-27T16:15:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated subject and creator fields.</eventdescription>
+			</maintenanceevent>
+		</maintenancehistory>
+      </control>
+      <archdesc level="collection">
+         <did>
+            <unittitle encodinganalog="245$a">Keith Porter papers</unittitle>
+            <unitid countrycode="US" repositorycode="mdubc">Coll018</unitid>
+            <origination>
+               <persname relator="creator" encodinganalog="100" source="lc">
+                  <part>Porter</part><part>Keith R.</part>
+               </persname>
+            </origination>
+            <unitdate unitdatetype="inclusive" encodinganalog="245$f">circa 1950-1987</unitdate>
+            <unitdatestructured unitdatetype="inclusive">
+               <daterange>
+                  <fromdate>1950</fromdate>
+                  <todate>1987</todate>
+               </daterange>
+            </unitdatestructured>
+            <physdesc encodinganalog="300$a$f">110 boxes (110 linear feet)</physdesc>
+            <physdescset>
+               <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+                  <quantity>110</quantity>
+                  <unittype>boxes</unittype>
+               </physdescstructured>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>110</quantity>
+                  <unittype>linear feet</unittype>
+               </physdescstructured>
+            </physdescset>
+            <abstract encodinganalog="520$a">Contains materials relating to UMBC faculty member Professor Keith Porter. Includes lab records, experiment notes, research papers, notebooks, photographic prints, microscopic photographs and slides, glass negatives, glass prints, microscopes, awards, certificates, correspondence, personal and professional photographs, and materials relating to Porter's professional association affiliations.</abstract>
+            <langmaterial>
+               <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+               <corpname>
+                  <part>University of Maryland, Baltimore County</part>
+               </corpname>
+               <address>
+                  <addressline>Albin O. Kuhn Library and Gallery</addressline>
+                  <addressline>UMBC</addressline>
+                  <addressline>1000 Hilltop Circle</addressline>
+                  <addressline>Baltimore, MD 21250</addressline>
+                  <addressline>410-455-2353</addressline>
+                  <addressline>speccoll@umbc.edu</addressline>
+               </address>
+            </repository>
+         </did>
+         <bioghist encodinganalog="545">
+            <p>Porter was a UMBC professor from 1984 to his retirement in 1987, serving as professor and chair in the Biological Sciences department.</p>
+         </bioghist>
+         <arrangement encodinganalog="351">
+            <p/>
+         </arrangement>
+         <accessrestrict encodinganalog="506">
+            <p>No restrictions on access.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>Reproductions allowed for research purposes. Copyright maintained by the creator.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>Keith Porter papers, Center for Biological Sciences Archives, Collection 18, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+         </prefercite>
+         <otherfindaid encodinganalog="555">
+            <p>An inventory has been completed and is in the collection folder.</p>
+         </otherfindaid>
+         <acqinfo>
+            <p>SARCV 1999-06, SARCV 2000-03, SARCV 2000-05, SARCV 2000-07, SARCV 2001-05, SARCV 2010-07, UARC 2008-60; this collection was acquired from various sources in 8 different accessions.</p>
+         </acqinfo>
+         <processinfo>
+            <p>Collection unprocessed.</p>
+         </processinfo>
+         <separatedmaterial encodinganalog="544">
+            <archref>Keith R. Porter Papers (1938-1993), University Libraries, University of Colorado at Boulder (Boulder, CO).</archref>
+         </separatedmaterial>
+         <controlaccess>
+            <corpname encodinganalog="610" source="lc">
+               <part>American Society for Cell Biology</part>
+            </corpname>
+            <subject encodinganalog="650" source="lc">
+               <part>Porter, Keith R.</part><part>Archives</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Cytology</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>Histology</part>
+            </subject>
+            <subject encodinganalog="650" source="lc">
+               <part>University of Maryland, Baltimore County</part><part>Faculty</part>
+            </subject>
+         </controlaccess>
+      </archdesc>
+   </ead>

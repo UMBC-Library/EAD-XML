@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead audience="external" relatedencoding="MARC21">
+	<control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<recordid>Coll002</recordid>
+		<representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll002.php" localtype="PHP">Finding Aid</representation>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="245$a">Perry Hall Improvement Association records</titleproper>
+				<author>Peri, Marcia</author>
+			</titlestmt>
+		</filedesc>
+		<maintenancestatus value="new"/>
+		<maintenanceagency countrycode="us">
+			<agencycode>mdubc</agencycode>
+			<agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+		</maintenanceagency>
+		<conventiondeclaration>
+			<abbr>DACS</abbr>
+			<citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+		</conventiondeclaration>
+		<localtypedeclaration>
+			<citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
+			<descriptivenote>
+				<p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+			</descriptivenote>
+		</localtypedeclaration>
+		<maintenancehistory>
+			<maintenanceevent>
+				<eventtype value="derived"/>
+				<eventdatetime standarddatetime="2015-06-30T09:11:32.282-04:00"/>
+				<agenttype value="machine"/>
+				<agent>Computer</agent>
+				<eventdescription>Conversion from PastPerfect.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-06-30T09:27:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Somach, Emily</agent>
+				<eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-08-25T01:30:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Somach, Emily</agent>
+				<eventdescription>Manual additions and updates including: container list, scope and content note, biographical note, and arrangement list.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-12T16:08:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Added bibliography.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-19T16:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated links in representation field.</eventdescription>
+			</maintenanceevent>
+		</maintenancehistory>
+	</control>
+	<archdesc level="collection">
+		<did>
+			<unittitle encodinganalog="245$a">Perry Hall Improvement Association records</unittitle>
+			<unitid countrycode="us" repositorycode="mdubc">Coll002</unitid>
+			<origination>
+				<corpname relator="creator" encodinganalog="110" source="local">
+					<part>Perry Hall Improvement Association</part>
+				</corpname>
+			</origination>
+			<unitdate unitdatetype="inclusive" encodinganalog="245$f">1945-1986</unitdate>
+			<unitdatestructured unitdatetype="inclusive">
+				<daterange>
+					<fromdate>1945</fromdate>
+					<todate>1986</todate>
+				</daterange>
+			</unitdatestructured>
+			<physdesc encodinganalog="300$a$f">5 boxes (5.5 linear feet)</physdesc>
+			<physdescset>
+				<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+					<quantity>5</quantity>
+					<unittype>boxes</unittype>
+				</physdescstructured>
+				<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+					<quantity>5.5</quantity>
+					<unittype>linear feet</unittype>
+				</physdescstructured>
+			</physdescset>
+			<abstract encodinganalog="520$a">This collection contains the papers of the Perry Hall Improvement Association (PHIA), a local community advocacy group founded in 1945 by the residents of Perry Hall, Maryland, a residential community located in Baltimore County. The collection contains by-laws, histories, rosters, correspondence, minutes, research and case files, financial and legal documents, publications, clippings, and copies of local laws and regulations. Also included is a written history of Perry Hall that the group published in 1970 entitled "An Invitation to Memory"; a copy is available in Series IX.</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+			<repository>
+				<corpname>
+					<part>University of Maryland, Baltimore County</part>
+				</corpname>
+				<address>
+					<addressline>Albin O. Kuhn Library and Gallery</addressline>
+					<addressline>UMBC</addressline>
+					<addressline>1000 Hilltop Circle</addressline>
+					<addressline>Baltimore, MD 21250</addressline>
+					<addressline>410-455-2353</addressline>
+					<addressline>speccoll@umbc.edu</addressline>
+				</address>
+			</repository>
+		</did>
+		<scopecontent encodinganalog="520">
+			<p>This collection of the records and documents from the Perry Hall Improvement Association (PHIA) covers the period from the establishment of the Association in 1945 through 1986. The majority of the material covers the period during the 1960’s and 1970’s when Baltimore County was experiencing rapid expansion. Extensive rezoning was underway to accommodate population growth and businesses wishing to expand into the county in areas formerly exclusively residential. The PHIA took an active interest in the rezoning process, acting as advocate for individual property owners fighting zoning changes and the allocation of residential property for commercial use. Case files of zoning cases or appeals in which the Association had an interest are present. Much of the correspondence in the collection is between the PHIA and the different offices of the county involved with zoning and county services. There are reports and bulletins from county and state offices, the zoning commission and planning board, primarily from the late 1960’s and 1970’s. Copies of zoning laws and building codes are available from different periods.</p>
+			<p>Internal documents of the Association cover the period from 1945 through 1981. The by-laws and amendments and the business license of the Association are present. Minutes of the regular monthly meetings are generally complete for 1945 through 1981. Minutes of the Board of Directors and Special Committees are sporadic, primarily in the late 1950s and 1960s. Rosters of the membership of the association, both active and inactive, dues paid lists and attendance sheets are available for most of the period through the 1970’s. Treasurers’ reports and other financial records are present for individual years. Programs from Association events and a history of Perry Hall compiled and published by the Association are present. Clippings from local newspapers are included but not well documented, often without dates of publication. Miscellaneous material and files on subjects or groups peripheral to the association are grouped as research files.</p>
+		</scopecontent>
+		<bioghist encodinganalog="545">
+			<p>The Perry Hall Improvement Association was formed in 1945 to “beautify, safeguard, encourage and improve the physical, moral and spiritual living conditions of the people who reside in or are influenced by the community of Perry Hall.” The association defined the area as “power lines on Belair Road near St. Joseph’s Church, on South, by Gunpowder Falls on North Joppa Road &amp; Cowenton Avenue on East to power lines on Joppa Road near Simms Avenue.” The first meeting was held on July 31, 1945. The Association started in response to the proposed establishment of a cemetery on Joppa Road near Belair Road. This commercial venture was successfully defeated; the first of the Association’s many attempts to balance commercial and residential interests in the area.</p>
+			<p>Through the 1940s and ‘50s the Association successfully campaigned for reduced speed limits near the Perry Hall School, got street signs installed by the state on Route 40, and mounted several successful protests against rezoning for light industry and waste disposal (auto junkyard and garbage dump). Contacts with other area associations were established and although membership and attendance fell through the late 1950s the association continued to monitor and protest commercial development in the area.</p>
+			<p>The 1960s saw renewed interest in the Association and its activities. Successful lobbying resulted in the establishment of the Perry Hall branch of the Baltimore County public library and the formal change of name from Fullerton to Perry Hall by the Post Office. Traffic, roadway maintenance and zoning continued to be the major areas of concern. After 1965, zoning becomes the predominant area of interest for the Association. The Baltimore County rezoning plan, driven by the increase in population in the area and a desire to draw more commercial interests included many changes for the Perry Hall area. The history of the Association through the late 1960s and 1970s is one of almost constant protest or appeal of various zoning decisions by the Baltimore County Planning Board. In 1970, the Association celebrated its 25th anniversary with the publication of a history of the area, “An Invitation to Memory” and in 1976 was responsible for coordinating many of the Bicentennial celebrations in the area.</p>
+			<p>The 1980s again saw a decline in interest and membership in the Association. This may have been because rezoning disputes had been resolved for the most part and/or because increased population, housing and commercial interests in the area had moderated Perry Hall’s strictly residential emphasis. The proliferation of other interest groups in the area and of umbrella organizations serving the entire county presumably reduced the appeal of the Association.</p>
+		</bioghist>
+		<arrangement encodinganalog="351">
+			<p>Organized into eleven series: Series I. Bylaws, 1945-1984. Series II. Histories, 1945-1976. Series III. Rosters, 1945-1984. Series IV. Minutes, 1945-1981. Series V. Financial and Legal Documents, 1948-1980. Series VI. Correspondence, 1945-1986. Series VII. Laws and Regulations, 1955-1980. Series VIII. Case Files, 1963-1980. Series IX. Publications, 1970-1988. Series X. Clippings, 1960-1980, n.d. Series XI. Research Files, 1945-1986.</p>
+			<list listtype="ordered" numeration="upper-roman">
+				<item>Bylaws</item>
+				<item>Histories</item>
+				<item>Rosters</item>
+				<item>Minutes</item>
+				<item>Financial &amp; Legal Documents</item>
+				<item>Correspondence</item>
+				<item>Laws &amp; Regulations</item>
+				<item>Case Files</item>
+				<item>Publications</item>
+				<item>Clippings</item>
+				<item>Research Files</item>
+			</list>
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<p>No restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<p>Reproductions allowed for research purposes. UMBC is the copyright owner; permission to reproduce is required.</p>
+		</userestrict>
+		<prefercite encodinganalog="524">
+			<p>Perry Hall Improvement Association records, Collection 2, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+		</prefercite>
+		<otherfindaid encodinganalog="555">
+			<p>Finding aid available.</p>
+		</otherfindaid>
+		<acqinfo>
+			<p>MSS 1994-04; The papers of the Perry Hall Improvement Association (PHIA) was donated in 1994 by Mrs. Genevieve Buetttner, a long time member of the PHIA Board of Directors.</p>
+		</acqinfo>
+		<processinfo>
+			<p>The papers of the Perry Hall Improvement Association (PHIA), an advocacy group founded in 1945 by the residents of Perry Hall, Maryland became part of the UMBC Special Collections in 1994 when it was donated by Mrs. Genevieve Buetttner, a long time member of the PHIA Board of Directors. Accession records are not specific as to date of receipt or where the papers had been kept prior to coming to UMBC. The collection arrived at UMBC in nine cardboard boxes, unnumbered and without an existing order. The records and papers were in plastic bags, loose-leaf notebooks, manilla envelopes and folders, with no arrangement other than within individual notebooks or files. The collection was processed and the finding aid written by Drew Alfgren, under the supervision of Marcia Peri, Archivist, in August, 1999.</p>
+		</processinfo>
+		<controlaccess>
+			<subject encodinganalog="650" source="lc">
+				<part>Civic improvement</part>
+				<part>Maryland</part>
+				<part>Perry Hall (Md.)</part>
+				<part>History</part>
+			</subject>
+			<subject encodinganalog="650" source="lc">
+				<part>Community organization</part>
+				<part>Maryland</part>
+				<part>Perry Hall</part>
+				<part>History</part>
+			</subject>
+			<subject encodinganalog="651" source="lc">
+				<part>Perry Hall (Md.)</part>
+				<part>History</part>
+			</subject>
+		</controlaccess>
+		<bibliography>
+			<bibref><ref href="http://www.perryhallmaryland.org/">Perry Hall Improvement Association (PHIA) homepage. Accessed November 12, 2015.</ref></bibref>
+		</bibliography>
+		<dsc>
+			<c01 level="series">
+				<did>
+					<unittitle>Series I. Bylaws</unittitle>
+					<unitdate>1945-1984</unitdate>
+					<physdesc>1 folder</physdesc>
+				</did>
+				<scopecontent>
+					<p>Bylaws and amendments thereto of the Association.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">1</container>
+						<unittitle>By-Laws</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series II. Histories</unittitle>
+					<unitdate>1945-1976</unitdate>
+					<physdesc>2 folders (.25 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Includes written history of the Association from 1948-1957, programs, publicity and related material from Association events, 1947-1976.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">2</container>
+						<unittitle>Histories: Association (PHIA) History: 1945-1969</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">3</container>
+						<unittitle>Histories: Association events and publicity: 1947-1976</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series III. Rosters</unittitle>
+					<unitdate>1945-1984</unitdate>
+					<physdesc>11 folders (.5 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Lists of members, active and inactive; meeting attendance sheets; dues paid lists; directories; Presidents list. Arranged in chronological order.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">4</container>
+						<unittitle>Rosters: Member directory: 1945-1955</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">5</container>
+						<unittitle>Rosters: Member lists / Dues paid: 1945-1955</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">6</container>
+						<unittitle>Rosters: Member lists / Dues paid: 1963-1978</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">7</container>
+						<unittitle>Rosters: Inactive member list: January 1, 1964</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">8</container>
+						<unittitle>Rosters: Member directory &amp; Inactive list: 1945-1974 (original "President's Book")</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">9</container>
+						<unittitle>Rosters: Attendance sheets: 1973-1976</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">10</container>
+						<unittitle>Rosters: Members telephone directory: 1978</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">11</container>
+						<unittitle>Rosters: Member lists / Dues paid: 1979-1980</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">12</container>
+						<unittitle>Rosters: Member lists / Dues paid: 1981-1984</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">13</container>
+						<unittitle>Rosters: Association Presidents: 1945-1978</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">14</container>
+						<unittitle>Rosters: Baltimore County Planning Board: 1975</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series IV. Minutes</unittitle>
+					<unitdate>1945-1981</unitdate>
+					<physdesc>8 folders (.5 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Minutes of regular monthly meetings, Board of Directors meetings, Special Committee meetings. Arranged in chronological order.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">15</container>
+						<unittitle>Minutes: Regular meetings: July 31, 1945-Dec. 6, 1951</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">16</container>
+						<unittitle>Minutes: Regular meetings: July 31, 1945-Dec. 6, 1951</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">17</container>
+						<unittitle>Minutes: Regular meetings: Jan. 2, 1958-Dec. 12, 1963</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">18</container>
+						<unittitle>Minutes: Regular meetings: Jan. 9, 1964-DEc. 10, 1970</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">19</container>
+						<unittitle>Minutes: Regular meetings: Jan. 14, 1971-Dec. 13, 1973</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">20</container>
+						<unittitle>Minutes: Regular meetings: Jan. 10, 1974-Nov. 11, 1976</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">21</container>
+						<unittitle>Minutes: Regular meetings: Feb. 10, 1977-Nov. 12, 1981</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">22</container>
+						<unittitle>Minutes: Special Meetings (Board of Governors &amp; Special Committees: 1953-1970 (Irregular)</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series V. Financial &amp; Legal Documents</unittitle>
+					<unitdate>1948-1980</unitdate>
+					<physdesc>10 folders (.75 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Attorney retainer agreements, bank statements, checkbook stubs, business license, income tax forms, receipts, letters of authority. Arranged alphabetically by subject.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">23</container>
+						<unittitle>Financial &amp; Legal Documents: Attorney retainer agreement &amp; statements: 1971-1976</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">24</container>
+						<unittitle>Financial &amp; Legal Documents: Auditors' reports (Irregular)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">25</container>
+						<unittitle>Financial &amp; Legal Documents: Bank statements: 1970-1976</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">26</container>
+						<unittitle>Financial &amp; Legal Documents: Business license &amp; Lease agreements</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">27</container>
+						<unittitle>Financial &amp; Legal Documents: Checkbook stubs: Mar. 1948-Dec. 1957</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">28</container>
+						<unittitle>Financial &amp; Legal Documents: Letters of Authority: 1949-1980</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">29</container>
+						<unittitle>Financial &amp; Legal Documents: Receipts: 1970-1980</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">30</container>
+						<unittitle>Financial &amp; Legal Documents: State tax forms: 1948-1975</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">31</container>
+						<unittitle>Financial &amp; Legal Documents: Treasurers' reports: 1960-1970 (Incomplete)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">32</container>
+						<unittitle>Financial &amp; Legal Documents: Zoning Fund: 1946</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series VI. Correspondence</unittitle>
+					<unitdate>1945-1986</unitdate>
+					<physdesc>14 folders (.75 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Form letters and fliers; correspondence with state and county offices; general correspondence. Arranged chronologically within subjects.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">33</container>
+						<unittitle>Correspondence: Events &amp; Speakers: 1948-1969</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">34</container>
+						<unittitle>Correspondence: Form letters &amp; fliers: Baltimore County: 1970-1980</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">35</container>
+						<unittitle>Correspondence: Form letters &amp; fliers: Local area groups: 1969-1982</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">1</container>
+						<unittitle>Correspondence: Form letters &amp; fliers: PHIA: 1949-1982</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">2</container>
+						<unittitle>Correspondence: General: 1945-1986</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">3</container>
+						<unittitle>Correspondence: State &amp; County: 1945-1959</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">4</container>
+						<unittitle>Correspondence: State &amp; County: 1960-1970</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">5</container>
+						<unittitle>Correspondence: State &amp; County: 1971-1980</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">6</container>
+						<unittitle>Correspondence: State &amp; County: 1981-1984</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">7</container>
+						<unittitle>Correspondence: State &amp; County: Belair Road Study: 1979</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">8</container>
+						<unittitle>Correspondence: State &amp; County: Carroll Manor School: 1973</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">9</container>
+						<unittitle>Correspondence: State &amp; County: State Roads Commission: 1945-1955</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">10</container>
+						<unittitle>Correspondence: State &amp; County: State Roads Commission: 1968-1978</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">11</container>
+						<unittitle>Correspondence: U.S. Post Office: 1961-1980</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series VII. Laws and Regulations</unittitle>
+					<unitdate>1955-1980</unitdate>
+					<physdesc>8 folders (.5 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Baltimore County rules and regulations; Home Rule Charter; Zoning regulations; Individual slip laws. Arranged alphabetically by subject.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">2</container>
+						<unittitle>Histories: Association (PHIA) History: 1945-1969</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">3</container>
+						<unittitle>Histories: Association events and publicity: 1947-1976</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">12</container>
+						<unittitle>Laws &amp; Regulations: Baltimore Co. Bond Referendums: 1976, 1980</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">13</container>
+						<unittitle>Laws &amp; Regulations: Baltimore Co. Code: 1961 Cummulative Supplement</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">14</container>
+						<unittitle>Laws &amp; Regulations: Baltimore Co. Home Rule Charter: 1956</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">15</container>
+						<unittitle>Laws &amp; Regulations: Baltimore Co. Zoning Regulations: 1960</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">16</container>
+						<unittitle>Laws &amp; Regulations: Baltimore Co. Proposed Zoning Amendments: 1973</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">17</container>
+						<unittitle>Laws &amp; Regulations: Baltimore Co. Zoning Regulations: 1975 Revision</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">18</container>
+						<unittitle>Laws &amp; Regulations: Baltimore Co. miscellaneous bills: 1965-1982</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">19</container>
+						<unittitle>Laws &amp; Regulations: Maryland Law Governing Aeronautics: 1966</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series VIII. Case Files</unittitle>
+					<unitdate>1963-1980</unitdate>
+					<physdesc>31 folders (1 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Case files of zoning cases, including all correspondence, judgements and appeals. Legal cases other than zoning (minimal). Arranged alphabetically by plaintiff.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">20</container>
+						<unittitle>Cases: Liquor Board: Kahl Tavern: 1972</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">21</container>
+						<unittitle>Cases: Liquor Board: Persing application: 1976</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">22</container>
+						<unittitle>Cases: Zoning: Aston: 74-76 RX (1973); 77-156/157-X (1977) folder (a)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">23</container>
+						<unittitle>Cases: Zoning: Aston: 74-76 RX (1973); 77-156/157-X (1977) folder (b)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">24</container>
+						<unittitle>Cases: Zoning: Berg: 79-47-V (1973)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">25</container>
+						<unittitle>Cases: Zoning: Betz: 74-205-R (1974)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">26</container>
+						<unittitle>Cases: Zoning: Columbia Club/Knights of Columbus Hall: 79-47-V (1979)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">27</container>
+						<unittitle>Cases: Zoning: Dansberger: 76-57-V (1976)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">28</container>
+						<unittitle>Cases: Zoning: Diakoulas: 74-206-R (1974)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">29</container>
+						<unittitle>Cases: Zoning: Gaudetsky: 63-102 (1963)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">30</container>
+						<unittitle>Cases: Zoning: Kahl: 72-229-RX (1972)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">31</container>
+						<unittitle>Cases: Zoning: Kishter: 75-58-R (1974)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">32</container>
+						<unittitle>Cases: Zoning: Lauman: 78-247-XA (1978)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">33</container>
+						<unittitle>Cases: Zoning: Loch Lomond Inc (Resolution): 1960</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">34</container>
+						<unittitle>Cases: Zoning: Maryland National Bank: 77-131-XSPH (1977)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">35</container>
+						<unittitle>Cases: Zoning: Mills: 76-344/345-V (1978)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">36</container>
+						<unittitle>Cases: Zoning: Mills: 76-344/345-V (1978)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">37</container>
+						<unittitle>Cases: Zoning: Myers Estate: 72-49-R (1972)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">38</container>
+						<unittitle>Cases: Zoning: NPM Inc.: 73-201-R (1973)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">39</container>
+						<unittitle>Cases: Zoning: Nothview Associates: 82-109-X (1982)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">40</container>
+						<unittitle>Cases: Zoning: Northview Shopping Center: 77-13-V (1976)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">41</container>
+						<unittitle>Cases: Zoning: Nottingham Village Inc.: 71-174/175-RX (1971); 72-50-R (1972)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">42</container>
+						<unittitle>Cases: Zoning: Perry Hall Associates: 75-218-R (1975)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">43</container>
+						<unittitle>Cases: Zoning: Presbyterian Church: 5772-RX (1963)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">44</container>
+						<unittitle>Cases: Zoning: Schroeder: 82-241-X (1981)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">45</container>
+						<unittitle>Cases: Zoning: Story: 5615-RX (1963)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">46</container>
+						<unittitle>Cases: Zoning: Universal Housing &amp; Development: 74-73-R (1973); 74-217-R (1976)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">47</container>
+						<unittitle>Cases: Zoning: W.I.T.H. Inc.: 76-35-X (1975)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">48</container>
+						<unittitle>Cases: Zoning: Summary of Zoning Cases 1971-1973</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">49</container>
+						<unittitle>Cases: Zoning: Miscellaneous notes and material</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">2</container>
+						<container localtype="folder">50</container>
+						<unittitle>Cases: Zoning: Miscellaneous out of area cases not pursued</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series IX. Publications</unittitle>
+					<unitdate>1970-1984; bulk 1970-1980</unitdate>
+					<physdesc>26 folders (.75 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Newsletters; planning and zoning reports; information brochures; Association publications. Arranged chronologically within subject.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">1</container>
+						<unittitle>Publications: Cable TV franchise application summary(Baltimore Co.): 1972</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">2</container>
+						<unittitle>Publications: Directories: Baltimore Co. organizations: 1970-1975</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">3</container>
+						<unittitle>Publications: Maps: Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">4</container>
+						<unittitle>Publications: Newsletters &amp; Announcements: Bicentennial Committee: 1976</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">5</container>
+						<unittitle>Publications: Newsletters: Maryland Dept. of ransportation "Transit Action": 1975</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">6</container>
+						<unittitle>Publications: Newsletters: PHIA Newsletter: 1962-1963</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">7</container>
+						<unittitle>Publications: Newsletters: Whitemartsh Run Watershed Newsletter: 1974-1976</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">8</container>
+						<unittitle>Publications: Newsletters: Miscellaneous (other area groups)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">9</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1967-1969</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">10</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1970</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">11</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1971</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">12</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1974-1973</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">13</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1974-1975</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">14</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1975 (continued)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">15</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1976</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">16</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1977</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">17</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1978 (a)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">18</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1978 (b)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">19</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1979-1981</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">20</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1982</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">21</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1984</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">22</container>
+						<unittitle>Publications: Planning &amp; Zoning: 1988</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">3</container>
+						<container localtype="folder">23</container>
+						<unittitle>Publications: Private printing: PHIA "An Invitation to Memory": PHIA 25th anniversary (1970)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">1</container>
+						<unittitle>Publications: Miscellaneous: County</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">2</container>
+						<unittitle>Publications: Miscellaneous: State</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">3</container>
+						<unittitle>Publications: Miscellaneous: State: Department of Transportation</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series X. Clippings</unittitle>
+					<unitdate>1960-1980, undated; bulk 1970-1980</unitdate>
+					<physdesc>7 folders (.3 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Articles and photographs from local newspapers. Arranged alphabetically by subject.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">4</container>
+						<unittitle>Clippings: Baltimore Co. budget: 1975</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">5</container>
+						<unittitle>Clippings: Perry Hall Post Office: 1962</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">6</container>
+						<unittitle>Clippings: Zoning: 1961-1964</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">7</container>
+						<unittitle>Clippings: Zoning: 1967-1971</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">8</container>
+						<unittitle>Clippings: Zoning: 1972-1977</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">9</container>
+						<unittitle>Clippings: Zoning: 1978-1983</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">4</container>
+						<container localtype="folder">10</container>
+						<unittitle>Clippings: Miscellaneous: undated</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series XI. Research Files</unittitle>
+					<unitdate>1945-1986</unitdate>
+					<physdesc>9 folders (.3 linear feet)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Primarily material on other area groups active during the same period. Files may contain any of the following: correspondence, clippings, pamphlets, brochures and incidental material. Arranged alphabetically by subject.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">1</container>
+						<unittitle>Research file: Baltimore Co. Planning Board: 1981-1982</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">2</container>
+						<unittitle>Research file: Baltimore Co. schools</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">3</container>
+						<unittitle>Research file: Citizen Planning &amp; Housing Association: 1969-1976</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">4</container>
+						<unittitle>Research file: Council of Civic Associations of Baltimore Co.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">5</container>
+						<unittitle>Research file: Northeast Coordinating Council</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">6</container>
+						<unittitle>Research file: Notes: PHIA: Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">7</container>
+						<unittitle>Research file: Perry Hall Library</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">8</container>
+						<unittitle>Research file: Title search: Bishops' Inn</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<container localtype="folder">9</container>
+						<unittitle>Research file: Whitemarsh Run</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

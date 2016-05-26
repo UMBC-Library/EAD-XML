@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead audience="external" relatedencoding="MARC21">
+	<control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<recordid>Coll020</recordid>
+		<representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll020.php" localtype="PHP">Finding Aid</representation>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="245$a">Hugh Bolton Jones letters</titleproper>
+				<author>Loeper, Lindsey</author>
+			</titlestmt>
+		</filedesc>
+		<maintenancestatus value="new"/>
+		<maintenanceagency countrycode="us">
+			<agencycode>mdubc</agencycode>
+			<agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+		</maintenanceagency>
+		<conventiondeclaration>
+			<abbr>DACS</abbr>
+			<citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+		</conventiondeclaration>
+		<localtypedeclaration>
+			<citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
+			<descriptivenote>
+				<p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+			</descriptivenote>
+		</localtypedeclaration>
+		<maintenancehistory>
+			<maintenanceevent>
+				<eventtype value="derived"/>
+				<eventdatetime standarddatetime="2015-06-30T09:11:32.282-04:00"/>
+				<agenttype value="machine"/>
+				<agent>Computer</agent>
+				<eventdescription>Conversion from PastPerfect.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-07-14T11:41:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Somach, Emily</agent>
+				<eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-09-06T02:00:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Somach, Emily</agent>
+				<eventdescription>Manual updates and edits including: scope and content note and container list.</eventdescription>
+			</maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-11-18T11:49:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Sonnenberg, Eric</agent>
+               <eventdescription>Updated separated materials.</eventdescription>
+            </maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-19T16:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated links in representation field.</eventdescription>
+			</maintenanceevent>
+		</maintenancehistory>
+	</control>
+	<archdesc level="collection">
+		<did>
+			<unittitle encodinganalog="245$a">Hugh Bolton Jones letters</unittitle>
+			<unitid countrycode="us" repositorycode="mdubc">Coll020</unitid>
+			<origination>
+				<persname relator="creator" encodinganalog="100" source="local">
+					<part>Jones</part>
+					<part>Hugh Bolton</part>
+					<part>1823?-</part>
+				</persname>
+			</origination>
+			<unitdate unitdatetype="inclusive" encodinganalog="245$f">1880-1881</unitdate>
+			<unitdatestructured unitdatetype="inclusive">
+				<daterange>
+					<fromdate>1880</fromdate>
+					<todate>1881</todate>
+				</daterange>
+			</unitdatestructured>
+			<physdesc encodinganalog="300$a$f">1 box (.5 linear feet)</physdesc>
+			<physdescset>
+				<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+					<quantity>1</quantity>
+					<unittype>box</unittype>
+				</physdescstructured>
+				<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+					<quantity>.5</quantity>
+					<unittype>linear feet</unittype>
+				</physdescstructured>
+			</physdescset>
+			<abstract encodinganalog="520$a">A collection of letters addressed to Hugh Bolton Jones, father of a Maryland landscape painter who bore the same name. The most frequent correspondents are his wife Laura, his daughter Louise, and his son also named Hugh Bolton Jones. There are also several letters from Jones's business acquaintances. Because both father and son shared a name it is unclear at times who is being addressed, but the majority of the letters were intended for the senior Hugh Bolton Jones. Includes letters with envelopes and some envelopes without accompanying letters.</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+			<repository>
+				<corpname>
+					<part>University of Maryland, Baltimore County</part>
+				</corpname>
+				<address>
+					<addressline>Albin O. Kuhn Library and Gallery</addressline>
+					<addressline>UMBC</addressline>
+					<addressline>1000 Hilltop Circle</addressline>
+					<addressline>Baltimore, MD 21250</addressline>
+					<addressline>410-455-2353</addressline>
+					<addressline>speccoll@umbc.edu</addressline>
+				</address>
+			</repository>
+		</did>
+		<scopecontent encodinganalog="520">
+			<p>The Hugh Bolton Jones letters range in date from 1880 to 1881, with three undated items. This collection of correspondence includes 20 letters with envelopes and 6 envelopes without accompanying letters, comprising .5 linear feet. </p>
+			<p>The collection contains the correspondence of Hugh Bolton Jones or his wife, Laura, from their children, relatives, friends, and acquaintances. Envelopes are addressed to Hugh Bolton Jones. Those who corresponded with Jones include Hugh Bolton Jones, their son; Louise, their daughter; Lydia A. Hamilton, a relative; [Hank] Jones, Hugh Bolton Jones' brother; Joseph F. Foreman; Francis A. Crook; and E.M. Stephenson. </p>
+			<p>The content of the letters includes personal correspondence and business relationships. Several of the letters reference an exchange of money. The bulk of the letters, however, are the private mail between child and parent. Four letters from Hugh Bolton Jones to his father include his signature, "H. Bolton Jones." </p>
+			<p>One letter in particular seems to have been written to the son, who was a well-known Maryland landscape painter; this letter describes an acquaintance's visit to a French Salon show, including descriptions of paintings by Jones and several other painters.</p>
+		</scopecontent>
+		<bioghist encodinganalog="545">
+			<p>Born circa 1823, Hugh Bolton Jones was the father of the well-known Maryland landscape painter, Hugh Bolton Jones (1848-1927), Francis and Louise. He was married to Laura Jones. The senior Jones resided in Baltimore, at least during the early 1880s.</p>
+		</bioghist>
+		<arrangement encodinganalog="351">
+			<p>Arranged chronologically. Letters that do not clearly list a year are filed at the end of the collection.</p>
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<p>No restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<p>Reproductions allowed for research puporses. Copyright maintained by creator. Reproduction fees should be discussed with the Curator.</p>
+		</userestrict>
+		<prefercite encodinganalog="524">
+			<p>Hugh Bolton Jones letters, Collection 20, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+		</prefercite>
+		<otherfindaid encodinganalog="555">
+			<p>Finding aid available.</p>
+		</otherfindaid>
+		<acqinfo>
+			<p>The collection was purchased using funds from the Joseph L. Arnold Library Endowment in April 2008 from M Benjamin Katz Fine Books/Manuscripts.</p>
+		</acqinfo>
+		<processinfo>
+			<p>The letters arrived were removed from their original envelopes, unfolded, and foldered with the accompanying envelope. Folders are arranged chronologically. Digitization of the collection was completed in June 2014 and was funded by a researcher.</p>
+		</processinfo>
+		<separatedmaterial encodinganalog="544">
+			<archref>"Port Avon" (1878), "Morning on the Severn River" (1873), "A Quiet Morning" (1873), "Twilight on Bear Creek, Baltimore County" (1874), and "Near Union Bridge, Carroll County" (1873) by Hugh Bolton Jones, John William McCoy Collection, George Peabody Library, Peabody Institute of The Johns Hopkins University (Baltimore, MD).</archref>
+			<archref>"Landscape with Ducks," "Landscape," and "Autumn Landscape near Barrington, Vt." by Hugh Bolton Jones, Maryland Historical Society (Baltimore, MD).</archref>
+		</separatedmaterial>
+		<controlaccess>
+			<persname relator="creator" encodinganalog="700" source="local">
+				<part>Jones</part>
+				<part>Laura</part>
+			</persname>
+			<persname relator="creator" encodinganalog="700" source="local">
+				<part>Jones</part>
+				<part>Hugh Bolton</part>
+				<part>1848-1927</part>
+			</persname>
+			<subject encodinganalog="650" source="lc">
+				<part>Landscape paintings</part>
+			</subject>
+			<subject encodinganalog="650" source="lc">
+				<part>Paintings</part>
+			</subject>
+			<geogname encodinganalog="651" source="lc">
+				<part>Maryland</part>
+			</geogname>
+			<geogname encodinganalog="651" source="lc">
+				<part>Baltimore (Md.)</part>
+			</geogname>
+		</controlaccess>
+		<dsc>
+			<c01 level="series">
+				<did>
+					<unittitle>Series I. Hugh Bolton Jones letters</unittitle>
+					<unitdate>1880-1881</unitdate>
+					<physdesc>1 box (.5 linear feet)</physdesc>
+				</did>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">1</container>
+						<unittitle>May 1, 1880: Letter and Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/5">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">2</container>
+						<unittitle>May 15, 1880: Letter and Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/12">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">3</container>
+						<unittitle>[May 20, 1880]: Letter and Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/30">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">4</container>
+						<unittitle>[May 22, 1880]: Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/33">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">5</container>
+						<unittitle>August 31, 1880: Letter and Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/38">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">6</container>
+						<unittitle>September 3, 1880: Letter and Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/43">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">7</container>
+						<unittitle>October 8, 1880: Letter and Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/51">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">8</container>
+						<unittitle>October 8, 1880: Letter and Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/57">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">9</container>
+						<unittitle>October 13, 1880: Letter and Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/62">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">10</container>
+						<unittitle>[November 18, 1880]: Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/15">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">11</container>
+						<unittitle>[November 26, 1880]: Letter and Envelope</unittitle>
+						<unitdate>1880</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/22">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">12</container>
+						<unittitle>[April 11, 1881]: Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/65">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">13</container>
+						<unittitle>April 12, 1881: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/71">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">14</container>
+						<unittitle>[April 16, 1881]: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/77">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">15</container>
+						<unittitle>[June 7, 1881]: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/132">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">16</container>
+						<unittitle>June 11, 1881: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/82">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">17</container>
+						<unittitle>June 20, 1881: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/90">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">18</container>
+						<unittitle>June 24, 1881: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/95">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">19</container>
+						<unittitle>August 23, 1881: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/100">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">20</container>
+						<unittitle>October 4, 1881: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/106">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">21</container>
+						<unittitle>[October 14, 1881]: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/109">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">22</container>
+						<unittitle>October 6, 1881: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/115">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">23</container>
+						<unittitle>October 24, 1881: Letter and Envelope</unittitle>
+						<unitdate>1881</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/120">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">24</container>
+						<unittitle>April 11, (no year): Envelope</unittitle>
+						<unitdate>undated</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/123">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">25</container>
+						<unittitle>[June 29, ?]: Envelope</unittitle>
+						<unitdate>undated</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/126">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container localtype="box">1</container>
+						<container localtype="folder">26</container>
+						<unittitle>December 2, (no year): Letter and Envelope</unittitle>
+						<unitdate>undated</unitdate>
+						<dao daotype="derived" href="http://cdm16629.contentdm.oclc.org/cdm/ref/collection/p16629coll13/id/137">
+							<descriptivenote>
+								<p>Digital file available</p>
+							</descriptivenote>
+						</dao>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>	
+<ead audience="external" relatedencoding="MARC21">
+	<control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<recordid>Coll006</recordid>
+		<representation encodinganalog="856" href="http://library.umbc.edu/speccoll/findingaids/coll006.php" localtype="PHP">Finding Aid</representation>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="245$a">Mildred Grossman papers</titleproper>
+				<author>Peri, Marcia</author>
+			</titlestmt>
+		</filedesc>
+		<maintenancestatus value="new"/>
+		<maintenanceagency countrycode="us">
+			<agencycode>mdubc</agencycode>
+			<agencyname>University of Maryland, Baltimore County (UMBC)</agencyname>
+		</maintenanceagency>
+		<conventiondeclaration>
+			<abbr>DACS</abbr>
+			<citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2015-02-24">Describing Archives: a Content Standard</citation>
+		</conventiondeclaration>
+		<localtypedeclaration>
+			<citation href="https://wiki.umbc.edu/display/library/Special+Collections+Procedures?preview=/11437110/11731403/UMBCProcessing_Description.pdf" lastdatetimeverified="2015-02-24">Archives Processing Manual: Description (2015)</citation>
+			<descriptivenote>
+				<p>The processing manual used in Special Collections for all descriptive platforms, including PastPerfect.</p>
+			</descriptivenote>
+		</localtypedeclaration>
+		<maintenancehistory>
+			<maintenanceevent>
+				<eventtype value="derived"/>
+				<eventdatetime standarddatetime="2015-06-30T09:11:32.282-04:00"/>
+				<agenttype value="machine"/>
+				<agent>Computer</agent>
+				<eventdescription>Conversion from PastPerfect.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-06-30T10:18:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Somach, Emily</agent>
+				<eventdescription>Manual updates including: subjects, other creators, and people as subjects.</eventdescription>
+			</maintenanceevent>
+				<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-08-27T11:30:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Somach, Emily</agent>
+				<eventdescription>Manual additions and updates including: container list, scope and content note, biographical time line, and arrangement lists.</eventdescription>
+			</maintenanceevent>
+            <maintenanceevent>
+               <eventtype value="revised"/>
+               <eventdatetime standarddatetime="2015-08-26T01:20:00-04:00"/>
+               <agenttype value="human"/>
+               <agent>Somach, Emily</agent>
+               <eventdescription>Manual additions and updates including: biographical time line, scope and content note, arrangement lists, and container list.</eventdescription>
+            </maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-13T15:07:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated bibliography and related materials.</eventdescription>
+			</maintenanceevent>
+			<maintenanceevent>
+				<eventtype value="revised"/>
+				<eventdatetime standarddatetime="2015-11-19T16:53:00-04:00"/>
+				<agenttype value="human"/>
+				<agent>Sonnenberg, Eric</agent>
+				<eventdescription>Updated links in representation field.</eventdescription>
+			</maintenanceevent>
+		</maintenancehistory>
+	</control>
+	<archdesc level="collection">
+		<did>
+			<unittitle encodinganalog="245$a">Mildred Grossman papers</unittitle>
+			<unitid countrycode="us" repositorycode="mdubc">Coll006</unitid>
+			<origination>
+				<persname relator="creator" encodinganalog="100" source="lc">
+					<part>Grossman</part>
+					<part>Mildred</part>
+					<part>1916-1988</part>
+				</persname>
+			</origination>
+			<unitdate unitdatetype="inclusive" encodinganalog="245$f">1929-1995</unitdate>
+			<unitdatestructured unitdatetype="inclusive">
+				<daterange>
+					<fromdate>1929</fromdate>
+					<todate>1995</todate>
+				</daterange>
+			</unitdatestructured>
+			<physdesc encodinganalog="300$a$f">7 boxes (5 linear feet)</physdesc>
+			<physdescset>
+				<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+					<quantity>7</quantity>
+					<unittype>boxes</unittype>
+				</physdescstructured>
+				<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+					<quantity>5</quantity>
+					<unittype>linear feet</unittype>
+				</physdescstructured>
+			</physdescset>
+			<abstract encodinganalog="520$a">Collection contains photographs, professional and personal correspondence, diaries, daybooks, financial, medical, and legal documents, and extensive paperwork regarding Mildred Grossman's political activism, such as involvement with thes Teachers' Union of the City of New York and the New York Hotel Trades Council. Also contains evidence of her membership in the Photo League of NY and documentary photography endeavors. Other notable materials include legal papers and pamphlets written by her brother-in-law, Rafael Federman, and paperwork on a pension that her husband Mark Berkowitz, a Holocaust survivor, was receiving from Germany. Mildred Grossman’s professional photographs have been removed to the UMBC Photography Collection.</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+				<language langcode="yid">Yiddish</language>
+				<language langcode="pol">Polish</language>
+				<language langcode="ger">German</language>
+			</langmaterial>
+			<repository>
+				<corpname>
+					<part>University of Maryland, Baltimore County</part>
+				</corpname>
+				<address>
+					<addressline>Albin O. Kuhn Library and Gallery</addressline>
+					<addressline>UMBC</addressline>
+					<addressline>1000 Hilltop Circle</addressline>
+					<addressline>Baltimore, MD 21250</addressline>
+					<addressline>410-455-2353</addressline>
+					<addressline>speccoll@umbc.edu</addressline>
+				</address>
+			</repository>
+		</did>
+		<scopecontent encodinganalog="520">
+			<p>This collection contains the papers, photographs, books, and ephemera of Mildred Grossman Berkowitz. The documents span from her high school years in 1929 until seven years after her death, in 1995. The collection is divided into six series, based both on type of activity and kind of document. As a general rule, documents within series have been arranged in date order. The first series, Union Activism, is based on Mildred's activities with various unions. The bulk of this series is included in the first sub-series, "Teachers' Union," which includes details about Mildred's tireless efforts to reinstate thirty-three teachers that had been expelled from the New York City Public School system in the 1950s due to suspected Communist leanings. The transcript for Diana Wolman's (one of the teachers) HUAC hearing can be found (in html format) at http://www.access.gpo.gov/congress/senate/mccarthy/83869.txt. Because of the focus of the series on a particular activity, it includes various kinds of documents, such as correspondence, case files, clippings, and notes. From the beginning of her work on the case until 1974, when the teachers were finally reinstated, there is evidence of the close friendships that were built between the people working on the case.</p>
+			<p>The second sub-series, "Hotel Union," contains photographs and documents relating to Mildred's work with the Hotel Trade Council for an exhibit called "Portrait of a Union." The papers include the history of the union until the exhibit, as well as goals and challenges that still needed to be met by the hotel workers. The photographs included in this series, which were originally included with the rest of the HTC papers, are of various workers in the hotel industry. More photographs of the workers are included in the photography section, but as these were specifically part of the HTC exhibit, they have been retained in the series. The second series is Notes and Correspondence. Mildred was a copious note taker, and kept a record of every meeting she attended (and as a member of the ASMP, the Teachers' Union, the Workman's Circle, and other numerous groups, there were many meetings that she attended throughout her life). Particularly prevalent in the notes is information regarding an exhibit depicting the history of the Hotel Trade Council called "Portrait of a Union." The actual drafts and photos are in the first series, mentioned above, but all of Mildred's handwritten notes on the subject are included here.</p>
+			<p>This series includes the bulk of Mildred's correspondence aside from that dealing with the Teachers' Union case. It includes professional letters requesting photographs (for exhibits, publications, etc.), commissions for Mildred's photography skills (from the Hotel Trades Council and the Oil, Chemical and Atomic Workers International Union), various correspondence regarding employment (with Long Island University, Special Services of Queens, and the NY Public Schools), personal correspondence (of particular note is Wendell Phillips Dodge, noted explorer), and medical correspondence pertaining to both Mark and Mildred. A postcard from 1939 indicates Mildred's membership in the American Labor Party.</p>
+			<p>The third series, Financial, includes all of Mildred's documents relating to her finances. As noted above, she was a very careful note-taker, and kept records for just about everything. Included in the series are receipts and bills for various objects or services that Mildred used, such as furniture, photography, and electricity, or that she provided, such as photographs. There are detailed records in Mildred's handwriting of various transactions throughout the years, as well as her notes regarding how much compensation she should receive from the state of New York as compensation for the loss of money while suspended from teaching. Two sub-series are particularly noteworthy. The first, "German Pension Papers," does not deal with Mildred directly, but rather her husband. Because Motel Berkowitz had been in a concentration camp during World War II, he was entitled to reparations from the German government. This series includes some legal papers (in Polish, German, and English), regarding the reparations, as well as documents proving Motel's eligibility for the pension plan, verifying his identity and history.</p>
+			<p>The second sub-series, "Insurance Papers," consists of correspondence between Mildred, her lawyer Benjamin Zelman (who was also the lawyer on the Teachers' Union case), and Mutual of Omaha Insurance Co. Mildred's insurance policy was for teachers only, and so the insurance company tried to verify that Mildred was actually teaching. Mildred, in her inimitable stubborn way, refused to answer the question, resulting in subsequent lawyer intervention and many letters from the insurance company. All of the correspondence in the sub-series is included in duplicate.</p>
+			<p>The fourth series contains both medical and legal documents relating directly to Mildred or her family. Included in this series are numerous passports for Mildred and Motel, as well as Mildred's IDs for the NY Department of Social Services and The Cooper Union. Included with Mark's passports are international certificates of vaccination. In terms of legal documents, the contents are rather eclectic. Mildred's high school career is depicted here, with a diploma, a report card, and various awards she received while in school (from the Little Mothers' League, the Anti-Litter Bureau, the Arista League, Spanish class, the Service League, Honor Roll distinctions, and a scholarship certificate from The City College of New York). Various other legal documents include a certified copy of a birth certificate, various travel documents, immigration documents for Mildred's parents and husband, and a teaching certificate. Also included are a draft and an actual contract for Mildred's work with the Hotel and Club Employees Union Local 6.</p>
+			<p>The medical documents in the collection relate to both Mildred and Motel, including a notification of Mildred's death from the Health Insurance Plan of Greater New York. It also includes membership information in The Workman's Circle's insurance plan. Funeral papers seemed appropriate to include with medical papers, and so the series also includes information about the burial and perpetual for by Motel. Included as well is a series of drafts for a eulogy delivered at Mildred's funeral, and an envelope with Mildred's gravesite address that included pictures of his late wife. Series V includes a mix of documents that do not fit into one of the above series. Included is Mildred's yearbook, "The Lexicon," from the School of Business and Civil Administration of the College of the City of New York, a number of address books, various awards and honors received by Mildred Grossman, for photography, alcoholism recovery training, and the Teachers' Union case. (Mildred did receive a certificate from the National Urban League, which was not included in this series, as it was considered an attachment to a letter, and so was included with general correspondence. Also included are clippings and printed materials regarding Mildred's various projects, often including Mildred's photographs, regarding the Hotel Workers Union, The Oil, Chemical and Atomic Workers International Union, and the Teachers Union. Published materials that were retained with the collection, such as books regarding legalities of teachers and teaching in New York are included here. Other publications retained in the collection a magazine called "Friday" from January 1941, "There Are Men Inside: A presentation by Oil, Chemical and Atomic Workers International Union," and "Hotel and Club Voice" (November 1963), all of which contain images photographed by Mildred. Other miscellanea are various membership cards and photographic (unmailed) postcards belonging to Mildred Grossman, exhibition catalogs, a press release regarding an exhibit and some of Mildred's applications for various exhibitions. A final sub-series within the Miscellaneous is not at all connected with Mildred or her various projects. This sub-series contains extensive information on the Gizela and Rafael Federmans, Motel's sister and brother-in-law, who came to the United States after World War II. The sub-series contains miscellaneous photographs, various Yiddish publications by Rafael regarding the Jewish Labor Bund, immigration and death certificates, and a will for Rafael Federman, written in Yiddish.</p>
+			<p>The sixth series, Diaries/Daybooks, quite possibly contains the materials for a researcher to see Mildred as she lived her daily life. This includes Mildred's planners, daybooks, and diaries, spanning about forty years of her life. The earliest book included here is a diary from 1950 recording one of her trips abroad with fascinating details of some of the people that she met. Eleven daybooks, from 1959-1969, list Mildred's day-to-day events and appointments. Papers that had been inserted into the daybooks were sometimes kept and sometimes removed to other folders, depending on appropriateness. Some, such as photo lists, miscellaneous notes, Peanuts comic strip clippings (1964, 1966), and a list of birthdays and anniversaries (1966) have been left in the books for context. Correspondence, ID cards, and receipts, however, have been removed to their respective folders. The back of the daybooks include a "cash account" section, which Mildred used to list monthly transactions. The four daily planners (1976-1977, 1979, 1981) include similar information as the daybooks, albeit in less detail.</p>
+			<p>The seventh series contains Mildred Grossman's personal photos, including six photo albums as well as loose photographs. This series also includes photographs taken by photographers other than Mildred (generally personal photos). Her professional photos have been removed to the UMBC photography collection. The eighth series contains items of ephemera: Six stamps belonging to Mildred that were used for labeling her photographs, and her Leica "flash unit" in a box.</p>
+		</scopecontent>
+		<bioghist encodinganalog="545">
+			<p>Mildred Grossman (1916-1988) was a New York City public school teacher, civil rights activist, unionist, and an award-winning photographer. She is well-known for her documentary photography, association with the Photo League, and involvement with many unions and activist organizations. She led 32 other teachers in a civil case against the New York City Public Schools after they were fired for accusations of being Communist sympathizers.</p>
+			<chronlist>
+				<chronitem>
+					<datesingle>1916</datesingle>
+					<event>Born in Brooklyn, NY</event>
+				</chronitem>
+				<chronitem>
+					<daterange>
+						<fromdate>1933</fromdate>
+						<todate>1937</todate>
+					</daterange>
+					<event>Earns a Bachelor of Business Administration, with a Teaching Certificate, from the College of Business and Accounting of the City College of New York (now known as Baruch College). At CCNY, is credited as student most responsible for securing readmission of women.</event>
+				</chronitem>
+				<chronitem>
+					<daterange>
+						<fromdate>1937</fromdate>
+						<todate notbefore="1937">?</todate>
+					</daterange>
+					<event>Works for Coty Cosmetics in Manhattan.</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1939</datesingle>
+					<event>Attends NYS Communist Party summer school.</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1940</datesingle>
+					<event>Begins teaching business accounting at Central Commercial High School in Manhattan. Active in the Teachers Union of NY.</event>
+				</chronitem>
+				<chronitem>
+					<daterange>
+						<fromdate notbefore="1946">Late 1940s
+						</fromdate>
+						<todate notafter="1940"/>
+					</daterange>
+					<event>Joined the Photo League of NY, taking classes in documentary and street photography.</event>
+				</chronitem>
+				<chronitem>
+					<daterange>
+						<fromdate notbefore="1946">Late '40s</fromdate>
+						<todate notafter="1953">Early '50's</todate>
+					</daterange>
+					<event>Begins working as staff photographer for the Teacher News, the publication of the Teachers' Union.</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1953</datesingle>
+					<chronitemset>
+						<event>Named as a former Communist at HUAC hearing in NYC</event>
+						<event>Suspended as teacher after refusing to answer part of the Superintendent's question concerning past and present membership in the CP.</event>
+					</chronitemset>
+				</chronitem>
+				<chronitem>
+					<datesingle>1954</datesingle>
+					<event>Dismissed as a teacher by the Board of Education of NYC</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1955</datesingle>
+					<chronitemset>
+						<event>Appeal of dismissal denied by the State Commissioner of Education</event>
+						<event>Two photographs included the Family of Man exhibition at the Museum of Modern Art, NYC</event>
+						<event>Begins working as a free-lance photographer, commencing a long-standing relationship with the Hotel Workers Local #5 in NYC</event>
+					</chronitemset>
+				</chronitem>
+				<chronitem>
+					<datesingle>1957</datesingle>
+					<event>Meets Dr. M. L. King, Jr. at the office of the Hotel Workers Local #5 in NYC</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1958</datesingle>
+					<event>Marries Motel "Mark" Berkowitz, a Holocaust survivor from Poland</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1960</datesingle>
+					<event>Winner in America's Many Faces, sponsored by the National Urban League</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1965</datesingle>
+					<event>Travels to Poland with Mark</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1966</datesingle>
+					<event>Wins a Polish competition with "Strike Rally"</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1967</datesingle>
+					<event>Feinberg Law considered unconstitutional by Supreme Court. Grossman leads a group of teachers seeking reinstatement</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1968</datesingle>
+					<event>Participates in Poor People's Campaign, contributes photos to The New Movement: Power for the Powerless (ed. Karen Kerpen)</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1971</datesingle>
+					<event>Working as free-lance photographer, social worker, teacher of photog</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1972</datesingle>
+					<event>Teachers sue Board of Education for reinstatement</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1973</datesingle>
+					<event>Teachers are reinstated, receive NYCLU Florina Lasker Civil Liberties Award from the NYC Human Rights Commission.</event>
+				</chronitem>
+				<chronitem>
+					<daterange>
+						<fromdate>1974</fromdate>
+						<todate>1975</todate>
+					</daterange>
+					<event>Substitute teaches at Central Commercial High School (now Norman Thomas High School)</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1977</datesingle>
+					<event>Heads tenant union in her building</event>
+				</chronitem>
+				<chronitem>
+					<datesingle>1988</datesingle>
+					<event>Dies of cancer</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<arrangement encodinganalog="351">
+			<p>This collection is divided into eight primary series: I. Union Activism, II. Notes and Correspondence, III. Financial, IV. Medical/Legal, V. Miscellaneous, VI. Diaries/Daybooks, VII. Personal Photographs, VIII. Ephemera.</p>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series I. Union Activism</head>
+				<item>Teachers' Union: Correspondence, Case Files, Notes and "Press and Pressure"</item>
+				<item>Hotel Union: Photos, drafts, outlines</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series II. Correspondence and Notes</head>
+				<item>Correspondence</item>
+				<item>Notes</item>
+			</list>		
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series III. Financial</head>
+				<item>Receipts/Bills</item>
+				<item>Check Registers</item>
+				<item>Taxes</item>
+				<item>German Pension Papers</item>
+				<item>Insurance Papers</item>
+				<item>Misc.</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series IV. Medical/Legal</head>
+				<item>Passports, IDs</item>
+				<item>Legal Papers</item>
+				<item>Contracts</item>
+				<item>Medical Papers</item>
+				<item>Funeral Papers</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series V. Miscellaneous</head>
+				<item>Address books</item>
+				<item>Awards and Honors</item>
+				<item>Clippings/Printed Materials</item>
+				<item>Membership Cards/Postcards</item>
+				<item>Exhibition Catalogs/Memorabilia</item>
+				<item>Yearbooks</item>
+				<item>Federman Papers</item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series VI. Diaries and Daybooks</head>
+				<item></item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series VII. Personal Photographs</head>
+				<item></item>
+			</list>
+			<list listtype="ordered" numeration="upper-alpha">
+				<head>Series VIII. Ephemera</head>
+				<item></item>
+			</list>			
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<p>No restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<p>Reproductions allowed for research purposes. Copyright maintained by the creator.</p>
+		</userestrict>
+		<prefercite encodinganalog="524">
+			<p>Mildred Grossman papers, Collection 6, Special Collections, University of Maryland, Baltimore County (Baltimore, MD).</p>
+		</prefercite>
+		<otherfindaid encodinganalog="555">
+			<p>Finding aid available.</p>
+		</otherfindaid>
+		<acqinfo>
+			<p>PHMS 2002-23, 2003-01; This collection was donated by Mark Berkowitz, and arrived in two accessions. The first, consisting of Mildred's photos, included two loose-leaf binders contained 120 photographs, as well as silver prints and negatives. This came from the house of Mark Berkowitz on 12/15/89. The second accession came from Minerva Contreras on 12/17/02, and included the Mildred Grossman Archive, as well as a total of 5810 items in a combination of photographs and negatives.</p>
+		</acqinfo>
+		<processinfo>
+			<p>The collection was processed by Michelle Margolis under the supervision of Marcia Frank Peri and completed in May 2006. The collection arrived in a generally good condition, in regular boxes, for both accessions. The contents were wrapped in brown paper in the first accession.</p>
+			<p>For the sake of preservation, acid-damaged papers were copied onto acid-free paper, and the original papers were retained. There were four folders in the collection that had been labeled by Mildred, but only one ("Press and Pressure") was retained with the original title, as the other folders did not seem to have any unifying factors, nor were the titles appropriate to the contents. Of the remaining folders, "Currin" was renamed "Insurance Papers," and "My Mistakes" and "Book Prints" were included with the Hotel Union Papers. Staples and paper clips were removed from the documents, and envelopes were generally discarded (except in one case, where the decoration, hand-drawn on the actual envelope was quite unique) unless it was needed for identification of a date of correspondence. One envelope, left unopened when the collection was received, has remained unopened. In the case of multiple copies of any documents, only two were retained.</p>
+			<p>A number of books not directly related to Mildred or the collection have been removed from the collection, to be placed in stacks. A list of those books follows the processing notes. Although there is a folder for Awards and Honors, the certificate from the National Urban League has been included in the Correspondence and Notes, as it is actually an enclosure to a letter. The professional photographs and negatives included in the collection have been removed to the UMBC Photography collection, and are unprocessed as of May 23, 2006. Due to the relatively small size of the collection, the correspondence and other dated documents have been arranged in simple date order.</p>
+		</processinfo>
+		<separatedmaterial encodinganalog="544">
+			<archref>Hotel Employees and Restaurant Employees International Union, Local 6 Photographs; PHOTOS 098; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</archref>
+			<archref>Farmers Union Central Exchange Records. Minnesota Historical Society. Contains photographs by Mildred Grossman.</archref>
+		</separatedmaterial>
+		<controlaccess>
+			<persname relator="creator" encodinganalog="700" source="local">
+				<part>Federman</part>
+				<part>Rafael</part>
+			</persname>
+			<persname relator="creator" encodinganalog="700" source="local">
+				<part>Berkowitz</part>
+				<part>Motel</part>
+			</persname>
+			<subject encodinganalog="650" source="lc">
+				<part>Grossman, Mildred, 1916-1988</part>
+				<part>Archives</part>
+			</subject>
+			<corpname encodinganalog="610" source="lc">
+				<part>Teachers' Union of the City of New York</part>
+			</corpname>
+			<corpname encodinganalog="610" source="lc">
+				<part>New York Hotel Trades Council</part>
+			</corpname>
+			<corpname encodinganalog="610" source="lc">
+				<part>Photo League</part>
+			</corpname>
+			<subject encodinganalog="650" source="lc">
+				<part>Documentary photography</part>
+			</subject>
+			<subject encodinganalog="650" source="lc">
+				<part>Labor unions</part>
+				<part>New York (State)</part>
+				<part>New York</part>
+			</subject>
+			<subject encodinganalog="650" source="lc">
+				<part>Holocaust, Jewish (1939-1945)</part>
+				<part>Reparations</part>
+			</subject>
+			<subject encodinganalog="650" source="lc">
+				<part>Political activists</part>
+				<part>New York (State)</part>
+				<part>New York</part>
+			</subject>
+		</controlaccess>
+		<dsc>
+			<c01 level="series">
+				<did>
+					<unittitle>Series I. Union Activism</unittitle>
+					<unitdate>1959-1974; bulk 1959, 1967-1974</unitdate>
+					<physdesc>9 folders (375 items)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Mildred's correspondence, notes, case files, and newspaper clippings from the Teachers' Union trial from 1967-1974, as well as outlines, drafts, and photos, for an exhibit for the Hotel Trades Council's exhibit: "Portrait of a Union" in 1959, have been divided into two sub-series, Teachers' Union and Hotel Union.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries I.A. Teachers' Union</unittitle>
+						<unitdate>1967-1974; bulk 1973-1974</unitdate>
+						<physdesc>8 folders (330 items)</physdesc>
+					</did>
+					<scopecontent>
+						<p>This sub-series includes correspondence, case files, and newspaper articles, in order by type of document, then date order, as well as Mildred's notes pertaining to the Teachers' Union case.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">1</container>
+							<unittitle>Teachers' Union: Correspondence (Undated; 1967-1969)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">2</container>
+							<unittitle>Teachers' Union: Correspondence (1970-1972)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">3</container>
+							<unittitle>Teachers' Union: Correspondence (1973)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">4</container>
+							<unittitle>Teachers' Union: Correspondence (1974)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">5</container>
+							<unittitle>Teachers' Union: Case Files (April 1967-July 1972)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">6</container>
+							<unittitle>Teachers' Union: Case Files (Sept. 1972-October 1974)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">1</container>
+							<unittitle>Teachers' Union: Notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">2</container>
+							<unittitle>Teachers' Union: "Press and Pressure"</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries I.B. Hotel Union</unittitle>
+						<unitdate>1959</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This sub-series contains outlines, drafts, and photographs relating to an exhibit for the Hotel Trades Council's exhibit: "Portrait of a Union."</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">3</container>
+							<unittitle>Hotel Union: Photos, drafts, outlines</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series II. Correspondence and Notes</unittitle>
+					<unitdate>1939-1992; bulk 1957-1972</unitdate>
+					<physdesc>3 folders (125 items)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series contains all of Mildred's correspondence and notes not related to the Teachers' Union case. It is divided into two sub-series: Correspondence and Notes</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries II.A. Correspondence</unittitle>
+						<unitdate>1939-1992; bulk 1957-1972</unitdate>
+						<physdesc>2 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This sub-series contains all of Mildred's correspondence not relating to the Teacher's Union case. It is arranged in date order</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">4</container>
+							<unittitle>Correspondence (Undated; 1939-1969)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">5</container>
+							<unittitle>Correspondence (1970-1992)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries II.B. Notes</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This sub-series includes all of Mildred's notes not relating to the Teachers' Union case.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">2</container>
+							<container localtype="folder">6</container>
+							<unittitle>Notes</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series III. Financial</unittitle>
+					<unitdate>1954-1995</unitdate>
+					<physdesc>6 folders (125 items)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series includes all of Mildred's financial documents. It is divided into six series: Receipts/Bills, Check Registers, Taxes, German Pension Papers, Insurance Papers, and Financial Miscellaneous.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries III.A. Receipts/Bills</unittitle>
+						<unitdate>1954-1987; bulk 1965-1966, 1973-1979</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This sub-series includes receipts and bills. They are arranged in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">1</container>
+							<unittitle>Receipts/Bills</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries III.B. Check Registers</unittitle>
+						<unitdate>1982-1988</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This series includes the check registers from the end of Mildred's life. They are placed in rough date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">2</container>
+							<unittitle>Check Registers</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries III.C. Taxes</unittitle>
+						<unitdate>1954-1988; bulk 1954-1955, 1973-1975, 1986-1988</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This series includes Mildred's tax forms and tax information. It is arranged in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">3</container>
+							<unittitle>Taxes</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries III.D. German Pension Papers</unittitle>
+						<unitdate>1949-1995; bulk 1949-1960</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This series is arranged in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">4</container>
+							<unittitle>German Pension Papers</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries III.E. Insurance Papers</unittitle>
+						<unitdate>1969-1970</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>The series is arranged in date order</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">5</container>
+							<unittitle>Insurance Papers</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries III.F. Miscellaneous</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This series contains miscellaneous documents relating to Mildred's finances. Included is information about her rent, teacher retirement, and a handwritten list of bank accounts and their contents.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">6</container>
+							<unittitle>Miscellaneous</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series IV. Medical/Legal</unittitle>
+					<unitdate>1929-1991</unitdate>
+					<physdesc>5 folders (100 items)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series contains all of Mildred Grossman's legal papers and items not related to the Teachers' Union case, as well as medical and funeral papers. It is divided into five sub-series: Passports/IDs, Legal Papers, Contracts, Medical Papers, and Funeral Papers.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries IV.A. Passports, IDs</unittitle>
+						<unitdate>1940-1995</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">7</container>
+							<unittitle>Passports, IDs</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries IV.B. Legal Papers</unittitle>
+						<unitdate>1929-1988; bulk 1929-1950, 1974</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This sub-series includes all kinds of legal documents and related materials for Mildred Grossman. They have been arranged in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">8</container>
+							<unittitle>Legal Papers</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries IV.C. Contracts</unittitle>
+						<unitdate>1959</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This sub-series contains a draft and an actual contract for Mildred's work with the Hotel and Club Employees Union Local 6.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">9</container>
+							<unittitle>Contracts</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries IV.D. Medical Papers</unittitle>
+						<unitdate>1954-1988</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This sub-series is arranged in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">10</container>
+							<unittitle>Medical Papers</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries IV.E. Funeral Papers</unittitle>
+						<unitdate>1977-1991; bulk 1978-1980, 1988</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This sub-series is arranged in date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">11</container>
+							<unittitle>Funeral Papers</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series V. Miscellaneous</unittitle>
+					<unitdate>1937-1983; bulk 1953-1974</unitdate>
+					<physdesc>10 folders (150 items)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series includes all of Mildred's miscellaneous documents and objects. The series was divided into seven sub-series: Yearbooks, Address Books, Awards and Honors, Clippings/Printed Materials, Membership Cards/Postcards, Exhibition Catalogs/Memorabilia, and Federman Papers</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries V.A. Yearbooks</unittitle>
+						<unitdate>1937</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container localtype="box">3</container>
+							<container localtype="folder">12</container>
+							<unittitle>Yearbooks</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries V.B. Address Books</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>2 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This sub-series contains various kinds of address books and lists of addresses.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">1</container>
+							<unittitle>Address Books</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">2</container>
+							<unittitle>Address Books</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries V.C. Awards and Honors</unittitle>
+						<unitdate>1962-1973; bulk 1962, 1971, 1973</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">3</container>
+							<unittitle>Awards and Honors</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries V.D. Clippings/Printed Materials</unittitle>
+						<unitdate>1953-1974, undated</unitdate>
+						<physdesc>3 folders</physdesc>
+					</did>
+					<scopecontent>
+						<p>This series has been arranged in rough date order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">4</container>
+							<unittitle>Clippings</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">5</container>
+							<unittitle>Printed Materials</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">6</container>
+							<unittitle>Printed Materials</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries V.E. Membership Cards/Postcards</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">7</container>
+							<unittitle>Membership Cards/Postcards</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries V.F. Exhibition Catalogs/Memorabilia</unittitle>
+						<unitdate>1954-1965</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">8</container>
+							<unittitle>Exhibition Catalogs/Memorabilia</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries V.G. Federman Papers</unittitle>
+						<unitdate>1939-1983; bulk 1940-1972</unitdate>
+						<physdesc>1 folders</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">9</container>
+							<unittitle>Federman Papers</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series VI. Dairies and Daybooks</unittitle>
+					<unitdate>1950-1981</unitdate>
+					<physdesc>16 items</physdesc>
+				</did>
+				<c02 level="file">
+					<did>
+						<container localtype="box">5</container>
+						<unittitle>Diaries and Daybooks</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series VII.  Personal Photographs</unittitle>
+					<physdesc>275 items</physdesc>
+				</did>
+				<c02 level="file">
+					<did>
+						<container localtype="box">6</container>
+						<unittitle>Personal Photographs</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series VIII. Ephemera</unittitle>
+					<physdesc>7 items</physdesc>
+				</did>
+				<c02 level="file">
+					<did>
+						<container localtype="box">8</container>
+						<unittitle>Ephemera</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>
