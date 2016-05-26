@@ -1,0 +1,178 @@
+/****************************
+CSS for EAD-XML Web Display
+Created by: Emily Somach
+
+4.27.2016 - updated styling for dropdown descriptions
+*****************************/
+
+.hidden {
+	display: none;
+}
+
+.unhidden {
+	display: block;
+}
+
+.collinfo {
+	border:1px solid #999999;
+	padding:5px;
+	width:500px;
+	margin-left:5em;
+}
+
+.aokcolumn {padding-bottom:25px;}
+
+#images {
+	margin: auto;
+	width: 90%;
+	text-align: center;
+}
+
+#images img {
+	margin: 5px;
+	border: none;
+}
+
+
+#firstbox, #header, #timeline {
+	margin-bottom: 15px;
+}
+
+#table-content {
+	float:left;
+}
+
+#overviewtable {
+	table-layout: auto;
+	text-align: left;
+	padding: 5px;
+	font-size: 14px;
+}
+
+#overviewtable tr td:FIRST-CHILD {
+	font-weight: bold;
+	text-align: right;
+	width: 25%;
+	padding-right: 8px;
+}
+
+td {
+	vertical-align: top;
+}
+
+nav {
+	width: 250px;
+	text-align: left;
+
+	position: fixed;
+}
+
+section ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	font-weight: normal;
+	font-size: 13.5px;
+}
+
+#timeline {
+	table-layout: auto;
+	text-align: left;
+	padding: 5px;
+	font-size: 14px;
+}
+
+#timeline tr td:FIRST-CHILD {
+	font-weight: bold;
+	text-align: right;
+	width: 20%;
+	padding-right: 10px;
+}
+
+.section6 ol {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.section6 h1, .section6 h2, .section6 h3 {
+	margin-top: 0px;
+}
+
+.expand {
+	font-size: 12.5px;
+	font-weight: bold;
+	text-align: right;
+}
+
+#folder {
+    table-layout: fixed;
+	text-align: center;
+	font-size: 12.5px;
+}
+
+#folder tr:first-child td{
+    font-weight: bold;
+}
+
+#folder tr td:first-child {
+	width: 450px;
+	text-align: left;
+}
+
+#folder tr td:nth-child(5) { 
+	min-width: 110px;
+	width: auto;
+}
+
+#folder tr td:nth-child(2), tr td:nth-child(3), tr td:nth-child(4) {
+	width: auto;
+	min-width: 50px;
+}
+
+#folder tr td div {
+	font-style: italic;
+	margin-bottom: 5px;
+	margin-left: 15px;
+	margin-right: 110px;
+	padding-left: 10px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background-color: #f0f0f0;
+	border-left-style: solid;
+	border-width: thin;
+	text-indent: 0;
+	}
+
+#folder td {
+	padding: 1px;
+	vertical-align: baseline;
+}
+
+#folder p {
+	margin-left: 0px;
+}
+
+h1, h2, h3 {
+	margin-bottom: 0px;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 26px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+h3 {
+    font-style: italic;
+    font-size: 14px;
+}
+	
+p{
+	margin-left: 15px;
+}
+
+#container-nav {padding-bottom:3px;} /* Fix weird too short top nav menu issue */
